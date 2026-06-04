@@ -1,0 +1,233 @@
+[
+  {
+    "code": "MMAN1130",
+    "title": "Design and Manufacturing",
+    "subject": "MMAN",
+    "level": 1,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Mech & Manf. Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MMAN1130.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MMAN1130",
+    "description": "Have you ever wondered how devices and machines are manufactured with such precision? Have you pondered over the manufacturing process involved in creating robotic movements and appendages? All of this is possible due to fundamental machining methods. Without understanding the physical construction of our designs, it is impossible to create successful prototypes and products.\nIn this course, you will learn how to create graphical outputs such as 3D models and engineering drawings that facilitate design solutions. Additionally, you will acquire the skills necessary to take your computer-aided design (CAD) model from the virtual world and machine it on a computer numerical control (CNC) machine. By the end of the term, you will have the skills and knowledge to marvel at your own machined creation.",
+    "enrolmentConditions": "No conditions for enrolment found on Handbook page.",
+    "terms": [
+      "T2",
+      "T3"
+    ]
+  },
+  {
+    "code": "MMAN2300",
+    "title": "Engineering Mechanics 2",
+    "subject": "MMAN",
+    "level": 2,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Mech & Manf. Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MMAN2300.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MMAN2300",
+    "description": "This course provides essential knowledge and skills for students to analyse the kinematics and kinetics of rigid bodies and mechanical vibrations. Topics include the following: Plane kinematics and kinetics of rigid bodies; Equations of motion, work and energy; Introduction to mechanical vibration; Free and forced responses of single degree-of-freedom spring-mass-damper systems, vibration isolation; Harmonic analysis; Linear vibrations of multi-degree-of freedom systems.",
+    "enrolmentConditions": "Exclusion: MECH2300, MECH3300 AND Prerequisite: (CVEN1300 or MINE1300 or MMAN1300 or ENGG1300 or DPST1072) AND (MATH2019 or MATH2018 or (MATH2111 and MATH2221) or (MATH2011 and MATH2121) or (MATH2069 and MATH2121))",
+    "terms": [
+      "T2",
+      "T3"
+    ]
+  },
+  {
+    "code": "MMAN2700",
+    "title": "Thermodynamics",
+    "subject": "MMAN",
+    "level": 2,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Mech & Manf. Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MMAN2700.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MMAN2700",
+    "description": "This course introduces the students to the terminology, principles and methods used in engineering thermodynamics.\nThe word \u00e2\u0080\u009cthermodynamics\u00e2\u0080\u009d was coined by Lord Kelvin from Greek words for heat (therme) and power (dynamis). Given that power is the rate at which work is performed, it follows that the word thermodynamics captures two of the most important ways in which energy is transferred, i.e. through heat and work. The subject of thermodynamics is therefore about energy and its transformations.\nThermodynamics has a broad application area ranging from microscopic organisms to common household appliances, transportation vehicles, power generation systems and even philosophy. The knowledge of thermodynamics gained in this course is essential to many other courses studied in mechanical engineering degree programme, such as advanced thermofluids, aerospace propulsion, internal combustion engines, refrigeration, air conditioning and solar energy.\nThis introductory course covers basic concepts of thermodynamics: Systems, property, state, path, process; Work and heat; Properties of pure substances; Tables of properties and equations of state; First law of thermodynamics; Analysis of closed and open systems; Second law of thermodynamics; Carnot cycle; Clausius inequality, entropy, irreversibility, isentropic efficiencies; Air-standard cycles; Vapour cycles.",
+    "enrolmentConditions": "Prerequisite: (MATH1131 or DPST1013 or MATH1141) and (PHYS1121 or PHYS1131 or DPST1021 or DPST1023 or PHYS1141)",
+    "terms": [
+      "T1",
+      "T3"
+    ]
+  },
+  {
+    "code": "MMAN3200",
+    "title": "Linear Systems and Control",
+    "subject": "MMAN",
+    "level": 3,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Mech & Manf. Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MMAN3200.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MMAN3200",
+    "description": "This course aims to introduce students to the fundamental principles of control theory for dynamic systems. It provides an overview of modelling, feedback control, and stability analysis as the essential foundation for designing control systems for a wide variety of applications, such as stability control, fluid flow control, and temperature regulation.\nThroughout the course, students will learn key concepts and tools for system design and analysis, including: ordinary differential equations, linearisation techniques, Laplace transforms, transfer functions, block diagrams, transient and steady-state response of first and second-order systems, poles and zeros, the concept of system stability, root locus, Bode plots, PID control, state space models (SISO and MIMO systems), state feedback control, state observers, controllability and observability.\nThis course is designed for students in Aerospace, Mechanical, and Mechanical and Manufacturing Engineering, and incorporates a wide range of examples from various engineering disciplines.",
+    "enrolmentConditions": "Prerequisite: ELEC1111 and MMAN2300 Exclusion: MECH3211, MTRN3212",
+    "terms": [
+      "T2"
+    ]
+  },
+  {
+    "code": "MMAN3400",
+    "title": "Mechanics of Solids 2",
+    "subject": "MMAN",
+    "level": 3,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Mech & Manf. Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MMAN3400.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MMAN3400",
+    "description": "Membrane stresses in axisymmetric shells, simple bending, bending of composite and reinforced concrete beams, principal and cross moments of area, unsymmetrical bending, transverse shear stresses in beams, shear centre, column buckling, theory of elasticity: compatibility - equilibrium - constitutive equations - plane stress/strain, st Venant's principal, application of theory of elasticity to axisymmetric problems, torsion of prismatic bars, torsion of multiply connected thin-walled sections, deflection analysis based on the principle of virtual work, fatigue and fracture.",
+    "enrolmentConditions": "Prerequisite: (MATH2019 OR MATH2018) AND (ENGG2400 OR MMAN2400)",
+    "terms": [
+      "T1"
+    ]
+  },
+  {
+    "code": "MMAN4200",
+    "title": "Additive Manufacturing",
+    "subject": "MMAN",
+    "level": 4,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Mech & Manf. Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MMAN4200.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MMAN4200",
+    "description": "Additive manufacturing, also known as 3D printing, is an emerging advanced manufacturing technique which has enjoyed a rapid growth in recent years.\nThis course will introduce you to the fundamental aspects of additive manufacturing. This course will focus on various additive manufacturing techniques where you will gain basic knowledge and theory about the history, development and fundamental engineering aspects of this technique. You will also cover additive manufacturing process optimization including the selection and use of materials as well as look at the current major applications where additive manufacturing is used in addition to investigating the future development of this emerging manufacturing technique",
+    "enrolmentConditions": "No conditions for enrolment found on Handbook page.",
+    "terms": [
+      "T2"
+    ]
+  },
+  {
+    "code": "MMAN4250",
+    "title": "Micro/Nanofabrication and Technology",
+    "subject": "MMAN",
+    "level": 4,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Mech & Manf. Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MMAN4250.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MMAN4250",
+    "description": "This course offers an in-depth exploration of micro and nanofabrication technologies, leading the forefront of innovation in diverse sectors such as electronics, healthcare, aerospace, renewable energy, and bioengineering. It will provide opportunities for students to develop advanced manufacturing technologies skills and knowledge which is crucial for enhancing their competitiveness in today's job market.\nTargeted towards undergraduate and postgraduate students who have a foundational background in engineering, physics, materials, or a closely related discipline, the program comprehensively covers the fundamental principles, cutting-edge methodologies, and diverse applications of micro and nanofabrication techniques. Students will gain firsthand experience in fabricating micro and nanoscale devices, employing techniques such as lithography, etching, chemical vapor deposition, and nanoimprint lithography.\nFurthermore, the course explores the science of materials at the micro and nano levels, exploring how their properties change at these scales and how these changes can be harnessed to create innovative solutions to complex problems.",
+    "enrolmentConditions": "Prerequisite: Completion of 120 UOC",
+    "terms": [
+      "T2"
+    ]
+  },
+  {
+    "code": "MMAN4400",
+    "title": "Engineering Management",
+    "subject": "MMAN",
+    "level": 4,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Mech & Manf. Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MMAN4400.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MMAN4400",
+    "description": "Engineering Management is designed to help you to learn how to manage the operations in organizations and also to build a business or commercial case for making engineering related decisions, such as investment in plant, equipment and processes. Although the main emphasis will be on product and process, consideration will also be given to designing engineering services. The course offers a broad managerial perspective emphasizing the strategic impact of operations decisions and the interfaces between operations and the other functional areas of organizations, including of course, finance.\nThe course presents four subject areas, considered to be critical in terms of managing and leading engineering operations. They are:\n- Issue analysis and decision making\n- Investment analysis and engineering economy\n- Costing and operations analysis\n- Quality management, including design\nWithin each subject area the course will cover many conceptual and analytical techniques, all supporting fact- and data-based analysis and decision making with the aim of improved product and process performance, economy and sustainability.",
+    "enrolmentConditions": "Prerequisite: Completion of 96 UOC",
+    "terms": [
+      "T3"
+    ]
+  },
+  {
+    "code": "MMAN4410",
+    "title": "Finite Element Methods",
+    "subject": "MMAN",
+    "level": 4,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Mech & Manf. Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MMAN4410.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MMAN4410",
+    "description": "This course will train you to analyse real world structural mechanics problems using the finite element method. You will be introduced to the mathematical basis of finite element analysis, on which nearly all structural analysis software is built. You will learn how to apply commercially available finite element software to solve real-world engineering problems. The course will cater to the specific challenges of engineers across different mechanical disciplines. Any student wishing to extend their structural analysis skills should take this course.",
+    "enrolmentConditions": "pre-requisite MMAN2400 or ENGG2400",
+    "terms": [
+      "T2",
+      "T3"
+    ]
+  },
+  {
+    "code": "MMAN4951",
+    "title": "Thesis A",
+    "subject": "MMAN",
+    "level": 4,
+    "uoc": 4,
+    "faculty": "Engineering",
+    "school": "School of Mech & Manf. Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MMAN4951.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MMAN4951",
+    "description": "The thesis provides an opportunity for you to bring together engineering principles learned over your previous years of study and apply these principles to innovatively solve problems such as the development of a specific design, process and/or the investigation of a hypothesis. Thesis projects are complex, open-ended problems that allow room for your creativity, and the acquisition, analysis and interpretation of results. There are multiple possible solutions or conclusions at the outset and sufficient complexity to require a degree of project planning. The thesis requires you to formulate problems in scientific or engineering terms, manage a technical project and find solutions by applying scientific and engineering methods. You will also develop their ability to work in a research and development environment. You must identify a supervisor and project prior to enrolling in this course. This is the first course of the 3 course thesis structure. MMAN4951/9451 is the first out of three parts of individual thesis. All three parts must be completed in 3 consecutive terms in order to pass the course.",
+    "enrolmentConditions": "Prerequisite: Completion of 132 UOC",
+    "terms": [
+      "T1",
+      "T2",
+      "T3"
+    ]
+  },
+  {
+    "code": "MMAN4952",
+    "title": "Thesis B",
+    "subject": "MMAN",
+    "level": 4,
+    "uoc": 4,
+    "faculty": "Engineering",
+    "school": "School of Mech & Manf. Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MMAN4952.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MMAN4952",
+    "description": "The thesis provides an opportunity for you to bring together engineering principles learned over your previous years of study and apply these principles to innovatively solve problems such as the development of a specific design, process and/or the investigation of a hypothesis. Thesis projects are complex, open-ended problems that allow room for your creativity, and the acquisition, analysis and interpretation of results. There are multiple possible solutions or conclusions at the outset and sufficient complexity to require a degree of project planning. The thesis requires you to formulate problems in scientific or engineering terms, manage a technical project and find solutions by applying scientific and engineering methods. You will also develop their ability to work in a research and development environment. You must identify a supervisor and project prior to enrolling in this course. This is the second course of the 3 course thesis structure. MMAN4952/9452 is the second of three parts of individual thesis. All three parts must be completed in 3 consecutive terms in order to pass the course.",
+    "enrolmentConditions": "Prerequisite: MMAN4951",
+    "terms": [
+      "T1",
+      "T2",
+      "T3"
+    ]
+  },
+  {
+    "code": "MMAN4953",
+    "title": "Thesis C",
+    "subject": "MMAN",
+    "level": 4,
+    "uoc": 4,
+    "faculty": "Engineering",
+    "school": "School of Mech & Manf. Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MMAN4953.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MMAN4953",
+    "description": "The thesis provides an opportunity for you to bring together engineering principles learned over your previous years of study and apply these principles to innovatively solve problems such as the development of a specific design, process and/or the investigation of a hypothesis. Thesis projects are complex, open-ended problems that allow room for your creativity, and the acquisition, analysis and interpretation of results. There are multiple possible solutions or conclusions at the outset and sufficient complexity to require a degree of project planning. The thesis requires you to formulate problems in scientific or engineering terms, manage a technical project and find solutions by applying scientific and engineering methods. You will also develop their ability to work in a research and development environment. You must identify a supervisor and project prior to enrolling in this course. This is the third course of the 3 course thesis structure. MMAN4953/9543 is the final 3rd part of individual thesis. All three parts must be completed in 3 consecutive terms in order to pass the course.",
+    "enrolmentConditions": "Prerequisite: MMAN4952",
+    "terms": [
+      "T1",
+      "T2",
+      "T3"
+    ]
+  },
+  {
+    "code": "MMAN9350",
+    "title": "Digital and Artificial Intelligence Technologies for Engineering Applications",
+    "subject": "MMAN",
+    "level": 9,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Mech & Manf. Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MMAN9350.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/MMAN9350",
+    "description": "This course provides essential knowledge and skills for engineers in the fields of sensing, digitalisation and data analytics, especially artificial intelligence (AI), for typical engineering applications. Topics include the following: sensors and modern acquisition systems; engineering signals and their time/frequency domain representation; support vector machines and neural networks for industrial applications; explainable artificial intelligence. This is done with a hands-on approach where students actually develop a digital sensing and data-analytic solution (student project) to an application challenge. The teaching team will strive to offer application challenges that relate to multiple engineering areas such as mechanical, aerospace, mechatronics and manufacturing engineering.",
+    "enrolmentConditions": "No conditions for enrolment found on Handbook page.",
+    "terms": [
+      "T2"
+    ]
+  }
+]

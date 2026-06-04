@@ -1,0 +1,40 @@
+[
+  {
+    "code": "MATH5003",
+    "title": "Mathematics Research Thesis Full-Time",
+    "subject": "MATH",
+    "level": 5,
+    "uoc": 12,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH5003.html",
+    "handbookUrl": null,
+    "description": null,
+    "enrolmentConditions": null,
+    "terms": [
+      "T1",
+      "T2",
+      "T3"
+    ]
+  },
+  {
+    "code": "MATH5004",
+    "title": "Mathematics Research Thesis Part-Time",
+    "subject": "MATH",
+    "level": 5,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH5004.html",
+    "handbookUrl": null,
+    "description": null,
+    "enrolmentConditions": null,
+    "terms": [
+      "T1",
+      "T2",
+      "T3"
+    ]
+  }
+]

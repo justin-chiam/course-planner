@@ -1,0 +1,830 @@
+[
+  {
+    "code": "MATH2069",
+    "title": "Mathematics 2A",
+    "subject": "MATH",
+    "level": 2,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH2069.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH2069",
+    "description": "This is a second year mathematics course for engineering students which introduces fundamental mathematical concepts that are used in many areas of physics and engineering.\nThis course includes two streams, vector calculus and complex analysis. The vector calculus stream studies calculus for functions involving multiple variables. Topics covered in this stream include curves in space; optimization methods for functions of two and three variables; double and triple integration; line and surface integrals, and the theorems of Green, Gauss, and Stokes. The complex analysis stream studies differentiation and integration for functions of a complex variable. Topics in this stream include mapping problems; the Cauchy-Riemann equations; the Cauchy-Goursat Theorem and Cauchy\u00e2\u0080\u0099s Integral formula; Taylor and Laurent series; and applications of complex function theory to real integration.\nThe course delivery includes lectures and tutorials.\nNote: This course is available only to students for whom it is specifically required as part of their program.",
+    "enrolmentConditions": "Prerequisite: MATH1231 or MATH1241 or MATH1251 or DPST1014",
+    "terms": [
+      "T3"
+    ]
+  },
+  {
+    "code": "MATH2991",
+    "title": "Data and Algorithms in Trading",
+    "subject": "MATH",
+    "level": 2,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH2991.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH2991",
+    "description": "Global financial markets are a battlefield of mathematics, data, algorithms and AI. How would you even think about entering this theatre of information to make your mark with a successful trading strategy? This course will be taught in partnership with Optiver, the largest global options market maker in the world. Through a hands-on trading-floor style approach, we will show you how to build competitive trading strategies from scratch. We will start by showing you how to select, process and synthesise key information into signals that will transform your understanding of how financial markets operate. From this, you will infuse your insights with mathematics to propose and create your own trading strategies. Finally, you will learn how to convert your strategies into algorithms for deployment against your fellow students on a live virtual marketplace.",
+    "enrolmentConditions": "Prerequisite: MATH1231 or MATH1241 or MATH1251",
+    "terms": [
+      "T2"
+    ]
+  },
+  {
+    "code": "MATH5006",
+    "title": "Advanced Mathematics Project B",
+    "subject": "MATH",
+    "level": 5,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH5006.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/MATH5006",
+    "description": "This course involves a thorough study of a set of mathematics papers or a workplace problem of the student's choice, under the supervision of an academic. The selected topic is subject to approval by the School Academic Supervisor.\nMATH5005 and MATH5006 must be completed in two consecutive Terms, refer to Additional Constraints on Enrolment Requirements advice.",
+    "enrolmentConditions": "Prerequisite: MATH5005\nPrerequisite: Enrolment in 8750 or 8161 or 8719 program",
+    "terms": [
+      "T1",
+      "T2",
+      "T3"
+    ]
+  },
+  {
+    "code": "MATH5025",
+    "title": "AMSI B",
+    "subject": "MATH",
+    "level": 5,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH5025.html",
+    "handbookUrl": null,
+    "description": null,
+    "enrolmentConditions": null,
+    "terms": [
+      "T1",
+      "T2",
+      "T3"
+    ]
+  },
+  {
+    "code": "MATH5165",
+    "title": "Optimization",
+    "subject": "MATH",
+    "level": 5,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH5165.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/MATH5165",
+    "description": "This is an advanced-level course in optimization for postgraduate students from all disciplines. Optimization is a field that develops techniques for finding the best possible choice from numerous available alternatives for a given criterion. It provides mathematical methods and numerical algorithms for solving decision-making problems in industry, commerce and scientific disciplines. Optimization methods are likely to have a significant impact in many application areas of optimization, such as inventory management, energy distribution and medical treatment planning, by improving inventory controls or reducing the distribution costs or increasing the efficacy of medical treatments. Topics covered in this course include optimization modelling; convexity of sets and functions; unconstrained and constrained optimization problems; optimality and duality principles; convex optimization; numerical methods such as steepest descent, Newton, conjugate gradient, penalty methods and further advanced numerical algorithms; optimal control problems; differential equations; the Pontryagin Maximum Principle; autonomous control problems with fixed and free targets. This is a mathematics course using linear algebra, multi-variable calculus and differential equation techniques.",
+    "enrolmentConditions": "Prerequisite: Enrolled in program 5659 or 8161 or 8719 or 8750 or 8959 or 9372 or 9373 or 7659",
+    "terms": [
+      "T1"
+    ]
+  },
+  {
+    "code": "MATH5175",
+    "title": "Special Topics in Applied Mathematics A",
+    "subject": "MATH",
+    "level": 5,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH5175.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/MATH5175",
+    "description": "This postgraduate course provides students in Applied Mathematics with a variety of tools that are particularly useful for the study of many other Applied Mathematics subjects. In any area of applied research, methods should not be learnt without understanding their theoretical backgrounds. Understanding the theory behind the methods requires some abstract mathematics.\nThis course may not be offered every year and course content/topics vary when offered, for more information see the School of Mathematics and Statistics web site or contact the School Office.",
+    "enrolmentConditions": "Enrolment in programs 5659 or 8161 or 8719 or 8750 or 7659.",
+    "terms": [
+      "T2"
+    ]
+  },
+  {
+    "code": "MATH5185",
+    "title": "Special Topics in Applied Mathematics B",
+    "subject": "MATH",
+    "level": 5,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH5185.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/MATH5185",
+    "description": "This postgraduate course provides students in Applied Mathematics with a variety of tools that are particularly useful for the study of many other Applied Mathematics subjects. In any area of applied research, methods should not be learnt without understanding their theoretical backgrounds. Understanding the theory behind the methods requires some abstract mathematics.\nThis course is not offered every year and course content/topics vary when offered, for more information see the School of Mathematics and Statistics web site or contact the School Office.",
+    "enrolmentConditions": "Enrolment in program 5659 or 8161 or 8719 or 8750 or 7659",
+    "terms": [
+      "T3"
+    ]
+  },
+  {
+    "code": "MATH5191",
+    "title": "Mathematical Optimization for Data Science",
+    "subject": "MATH",
+    "level": 5,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH5191.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/MATH5191",
+    "description": "This course provides postgraduate students with an introduction to the major mathematical ideas behind modern optimisation techniques. The course covers theoretical foundations necessary for the in-depth understanding of modern optimisation methods for data science. Through a series of lecture and turorial classes, the optimisation methods are presented in the context of relevant applications, such as the training of artificial neural networks and data classification. The methods discussed in the course include (stochastic) gradient descent, projection and splitting techniques. The course prepares students for confident application of modern numerical methods to problems in data science and helps them build sufficient mastery of optimisation tools and techniques for designing and implementing tailored methods for solving new problems.",
+    "enrolmentConditions": "Enrolment in program 5659 or 8161 or 8719 or 8750 or 7659 or 8959",
+    "terms": [
+      "T3"
+    ]
+  },
+  {
+    "code": "MATH5201",
+    "title": "Dynamical Systems and Chaos",
+    "subject": "MATH",
+    "level": 5,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH5201.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/MATH5201",
+    "description": "Many nonlinear systems do not have explicit solutions. The dynamical systems approach shifts the focus from finding explicit solutions to discovering geometric properties of solutions. It also recognises that even a small amount of nonlinearity in a physical system can be responsible for very complicated chaotic behaviour. During lectures and tutorials, students will learn the fundamentals of dynamical systems in discrete-time maps and continuous-time ODEs, allowing them to analyse the local and global behaviour of dynamical systems. Students will also learn how to analyse time series data using nonlinear tools and build appropriate predictive models.",
+    "enrolmentConditions": "Prerequisite: (MATH2501 or MATH2601 or MATH2089 or MATH2099) and (MATH2011 or MATH2111 or MATH2018 (DN) or MATH2019 (DN) or MATH2069 (CR) or MATH2121 or MATH2221) OR Enrolment in 5659 or 8161 or 8719 or 8750",
+    "terms": [
+      "T3"
+    ]
+  },
+  {
+    "code": "MATH5207",
+    "title": "Physical Oceanography Research Project",
+    "subject": "MATH",
+    "level": 5,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH5207.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/MATH5207",
+    "description": "This course is taken three times over three consecutive terms, and forms the research project component of the Masters of Physical Oceanography 8518. The three instances of the course each form part of the one project.\nFor the research project component, a student will undertake independent study in the appropriate area of physical oceanography. The student will be supervised by at least one member of the academic staff of the School of Mathematics and Statistics, possibly jointly with an academic external to the School, or a suitable person in a non-university research position. The student will write a report and give an oral presentation on the project to the Physical Oceanography department.\nThe written report will be assessed on four major areas:\n- exposition\n- literature coverage\n- critical analysis and insight\n- originality\nThe weighting of these components will depend on the type of report, as determined by discussion between the student and supervisor(s) when the topic is chosen. All theses are expected to address all four areas.\nTwo academic staff members will assess the thesis. The supervisor(s) are expected to provide a report on the thesis but they may not be one of the two markers.\nThe written thesis mark will account for 90% of the final grade; the oral presentation for the other 10%. The final mark awarded will be decided at specially convened meetings. Students will receive a marker's report on their written thesis, outlining how the final mark was decided and possibly listing errors that ought to be corrected.",
+    "enrolmentConditions": "Enrolled in 8518 Master of Physical Oceanography",
+    "terms": [
+      "T1",
+      "T2",
+      "T3"
+    ]
+  },
+  {
+    "code": "MATH5271",
+    "title": "Environmental Data Science and Statistics",
+    "subject": "MATH",
+    "level": 5,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH5271.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/MATH5271",
+    "description": "This course is a graduate level overview of the applications of data science in an environmental context. Although applications and motivations will be drawn primarily from the ocean, atmospheric and climate sciences, the material covered will apply generally across various environmental and non-environmental science and industry areas. A key focus of this course is an emphasis on practical real-world problems. These include practical approaches to data handling and quality control, consideration of real-world examples of good and bad data science practice, the application of various statistical methods to real world data sets, the integration of statistical approaches with physically based forecast methods, and a project component involving independent exploration and exposition of cutting-edge machine learning methods.",
+    "enrolmentConditions": "Prerequisite: Successful completion of 12 units of credit in: (MATH2501 or MATH2601) and (MATH2801 or MATH2901) OR (MATH2019 or MATH2018) and MATH2089 OR MATH2069 and MATH2099 OR Enrolment in 5518 or 8518",
+    "terms": [
+      "T1"
+    ]
+  },
+  {
+    "code": "MATH5285",
+    "title": "Fluids, Oceans and Climate",
+    "subject": "MATH",
+    "level": 5,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH5285.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/MATH5285",
+    "description": "This postgraduate course introduces the mathematical modelling and theory of problems arising in the flow of fluids in the Earth's climate system. During lectures and tutorials, the dynamics underlying the circulation of the atmosphere and oceans are detailed using key concepts such as geostrophy, the deformation radius and the conservation of potential vorticity. The role of Rossby waves, turbulent boundary layers and stratification are also discussed. The atmosphere-ocean system as a global heat engine for climate variability is examined using models for buoyant forcing, quasi-geostrophy and baroclinic instability.",
+    "enrolmentConditions": "Prerequisite: Enrolment in programs 5659 or 8161 or 8719 or 8750 or 8518 or 7659",
+    "terms": [
+      "T3"
+    ]
+  },
+  {
+    "code": "MATH5295",
+    "title": "Special Topics in Applied Mathematics D",
+    "subject": "MATH",
+    "level": 5,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH5295.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/MATH5295",
+    "description": "Not offered every year. Course content varies when offered, see the School of Mathematics and Statistics web site or contact the [http://www.maths.unsw.edu.au/homepage.html | School of Mathematics and Statistics ].",
+    "enrolmentConditions": "Prerequisite: Enrolment in programs 5659 or 8161 or 8719 or 8750 or 8518 or 7659",
+    "terms": [
+      "T2"
+    ]
+  },
+  {
+    "code": "MATH5305",
+    "title": "Computational Mathematics for Science and Engineering",
+    "subject": "MATH",
+    "level": 5,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH5305.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/MATH5305",
+    "description": "Partial differential equations (PDEs) provide a natural mathematical description for many phenomena of interest in science and engineering. Such equations are often difficult or impossible to solve using purely analytical (pencil and paper) methods, especially for realistic industrial problems. This course introduces finite difference and finite element methods for elliptic and parabolic PDEs, and discusses key concepts such as stability, convergence and computational cost. Relevant techniques in numerical linear algebra are also discussed.\nThe course includes a substantial practical component dealing with the computer implementation of the algorithms used for solving partial differential equations. This component of the course is supported by a weekly computer lab. In addition, a weekly tutorial class provides exercises on the mathematical content covered in lectures.\nThe course is intended for students in mathematics programs, or students in science and engineering programs who have a strong mathematical background and an interest in computer modelling.\nNote: Students must have some prior experience with computer programming.",
+    "enrolmentConditions": "Enrolment in program 5659 or 8161 or 8719 or 8750 or 8518 or 7659",
+    "terms": [
+      "T2"
+    ]
+  },
+  {
+    "code": "MATH5335",
+    "title": "Computational Mathematics for Finance",
+    "subject": "MATH",
+    "level": 5,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH5335.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/MATH5335",
+    "description": "Finance is concerned with making definite numerical recommendations that frequently can only be obtained by analysing sophisticated models using high-speed computers. This course studies the design, implementation and use of computer programs to solve practical mathematical problems of relevance to finance, insurance and risk management. It includes a review of MATLAB/Python, floating point numbers, rounding error and computational complexity, and a selection of topics from: approximation and parameter estimation, Fourier series and the FFT, finite difference approximations, partial differential equations (Black-Scholes PDE), sparse linear systems, nonlinear algebraic equations, trees, Monte Carlo methods and simulation, random numbers and variance reduction and numerical integration. The teaching activities include weekly lectures in which the theoretical background is explained and weekly practical computing laboratory classes.",
+    "enrolmentConditions": "Prerequisite: Enrolment in program 5659 or 8161 or 8719 or 8750 or 8411 or 8416 or 7659",
+    "terms": [
+      "T2"
+    ]
+  },
+  {
+    "code": "MATH5361",
+    "title": "Stochastic Differential Equations: Theory, Applications, and Numerical Methods",
+    "subject": "MATH",
+    "level": 5,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH5361.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/MATH5361",
+    "description": "Stochastic differential equation models play a prominent role in a range of application areas, including biology, chemistry, epidemiology, mechanics, microelectronics, economics, and finance. This course covers the theory and applications of stochastic differential equations, the design and implementation on computers of numerical methods for solving these practical mathematical equations. The course will start with a background knowledge of random variables, Brownian motion, and Ornstein-Uhlenbeck process. Other topics studied include: stochastic integrals, the Euler-Maruyama method, Milstein, higher order method, stability and convergence. In addition to lectures, the distinct tutorial and lab classes will give students the opportunity to work on both mathematical exercises and computing problems.",
+    "enrolmentConditions": "Enrolment in program 5659 or 8161 or 8719 or 8750 or 7659",
+    "terms": [
+      "T3"
+    ]
+  },
+  {
+    "code": "MATH5371",
+    "title": "Numerical Linear Algebra",
+    "subject": "MATH",
+    "level": 5,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH5371.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/MATH5371",
+    "description": "The course is intended for students from Science and Engineering programs with interests in mathematics, statistics, data science or numerical simulation. Algorithms from numerical linear algebra are ubiquitous in scientific and statistical software. The theoretical component of the course aims to impart an understanding of how these algorithms work as well as an appreciation of their potential limitations. To illustrate the applications of numerical linear algebra, a variety of examples from statistics, data science and applied mathematics are described. The course includes a substantial computing component providing practical experience with widely used software libraries.",
+    "enrolmentConditions": "Enrolment in program 5659 or 8161 or 8719 or 8750 or 7659",
+    "terms": [
+      "T1"
+    ]
+  },
+  {
+    "code": "MATH5505",
+    "title": "Combinatorics",
+    "subject": "MATH",
+    "level": 5,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH5505.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/MATH5505",
+    "description": "This is a course for graduate and advanced undergraduate students, forming an introduction to modern combinatorics. The emphasis is on theory, proof and problem solving. Topics may include extremal set theory, extremal graph theory, Ramsey theory and arithmetic combinatorics. Combinatorial methods taught in this course range from the pigeonhole principle, double counting, and the linear algebra method to possibly generating functions or the probabilistic method. Exact content depends on the lecturer-in-charge. Content is delivered in lectures and explored in tutorials.",
+    "enrolmentConditions": "Enrolment in program 5659 or 8161 or 8719 or 8750 or 7659",
+    "terms": [
+      "T1"
+    ]
+  },
+  {
+    "code": "MATH5515",
+    "title": "Special Topics in Pure Mathematics A",
+    "subject": "MATH",
+    "level": 5,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH5515.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/MATH5515",
+    "description": "This Pure Mathematics special topics course is designed for postgraduate students. The course content varies, with more detailed information provided on the School of Mathematics and Statistics website. It is not offered every year and prospective students are encouraged to review the website for information about the next offering.",
+    "enrolmentConditions": "Prerequisite: Enrolled in program 5659 Mathematics and Statistics or 8161 Financial Mathematics or 8719 Mathematics or 8750 Statistics",
+    "terms": [
+      "T2"
+    ]
+  },
+  {
+    "code": "MATH5525",
+    "title": "Special Topics in Pure Mathematics B",
+    "subject": "MATH",
+    "level": 5,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH5525.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/MATH5525",
+    "description": "Not offered every year. Course content varies when offered, see the School of Mathematics and Statistics web site or contact the [http://www.maths.unsw.edu.au/homepage.html | School of Mathematics and Statistics ].",
+    "enrolmentConditions": "Enrolment in program 5659 or 8161 or 8719 or 8750 or 7659",
+    "terms": [
+      "T1"
+    ]
+  },
+  {
+    "code": "MATH5535",
+    "title": "Special Topics in Pure Mathematics C",
+    "subject": "MATH",
+    "level": 5,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH5535.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/MATH5535",
+    "description": "Not offered every year. Course content varies when offered, see the School of Mathematics and Statistics web site or contact the [http://www.maths.unsw.edu.au/homepage.html | School of Mathematics and Statistics ].",
+    "enrolmentConditions": "Enrolment in program 5659 or 8161 or 8719 or 8750 or 7659",
+    "terms": [
+      "T2"
+    ]
+  },
+  {
+    "code": "MATH5605",
+    "title": "Functional Analysis",
+    "subject": "MATH",
+    "level": 5,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH5605.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/MATH5605",
+    "description": "This course is an introduction to functional analysis. It is a proof-based course covering abstract topological vector spaces before specialising to Banach spaces (complete normed spaces). Students will prove several key results due to Banach and its school. The course also by considers Hilbert spaces and decomposing compact operators acting on them. This course is lecture based, with tutorials every week.",
+    "enrolmentConditions": "Enrolment in program 5659 or 8161 or 8719 or 8750 or 7659",
+    "terms": [
+      "T2"
+    ]
+  },
+  {
+    "code": "MATH5700",
+    "title": "Modern Differential Geometry and Topology",
+    "subject": "MATH",
+    "level": 5,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH5700.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/MATH5700",
+    "description": "Topology and differential geometry both deal with the study of shape: topology from a continuous and differential geometry from a differentiable viewpoint. This postgraduate course begins with a study of curves in the plane and in space focusing on how they bend. Surfaces are also introduced, studying the first and second fundamental forms introduced by Gauss, the various measures of curvature and what they mean for the external and internal appearance and properties of surfaces. The course also provides an opportunity to prove the important Gauss-Bonnet theorem and use it to examine topological properties of surfaces, such as the Euler Characteristic.",
+    "enrolmentConditions": "Enrolment in program 5659 or 8161 or 8719 or 8750 or 7659",
+    "terms": [
+      "T3"
+    ]
+  },
+  {
+    "code": "MATH5705",
+    "title": "Modern Analysis",
+    "subject": "MATH",
+    "level": 5,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH5705.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/MATH5705",
+    "description": "This is a Masters course aimed at students completing a mathematics major or program. It is assumed that students are familiar with single and several variable calculus as taught in first and second year mathematics courses.\nThe central concepts of calculus are limits and continuity. These concepts can be extended to quite general situations. The simplest of these is when there is some way of measuring the distance between two objects. Some of the most important examples of these \u00e2\u0080\u009cmetric spaces\u00e2\u0080\u009d occur as sets of functions, so this course looks at ways in which one might say that a sequence of functions converges. Taking these ideas one step further, we look at convergence which does not come from a generalised distance function. These are the ideas of point set topology. The course includes topics such as countability, continuity, uniform convergence and compactness, as well as normed vector spaces, which are the central object of study in functional analysis.\nThe course consists of 4 hours of lectures per week and 1 hour of tutorial.",
+    "enrolmentConditions": "Enrolment in program 5659 or 8161 or 8719 or 8750 or 7659",
+    "terms": [
+      "T2"
+    ]
+  },
+  {
+    "code": "MATH5706",
+    "title": "Modern Algebra",
+    "subject": "MATH",
+    "level": 5,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH5706.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/MATH5706",
+    "description": "In Modern Algebra we examine some of the basic notions of modern algebra that arose in the late 19th and early 20th century. The most fundamental notion is that of a group, which is how mathematicians study symmetry. In this course, groups are studied in detail both from an abstract point of view and also to study symmetry in geometry. The other important concept studied is that of a ring. The algebra of adding and multiplying matrices has many similarities with the algebra of numbers. The notion of rings generalises both of these two examples. The course examines factorisation theory for certain rings.\nThe course is indispensable for all further studies in pure mathematics. All Masters level students of pure mathematics who have not covered this material should complete this course. Knowledge of linear algebra is a prerequisite for this course.\nThis is a demanding course usually with 4 hours of lectures and another hour for a tutorial each week.",
+    "enrolmentConditions": "Enrolment in program 5659 or 8161 or 8719 or 8750 or 7659",
+    "terms": [
+      "T1"
+    ]
+  },
+  {
+    "code": "MATH5725",
+    "title": "Galois Theory",
+    "subject": "MATH",
+    "level": 5,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH5725.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/MATH5725",
+    "description": "The theory of fields holds the key to questions which frustrated mathematicians for hundreds of years, including the impossibility of squaring a circle or trisecting an angle with ruler and compass, or finding a formula for solving quintic equations. The key to their study involves the Galois group which, loosely speaking, captures the symmetry of the field. Through a series of seminars, the course addresses the following topics: fields, Eisenstein criterion, field extensions, algebraic extensions, groups of field automorphisms, normal and separable extensions, finite fields, Galois correspondence, solvable groups, solving equations by radicals, ruler and compass constructions, Kummer extensions, Artin-Schreier extensions.\nNote: This course is not offered every year - contact the School of Mathematics and Statistics for more information.",
+    "enrolmentConditions": "Enrolment in program 5659 or 8161 or 8719 or 8750 or 7659",
+    "terms": [
+      "T3"
+    ]
+  },
+  {
+    "code": "MATH5735",
+    "title": "Modules and Representation Theory",
+    "subject": "MATH",
+    "level": 5,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH5735.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/MATH5735",
+    "description": "Performing linear algebra over a ring of scalars instead of a field leads to the notion of a module. The theory of modules is surprisingly subtle and has many applications, not only to other parts of mathematics but also to mathematical physics. This course focuses on the theory of modules over principal ideal domains and over semisimple rings. The first has applications to linear algebra. The second has applications to group representations which is essential to the study of symmetry. Topics include modules, modules over a principal ideal domain, group representations.",
+    "enrolmentConditions": "Prerequisite: Enrolment in 5659 or 7659 or 8161 or 8719 or 8750",
+    "terms": [
+      "T1"
+    ]
+  },
+  {
+    "code": "MATH5806",
+    "title": "Applied Regression Analysis",
+    "subject": "MATH",
+    "level": 5,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH5806.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/MATH5806",
+    "description": "Regression is a set of statistical techniques widely used to analyse relationships between several variables.\nThe topics covered in this course include: linear regression; weighted least squares; generalized linear models (GLMs); fitting GLMs and examining model diagnostics; Poisson regression, binomial regression; analysis of variance; penalized regression methods; splines; penalized splines; thin plate splines; variable selection; generalized cross-validation; local likelihood; kernel smoothing; generalized additive models; multinomial logit analysis; ordinal logistic regression.\nLectures will be complemented with worked examples where students will perform data analysis and statistical programming using the R software.",
+    "enrolmentConditions": "Enrolment in program 5546 or 5659 or 5959 or 7546 or 7659 or 7959 or 8161 or 8411 or 8416 or 8543 or 8544 or 8719 or 8750 or 8959 or 9372 or 9373",
+    "terms": [
+      "T2"
+    ]
+  },
+  {
+    "code": "MATH5816",
+    "title": "Continuous Time Financial Modelling",
+    "subject": "MATH",
+    "level": 5,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH5816.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/MATH5816",
+    "description": "This postgraduate course focuses on the continuous-time modelling of financial markets. The main goal of the course is a detailed study of the classical Black-Scholes options pricing model and extensions. The notion of a continuously rebalanced trading strategy is introduced, and the arbitrage-free and completeness properties of a financial market model are examined. The course also introduces and studies the concepts of historical, implied and stochastic volatilities. We study contingent claims of American, Asian, barrier style in the Black-Scholes model. In the final part of the course, alternative models to pricing contingent claims in continuous time are explored.",
+    "enrolmentConditions": "Prerequisite: MATH5975 or permission of course authority.",
+    "terms": [
+      "T3"
+    ]
+  },
+  {
+    "code": "MATH5825",
+    "title": "Measure, Integration and Probability",
+    "subject": "MATH",
+    "level": 5,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH5825.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/MATH5825",
+    "description": "Measure Theory provides one of the key building blocks of Analysis, Probability Theory, and Ergodic Theory and is an indispensable tool in the theory of differential equations, Harmonic Analysis, Mathematical Physics and Mathematical Finance. In this course students will develop a proper understanding of measurable functions, measures and the abstract Lebesgue integral. Special attention will be paid to applications of Measure Theory in the Probability Theory such as construction of probability spaces for random variables and stochastic processes, Laws of Large Numbers, the Central Limit theorem and their applications. The Radon-Nikodym Theorem will be applied to introduce a general definition of conditional expectation. Pre-requisites: 24 units of level III mathematics or a degree in numerate discipline or permission of the Head of Department.",
+    "enrolmentConditions": "Enrolment in program 5659 or 8161 or 8719 or 8750 or 8271 or 7659",
+    "terms": [
+      "T3"
+    ]
+  },
+  {
+    "code": "MATH5835",
+    "title": "Advanced Stochastic Processes",
+    "subject": "MATH",
+    "level": 5,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH5835.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/MATH5835",
+    "description": "The theory of stochastic processes deals with phenomena evolving randomly in time and/or space, such as prices on financial markets, air temperature or wind velocity, spread of diseases, number of hospital admissions in certain area, and many others. This course introduces some of the basic ideas and tools to study such phenomena. In particular, we will introduce the concept of martingale to study phenomena evolving in discrete time and the concept of Poisson process (and its generalisations) and Brownian Motion to study processes evolving continuously in time. Some applications to statistical inference will also be discussed. For students in the Master of Financial Mathematics program, the course will also provide foundational knowledge for more advanced courses.",
+    "enrolmentConditions": "Enrolment in program 5518 or 5659 or 5959 or 7659 or 7959 or 8161 or 8411 or 8416 or 8518 or 8719 or 8750 or 8959",
+    "terms": [
+      "T1"
+    ]
+  },
+  {
+    "code": "MATH5836",
+    "title": "Data and Machine Learning",
+    "subject": "MATH",
+    "level": 5,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH5836.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/MATH5836",
+    "description": "A wide range of statistical methods and computational tools have been developed in the past few decades to gather information from data. This postgraduate course covers the key techniques in data mining and machine learning with theoretical background and applications, delivered through a series of lectures and tutorials.The topics include methods such as linear and logistic regression, neural networks, Bayesian neural networks, clustering and dimensionality reduction, ensemble learning, and an introduction to deep learning. Emerging machine learning tools and libraries are used to illustrate the methods in programming environments that include Python and R.",
+    "enrolmentConditions": "Enrolment in program 5546 or 5659 or 5959 or 7546 or 7659 or 7959 or 8161 or 8411 or 8416 or 8543 or 8544 or 8719 or 8750 or 8959 or 9372 or 9373 and complete either COMP9020 or COMP9021 as a prerequisite.",
+    "terms": [
+      "T3"
+    ]
+  },
+  {
+    "code": "MATH5845",
+    "title": "Time Series",
+    "subject": "MATH",
+    "level": 5,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH5845.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/MATH5845",
+    "description": "The course is concerned with the theory and application of appropriate statistical techniques for analysis of time series data -- data collected over time. The course will help students develop a sound understanding of stationary and non-stationary time series models and their properties in discrete time. The topics include the theory of stationary time series; methods for trend and seasonal analysis and adjustment; modelling and forecasting with autoregressive moving average processes; modelling the impact of exogenous or intervention variables on responses; models for stochastic volatility and long-term dependence; regression models for time series. Applications are primarily drawn from finance and public health and the R software environment is used to perform appropriate analyses for numerical examples.",
+    "enrolmentConditions": "Enrolment in program 5518 or 5546 or 5659 or 5959 or 7546 or 7659 or 7959 or 8161 or 8411 or 8416 or 5518 or 8518 or 8543 or 8544 or 8719 or 8750 or 8959 or 9372 or 9373",
+    "terms": [
+      "T2"
+    ]
+  },
+  {
+    "code": "MATH5846",
+    "title": "Introduction to Probability and Stochastic Processes",
+    "subject": "MATH",
+    "level": 5,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH5846.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/MATH5846",
+    "description": "This course covers probabilistic concepts which are necessary to study various complex phenomena arising in Engineering, Biology, Medicine and Economics. This course introduces basic concepts which are needed to analyse different phenomena. In particular, we discuss the concepts of random events, random variables, structures of dependence, computation of probabilities using the Central Limit Theorem, simple Markov chains, and Brownian motion.",
+    "enrolmentConditions": "Enrolment in program 5518 or 5546 or 5659 or 5959 or 7546 or 7659 or 7959 or 8518 or 8543 or 8544 or 8719 or 8959 or 9372 or 9373",
+    "terms": [
+      "T1",
+      "T3"
+    ]
+  },
+  {
+    "code": "MATH5855",
+    "title": "Multivariate Analysis",
+    "subject": "MATH",
+    "level": 5,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH5855.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/MATH5855",
+    "description": "The course gives a methodological background in multivariate analysis as a backbone of Applied Statistics. It introduces multivariate techniques including principal component analysis; canonical correlation analysis; cluster analysis; factor analysis and discriminant analysis. Computing and data analysis features prominently in this course.",
+    "enrolmentConditions": "Enrolment in program 5546 or 5659 or 5959 or 7546 or 7659 or 7959 or 8161 or 8411 or 8416 or 8543 or 8544 or 8719 or 8750 or 8959 or 9372 or 9373",
+    "terms": [
+      "T3"
+    ]
+  },
+  {
+    "code": "MATH5856",
+    "title": "Introduction to Statistics and Statistical Computations",
+    "subject": "MATH",
+    "level": 5,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH5856.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/MATH5856",
+    "description": "This course addresses the foundational principles of statistical reasoning. In particular it introduces the most common methods for estimating unknown parameters of key statistical models in order to draw conclusions and make decisions without complete information. Practical implementations using statistical software packages are continuously presented to students. Students explore methods for estimating parameters using Maximum Likelihood and Bayesian inference, for constructing confidence intervals and performing hypothesis testing, for fitting linear and general linear models. Each week, the course includes typically 4 hour of pre-recorded lecture video and 1 hour of face-to-face tutorial during which students will have the opportunity to reinforce their learning.",
+    "enrolmentConditions": "Enrolment in program 5518 or 5546 or 5659 or 5959 or 7546 or 7659 or 7959 or 8518 or 8543 or 8544 or 8719 or 8959 or 9372 or 9373",
+    "terms": [
+      "T1",
+      "T2"
+    ]
+  },
+  {
+    "code": "MATH5868",
+    "title": "Bootstrap and Other Resampling Methods",
+    "subject": "MATH",
+    "level": 5,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH5868.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/MATH5868",
+    "description": "The course presents the basic techniques of resampling methods useful in statistics. These have grown very popular over the last two decades as they offer reliable alternatives to traditional asymptotic approaches, mostly based on Central Limit Theorems. The flagship instance of resampling-based approaches is the so-called `bootstrap', by now considered as a real breakthrough in statistics. A very versatile technique, the bootstrap allows easy determination of the sampling distribution of any statistic of interest (estimator or test statistic) in a variety of situations. In fact, the bootstrap bypasses heavy analytical developments by substituting appropriate simulations. In many cases, the quality of the bootstrap approximation is better than its asymptotic counterparts, while in other situations, there is no asymptotic approximation available and the bootstrap turns out to be the only possibility for statistical inference. In this course, the bootstrap and other related resampling methods are first introduced in a general framework and their theoretical properties are investigated. Then, they are illustrated through many standard problems of statistical inference and common questions in related fields.",
+    "enrolmentConditions": "Enrolment in program 5659 or 5959 or 7659 or 7959 or 8161 or 8719 or 8750 or 8959",
+    "terms": [
+      "T3"
+    ]
+  },
+  {
+    "code": "MATH5881",
+    "title": "Statistical Machine Learning Theory",
+    "subject": "MATH",
+    "level": 5,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH5881.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/MATH5881",
+    "description": "This course gives students a statistical and mathematical perspective on modern machine learning methods, with the aim of obtaining a deeper understanding of how such methods work and have been derived. This theoretical knowledge will then be used to demonstrate how to fine tune machine learning methods for complex applications. This course will focus on principles of neural networks (convolutional, recurrent, sequential methods), optimisation methods relevant for machine learning and generative AI (autoencoders, diffusion models, generative adversarial networks).\nThis course is intended as an elective for Statistics majors & minors, Quantitative Data Science Major and Mathematics majors, both at the undergraduate and postgraduate level. Prior knowledge of basic probability is necessary, and knowledge of stochastic processes will be advantageous but is not required. This course complements MATH5191 Optimisation for data science by focusing on various neural network architectures and training methods that make use of some optimisation methods explored in MATH5191, along with probabilistic aspects governing generative modelling. Additionally, this course focuses on mathematical and statistical foundations of many machine learning methods discussed from a computational perspective in MATH5836.\nThis course is jointly taught at two levels. MATH3881 is for 3rd year undergraduates, with MATH5881 for Honours & Masters students.",
+    "enrolmentConditions": "Enrolment in program 5546 or 5659 or 5959 or 7546 or 7659 or 7959 or 8161 or 8411 or 8416 or 8543 or 8544 or 8719 or 8750 or 8959 or 9372 or 9373",
+    "terms": [
+      "T2"
+    ]
+  },
+  {
+    "code": "MATH5885",
+    "title": "Longitudinal Data Analysis",
+    "subject": "MATH",
+    "level": 5,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH5885.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/MATH5885",
+    "description": "This course focuses on modelling response profiles over time, whilst accounting for the correlation that will typically exist between measurements taken on the same individual and the variability between individual response profiles. MATH5885 brings together multivariate regression modelling, time series modelling and random effects modelling for continuous and discrete valued response measurements and aims to enhance a student\u00e2\u0080\u0099s capacity to analyze and understand large, complex data sets. The focus will be on applications to biomedical studies, but the ideas have a wider application, for example, to panel studies that arise in market research and social surveys.",
+    "enrolmentConditions": "Enrolment in program 5546 or 5659 or 5959 or 7546 or 7659 or 7959 or 8161 or 8411 or 8416 or 8543 or 8544 or 8719 or 8750 or 8959 or 9372 or 9373",
+    "terms": [
+      "T2"
+    ]
+  },
+  {
+    "code": "MATH5901",
+    "title": "Stochastic Processes",
+    "subject": "MATH",
+    "level": 5,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH5901.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/MATH5901",
+    "description": "This is an advanced level postgraduate course in probability theory and stochastic processes for mathematics/statistics and data science students. Topics covered include rigorous definition of probability and random variables; convergence of random variables; Poisson and Wiener process, and Ito Calculus.",
+    "enrolmentConditions": "Enrolment in program 5546 or 5659 or 7659 or 7546 or 8411 or 8416 or 8543 or 8544 or 8719 or 8959 or 9372 or 9373",
+    "terms": [
+      "T1"
+    ]
+  },
+  {
+    "code": "MATH5905",
+    "title": "Statistical Inference",
+    "subject": "MATH",
+    "level": 5,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH5905.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/MATH5905",
+    "description": "This postgraduate course presents general inference theory based on maximum likelihood and on Bayes methods. Estimation, confidence set construction, and hypothesis testing are discussed within decision-theoretic framework. Computationally intensive methods such as bootstrap are also discussed and are compared to asymptotic approximations such as saddlepoint and empirical likelihood.",
+    "enrolmentConditions": "Enrolment in program 5546 or 5659 or 5959 or 7546 or 7659 or 7959 or 8161 or 8411 or 8416 or 8543 or 8544 or 8719 or 8750 or 8959 or 9372 or 9373",
+    "terms": [
+      "T1",
+      "T2",
+      "T3"
+    ]
+  },
+  {
+    "code": "MATH5916",
+    "title": "Survival Analysis",
+    "subject": "MATH",
+    "level": 5,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH5916.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/MATH5916",
+    "description": "Survival analysis is the analysis of data representing the time to occurrence of a certain event or endpoint (time-to-event data). This course introduces the special features of time-to-event data and explores methods and models available to deal with them. Extensive use will be made of the computer methods in analysing real datasets.",
+    "enrolmentConditions": "Enrolment in program 5546 or 5659 or 5959 or 7546 or 7659 or 7959 or 8161 or 8411 or 8416 or 8543 or 8544 or 8719 or 8750 or 8959 or 9372 or 9373",
+    "terms": [
+      "T1"
+    ]
+  },
+  {
+    "code": "MATH5925",
+    "title": "Project",
+    "subject": "MATH",
+    "level": 5,
+    "uoc": 12,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH5925.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/MATH5925",
+    "description": "This course is an opportunity to bring together the skills the students have developed during their Master program and apply them to a substantive new problem. Students will work in a small group and present results in thesis form and in a presentation. Students will be supervised by an academic staff member from the School and meet one hour per week to discuss and work on the group project. Note: Available only to students for whom it forms part of their program requirements.\nStudents usually complete their project during the last one or two Terms of their program. Students are not eligible to start a project until they have completed at least 36 UoC (typically, 6 courses) over at least three terms.",
+    "enrolmentConditions": "Prerequisite: Must be enrolled in 8161, 8719 or 8750 and have completed 36 UOC in one of these programs.",
+    "terms": [
+      "T1",
+      "T2",
+      "T3"
+    ]
+  },
+  {
+    "code": "MATH5945",
+    "title": "Categorical Data Analysis",
+    "subject": "MATH",
+    "level": 5,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH5945.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/MATH5945",
+    "description": "This postgraduate course provides the theoretical foundation and methodological background for the analysis of categorical response data. Through a series of lectures and labs, a range of topics will be introduced including the Bernoulli trial, the analysis of contingency tables, and generalised linear models including logistic and Poisson regression. Statistical computing is an integral part of this course.",
+    "enrolmentConditions": "Enrolled in program 5659 or 8750 or 8161 or 8719 or 8959 or 9372 or 9373 or 7659",
+    "terms": [
+      "T3"
+    ]
+  },
+  {
+    "code": "MATH5960",
+    "title": "Bayesian Inference and Computation",
+    "subject": "MATH",
+    "level": 5,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH5960.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/MATH5960",
+    "description": "After describing the fundamentals of Bayesian inference, this course will examine the specification of prior and posterior distributions, Bayesian decision theoretic concepts, the ideas behind Bayesian hypothesis tests, model choice and model averaging, and evaluate the capabilities of several common model types, such as hierarchical and mixture models. An important part of Bayesian inference is the requirement to numerically evaluate complex integrals on a routine basis. Accordingly this course will also introduce the ideas behind Monte Carlo integration, importance sampling, rejection sampling, Markov chain Monte Carlo samplers such as the Gibbs sampler and the Metropolis-Hastings algorithm, and use of the Stan posterior simulation software.\nThe intended audience of this course is wide-ranging, from statistics and data science students to economics, actuarial, computer science and natural science (e.g. biology, geology, physics) students. Prior knowledge of basic probability is necessary, and knowledge of stochastic processes will be advantageous but is not required. The purpose of this course is to introduce students to Bayesian statistical concepts not seen in core courses which are primarily focused on frequentist statistics.\nThis course is jointly taught at two levels. MATH3871 is for 3rd year undergraduates, whereas MATH5960 is for Honours & Masters students.",
+    "enrolmentConditions": "Enrolment in program 5546 or 5659 or 5959 or 7546 or 7659 or 7959 or 8161 or 8411 or 8416 or 8543 or 8544 or 8719 or 8750 or 8959 or 9372 or 9373",
+    "terms": [
+      "T3"
+    ]
+  },
+  {
+    "code": "MATH5965",
+    "title": "Discrete Time Financial Modelling",
+    "subject": "MATH",
+    "level": 5,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH5965.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/MATH5965",
+    "description": "The course provides an overview of the most important classes of financial contracts traded on over-the-counter exchanges between financial institutions and their clients in discrete time. The option of European and American style, futures contracts and forward contracts is also discussed. The basic ideas of arbitrage pricing are studied in the classical Cox-Ross-Rubinstein binominal model of stock price.\nSubsequently, the valuation and hedging of European and American options and general contingent claims are established. The proofs of the fundamental theorems of asset pricing for finite models of security markets which is central to the modern theory of derivative pricing are given.",
+    "enrolmentConditions": "Enrolment in program 5659 or 5959 or 7659 or 7959 or 8161 or 8411 or 8416 or 8719 or 8750 or 8959",
+    "terms": [
+      "T1"
+    ]
+  },
+  {
+    "code": "MATH5975",
+    "title": "Introduction to Stochastic Analysis",
+    "subject": "MATH",
+    "level": 5,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH5975.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/MATH5975",
+    "description": "Modern theory of financial markets relies on advanced mathematical statistical methods that are used to model, forecast and manage risk in complex financial transactions. After the publication in 1973 of the ground-breaking paper of Black and Scholes on the arbitrage pricing of European call options, Stochastic Analysis became an indispensable tool for the theory of financial markets, derivation of prices of standard and exotic options and other derivative securities, hedging-related financial risk, as well as managing the interest rate risk. This is a postgraduate level course in which you will learn the basic concepts and techniques of Stochastic Analysis, such as Brownian motion, Ito stochastic integral, Ito's formula, changes of measures, stochastic differential equations and their relations to second-order partial differential equations, and Feynman-Kac formula.",
+    "enrolmentConditions": "Enrolment in program 5659 or 5959 or 7659 or 7959 or 8161 or 8411 or 8416 or 8719 or 8750 or 8959",
+    "terms": [
+      "T1"
+    ]
+  },
+  {
+    "code": "MATH6781",
+    "title": "Biomathematics",
+    "subject": "MATH",
+    "level": 6,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH6781.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/MATH6781",
+    "description": "This course introduces mathematical modelling and data analysis for biological and biomedical systems. The course is suitable for students with an interest in the real-world application of differential equation modelling. Examples of the biological systems studied in the course include: population dynamics, the spread of infectious diseases, drug delivery and metabolism, biochemical reactions, the formation of animal coat patterns, and the growth of tumours. The emphasis in this course is on the development of the governing model equations, and on the analysis and interpretation of the model solutions. Methods for computer simulation of the model equations will be demonstrated but students\u00e2\u0080\u0099 knowledge of these methods will not be assessed in the course. In addition to lectures, the course will feature tutorials and workshops. Weekly tutorials require the class to solve a series of mathematical problems that build upon the lecture material. Workshops (several during the course) further consolidate the lecture material as the class makes use of modelling, analysis and computer simulations to perform in-depth studies of particular biological applications. Assumed Knowledge: Completion of two years of an undergraduate degree in mathematics or statistics.",
+    "enrolmentConditions": "Prerequisite: Enrolment in program 5659 or 8161 or 8719 or 8750 or 7659",
+    "terms": [
+      "T2"
+    ]
+  }
+]

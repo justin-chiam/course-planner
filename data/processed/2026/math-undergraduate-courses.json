@@ -1,0 +1,1298 @@
+[
+  {
+    "code": "MATH1011",
+    "title": "Fundamentals of Mathematics",
+    "subject": "MATH",
+    "level": 1,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH1011.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH1011",
+    "description": "This course provides mathematical skills and knowledge similar to the NSW HSC Mathematics Extension 1 high school subject. It can serve as a bridging course for students who need to take MATH1131 but do not have the necessary assumed knowledge. It covers functions and their inverses, limits, continuity, differential and integral calculus as a grounding for a more rigorous treatment of these topics in MATH1131. Also covered are sequences and series, mathematical induction, the binomial theorem, probability, and an introduction to vectors in 2 and 3 dimensions and solving systems of linear equations using Gaussian elimination. The Maple computer algebra package is used to complement hand calculations. It is assumed that students will have mathematical background knowledge equivalent to a Band 4 in HSC Mathematics Advanced.",
+    "enrolmentConditions": "Not enrolled in 3991 Medical Science",
+    "terms": [
+      "T1",
+      "T3"
+    ]
+  },
+  {
+    "code": "MATH1031",
+    "title": "Mathematics for Life Sciences",
+    "subject": "MATH",
+    "level": 1,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH1031.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH1031",
+    "description": "MATH1031 provides a foundation in techniques in Calculus and Linear Algebra used for mathematical modelling in the life sciences and other disciplines. Applications are presented in interdisciplinary contexts through lectures, videos, and tutorial exercises. This course enhances students\u00e2\u0080\u0099 analytical thinking and problem-solving skills through illustrative examples in lectures, problem-based tutorials and an assignment. Communication skills are developed through active participation in tutorials, by writing clear and logical arguments in the assignment and when solving tutorial problems.\nThis course is designed for students who need to use mathematical techniques for applications in the life and social sciences and other disciplines and who do not intend to continue to further studies in Mathematics. Although students who do intend to study Mathematics beyond first year can take MATH1031 as a preparation for MATH1131, which does provide the foundation for further study in mathematics.",
+    "enrolmentConditions": "No conditions for enrolment found on Handbook page.",
+    "terms": [
+      "T1",
+      "T3"
+    ]
+  },
+  {
+    "code": "MATH1041",
+    "title": "Statistics for Life and Social Sciences",
+    "subject": "MATH",
+    "level": 1,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH1041.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH1041",
+    "description": "This course is for undergraduate students of life and social sciences. It is not intended for students who propose to study a substantial amount of statistics beyond first-year level. Students are assumed to have received a mark of at least 60 in HSC Mathematics Advanced or at least 70 in HSC Mathematics Standard or equivalent.\nThe course first introduces the concepts on which statistics is built, namely: Descriptive statistics: exploring the data using numerical and graphical summaries; Study designs and sampling; Probability and independence; Discrete distributions: the binomial distribution. Continuous distributions: the normal, t and chi-square distributions. Random variables: calculating the mean and variance. Building on those, the second part of the course presents techniques for making inference about the population from a sample, that is, using confidence intervals and tests of hypotheses: z-test, t-test and Chi-squared test for statistical independence. Linear regression: correlation, residuals, estimation and prediction.\nTechnology is used throughout the course: Students will use the R software to analyse datasets.",
+    "enrolmentConditions": "No conditions for enrolment found on Handbook page.",
+    "terms": [
+      "T1",
+      "T2",
+      "T3"
+    ]
+  },
+  {
+    "code": "MATH1081",
+    "title": "Discrete Mathematics",
+    "subject": "MATH",
+    "level": 1,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH1081.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH1081",
+    "description": "This course will enhance students' research, inquiry, and analytical thinking abilities and provide them with the mathematical language and mathematical techniques to unravel many seemingly unrelated problems. The course content addresses five major pillars of discrete mathematics: set theory, number theory, proofs and logic, combinatorics, and graph theory. The theory covered will provide a good foundation for understanding many problems that arise in all science disciplines, particularly higher mathematics and computer science.\nThe mathematical problem-solving skills that students will develop are based on logical arguments and mathematical language that can be applied in multidisciplinary work. The course will also engage students in independent and reflective learning through independent mastery of a wide range of tutorial problems. The course also develops students' communication skills through active participation in tutorials, critical analysis of the work of their peers, and presenting clear, logical arguments when solving problems.\nThe course is delivered through 5 hours of lectures and 2 hours of tutorials per week, along with weekly self-paced online lessons. All topics are taught from first principles, but due to the relatively fast pace of delivery, it is recommended for students with a solid background in HSC Mathematics Advanced. The course provides a strong foundation for students intending to study higher-level mathematics or computer science.",
+    "enrolmentConditions": "No conditions for enrolment found on Handbook page.",
+    "terms": [
+      "T1",
+      "T2",
+      "T3"
+    ]
+  },
+  {
+    "code": "MATH1099",
+    "title": "Advanced Mathematics IT Placement 1 (Co-op)",
+    "subject": "MATH",
+    "level": 1,
+    "uoc": 12,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH1099.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH1099",
+    "description": "This course provides scholars with an opportunity to practice mathematics and teamwork in an industry environment. Scholars will spend a term working full-time at one of the Sponsor organisations, working on projects with real-world impact while receiving mentoring from their hosts.\nScholars will undertake an internship at a sponsor company assigned by the Co-op office of 20 weeks. Scholars are expected to contact their assigned sponsor at least 6-8 weeks before each placement to discuss the date of commencement (last allowable commencement date as per Co-op IT guidelines). Scholars will be required to fill in and sign a Professional Development Agreement outlining the goals and expectations before the start of the placement.\nNote: Only available to UNSW Advanced Mathematics Co-op Scholars.",
+    "enrolmentConditions": "Co-Op Scholar enrolled in 3956 or 3959",
+    "terms": [
+      "T3"
+    ]
+  },
+  {
+    "code": "MATH1131",
+    "title": "Mathematics 1A",
+    "subject": "MATH",
+    "level": 1,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH1131.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH1131",
+    "description": "This course builds on high school calculus-based courses to provide a solid foundation for further study in mathematics for students in STEM disciplines. It is taken by undergraduate students typically in their first year and is usually followed by MATH1231 or MATH1241. The Calculus half of the course develops a deeper understanding of continuous and differentiable functions and introduces the Riemann integral. It shows how theorems such as the Maximum-Minimum Theorem, the Intermediate Value Theorem and Mean Value Theorems are used to justify properties of common functions and to solve both theoretical and applied problems. The Algebra half of the course introduces vectors and matrices and the solution of systems of linear equations by Gaussian elimination which paves the way for linear algebra in later courses. Technology is used throughout the course through use of the Maple computer algebra system and students producing a typeset assignment. Students are assumed to have a good understanding of NSW HSC Mathematics Extension 1 and 2 subjects.\nMATH1131 has a higher version, MATH1141, has greater depth and a greater emphasis on proof and rigorous argument than MATH1131.",
+    "enrolmentConditions": "No conditions for enrolment found on Handbook page.",
+    "terms": [
+      "T1",
+      "T2",
+      "T3"
+    ]
+  },
+  {
+    "code": "MATH1141",
+    "title": "Higher Mathematics 1A",
+    "subject": "MATH",
+    "level": 1,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH1141.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH1141",
+    "description": "This course builds on high school calculus-based courses to provide a solid foundation for further study in mathematics for students in STEM disciplines. It is taken by undergraduate students typically in their first year and is usually followed by MATH1241 or MATH1231 and, as the higher version of MATH1131, has greater depth and a greater emphasis on proof and rigorous argument than MATH1131. The Calculus half of the course develops a deeper understanding of continuous and differentiable functions and introduces the Riemann integral. It shows how theorems such as the Maximum-Minimum Theorem, the Intermediate Value Theorem and Mean Value Theorems are used to rigorously justify properties of common functions and to solve both theoretical and applied problems. The Algebra half of the course introduces vectors and matrices and the solution of systems of linear equations by Gaussian elimination which paves the way for linear algebra in later courses. Technology is used throughout the course through use of the Maple computer algebra system and students producing a typeset assignment. Students are assumed to have a good understanding of NSW HSC Mathematics Extension 1 and 2 subjects.",
+    "enrolmentConditions": "No conditions for enrolment found on Handbook page.",
+    "terms": [
+      "T1",
+      "T3"
+    ]
+  },
+  {
+    "code": "MATH1151",
+    "title": "Mathematics for Actuarial Studies and Finance 1A",
+    "subject": "MATH",
+    "level": 1,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH1151.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH1151",
+    "description": "This course, together with MATH1251, provides the mathematical foundation needed for Actuarial Studies and related disciplines, as well as possible further studies in mathematics and statistics. MATH1151 builds on high school level calculus, focussing first on a more rigorous development of limits and continuous and differentiable functions, and then introduces multivariable calculus with partial derivatives, tangent planes and multivariable chain rules. The Riemann Integral is linked to differential calculus though the fundamental theorem of calculus and techniques of numerical integration are introduced. Vectors and vector geometry are further developed from high school and matrix algebra introduced. Linear equations are treated with Gaussian elimination and matrix methods, and these are used for applications such as basic input-output linear models and least squares approximation. Discrete and continuous random variables are studied including the central limit theorem. Matlab is used throughout MATH1151.\nAssumed knowledge: HSC Mathematics Extension 1. Students will be expected to have achieved a combined mark of at least 140 in HSC Mathematics Advanced and HSC Mathematics Extension 1 or a combined mark of 175 in HSC Mathematics Extension 1 and Extension 2.",
+    "enrolmentConditions": "No conditions for enrolment found on Handbook page.",
+    "terms": [
+      "T1"
+    ]
+  },
+  {
+    "code": "MATH1231",
+    "title": "Mathematics 1B",
+    "subject": "MATH",
+    "level": 1,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH1231.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH1231",
+    "description": "This course builds on MATH1131 or MATH1141 to provide a solid foundation for further study in mathematics for students in STEM disciplines. It is taken by undergraduate students typically in their first year. The Calculus half of the course covers partial derivatives and multivariable chain rules, further techniques of integration and applications of integration, ordinary differential equations, sequences, series and Taylor series. The Linear Algebra half of the course introduces abstract linear algebra, covering vector spaces and linear transformations and eigenvalue and eigenvectors. In addition, there is a topic on probability distributions. Technology is used throughout the course through use of the Maple computer algebra system and students producing a typeset assignment that focuses on written communication skills.\nMATH1231 has a higher version, MATH1241, that has greater depth and a greater emphasis on proof and rigorous argument than MATH1231.",
+    "enrolmentConditions": "Prerequisite: MATH1131 or MATH1141 or DPST1013",
+    "terms": [
+      "T1",
+      "T2",
+      "T3"
+    ]
+  },
+  {
+    "code": "MATH1241",
+    "title": "Higher Mathematics 1B",
+    "subject": "MATH",
+    "level": 1,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH1241.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH1241",
+    "description": "This course builds on MATH1131 or MATH1141 to provide a solid foundation for further study in mathematics for students in STEM disciplines. It is taken by undergraduate students typically in their first year. MATH1241 is the higher version of MATH1231 and has greater depth and a greater emphasis on proof and rigorous argument than MATH1231. The Calculus half of the course covers partial derivatives and multivariable chain rules, further techniques of integration and applications of integration, ordinary differential equations, sequences, series and Taylor series. The Linear Algebra half of the course introduces abstract linear algebra, covering vector spaces and linear transformations and eigenvalue and eigenvectors. In addition, there is a topic on probability distributions. Technology is used throughout the course through use of the Maple computer algebra system and students producing a typeset assignment that focuses on written communication skills.",
+    "enrolmentConditions": "Prerequisite: MATH1131 (CR) or MATH1141 (CR) or DPST1013 (CR)",
+    "terms": [
+      "T1",
+      "T2"
+    ]
+  },
+  {
+    "code": "MATH1251",
+    "title": "Mathematics for Actuarial Studies and Finance 1B",
+    "subject": "MATH",
+    "level": 1,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH1251.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH1251",
+    "description": "This course builds on the calculus and linear algebra in MATH1151. MATLAB is used throughout. The course is delivered through a series of lectures, classroom tutorials, and online lessons and spans topics in both linear algebra and calculus. In linear algebra, abstract vector spaces and linear transforms are introduced so that the study of vectors and matrices in MATH1151 can be applied to a wide range of applications. The concepts such as spans, linear independence, basis, dimension, kernel, image are studied in both abstract and concrete examples, with links made to data fitting and differential equations. Eigenvalues and eigenvectors are studied along with their applications to Markov chains and systems of differential equations. In calculus, further techniques of integration and the theory and applications of first and second order ordinary differential equations are studied, including existence and uniqueness results and numerical methods. Double integrals, including change of variables are introduced. Convergence results for sequences and series are developed along with Taylor polynomials in both one and two variables and their applications. Optimisation techniques, including classification of critical points and Lagrange multipliers are studied.",
+    "enrolmentConditions": "Prerequisite: MATH1151.",
+    "terms": [
+      "T2"
+    ]
+  },
+  {
+    "code": "MATH2011",
+    "title": "Several Variable Calculus",
+    "subject": "MATH",
+    "level": 2,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH2011.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH2011",
+    "description": "This course introduces students to differential, integral and vector calculus for functions of more than one variable. Topics covered in lectures and tutorials include functions of several variables, limits and continuity, differentiability, gradients, surfaces, maxima and minima, Taylor series, Lagrange multipliers, chain rules, inverse function theorem, Jacobian derivatives. Double and triple integrals, iterated integrals, Riemann sums, cylindrical and spherical coordinates, change of variables, centre of mass. Vector calculus, line integrals, parametrised surfaces, surface integrals, del, divergence and curl, Stokes\u00e2\u0080\u0099 theorem, Green\u00e2\u0080\u0099s theorem in the plane, applications to fluid dynamics and electrodynamics.",
+    "enrolmentConditions": "Prerequisite: MATH1231 or MATH1241 or MATH1251 or DPST1014",
+    "terms": [
+      "T1"
+    ]
+  },
+  {
+    "code": "MATH2018",
+    "title": "Engineering Mathematics 2D",
+    "subject": "MATH",
+    "level": 2,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH2018.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH2018",
+    "description": "This course allows students in Engineering programs to explore a range of concepts at the core of applied mathematics. Through a series of online lectures and problem-solving classes, students are shown various methodologies to solving practical example problems from these topics in their discipline. Topics include: partial differentiation and applications, vector algebra, double integrals, ordinary differential equations, introduction to vector field theory, extrema of functions of 2 variables, matrices and their applications, Laplace transforms, Fourier series, partial differential equations and their solution for selected physical problems. Note: Available only to students for whom it is specifically required as part of their program. MATH2018 is equivalent to MATH2019.",
+    "enrolmentConditions": "Prerequisite: MATH1231 or MATH1241 or MATH1251 or DPST1014",
+    "terms": [
+      "T1",
+      "T2",
+      "T3"
+    ]
+  },
+  {
+    "code": "MATH2019",
+    "title": "Engineering Mathematics 2E",
+    "subject": "MATH",
+    "level": 2,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH2019.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH2019",
+    "description": "This subject allows students in Engineering programs to explore a range of concepts at the core of applied mathematics. Through a series of online lectures and problem-solving classes, students are shown various methodologies for solving practical example problems from these topics in their discipline.\nTopics include: partial differentiation and applications, vector algebra, double integrals, ordinary differential equations, introduction to vector field theory, extrema of functions of 2 variables, matrices and their applications, Laplace transforms, Fourier series, partial differential equations and their solution for selected physical problems.\nNote: Available only to students for whom it is specifically required as part of their program. MATH2019 is equivalent to MATH2018.",
+    "enrolmentConditions": "Prerequisite: MATH1231 or MATH1241 or MATH1251 or DPST1014",
+    "terms": [
+      "T1"
+    ]
+  },
+  {
+    "code": "MATH2069",
+    "title": "Mathematics 2A",
+    "subject": "MATH",
+    "level": 2,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH2069.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH2069",
+    "description": "This is a second year mathematics course for engineering students which introduces fundamental mathematical concepts that are used in many areas of physics and engineering.\nThis course includes two streams, vector calculus and complex analysis. The vector calculus stream studies calculus for functions involving multiple variables. Topics covered in this stream include curves in space; optimization methods for functions of two and three variables; double and triple integration; line and surface integrals, and the theorems of Green, Gauss, and Stokes. The complex analysis stream studies differentiation and integration for functions of a complex variable. Topics in this stream include mapping problems; the Cauchy-Riemann equations; the Cauchy-Goursat Theorem and Cauchy\u00e2\u0080\u0099s Integral formula; Taylor and Laurent series; and applications of complex function theory to real integration.\nThe course delivery includes lectures and tutorials.\nNote: This course is available only to students for whom it is specifically required as part of their program.",
+    "enrolmentConditions": "Prerequisite: MATH1231 or MATH1241 or MATH1251 or DPST1014",
+    "terms": [
+      "T3"
+    ]
+  },
+  {
+    "code": "MATH2089",
+    "title": "Numerical Methods and Statistics",
+    "subject": "MATH",
+    "level": 2,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH2089.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH2089",
+    "description": "This course gives an introduction to numerical methods and statistics essential in a wide range of engineering disciplines.\nNumerical methods: Computing with real numbers. Numerical differentiation, integration, interpolation and curve fitting (regression analysis). Solution of linear and nonlinear algebraic equations. Matrix operations and applications to solution of systems of linear equations, elimination and tri-diagonal matrix algorithms. Introduction to numerical solution of ordinary and partial differential equations.\nStatistics: Exploratory data analysis. Probability and distribution theory including the Binomial, Poisson and Normal distributions. Large sample theory including the Central Limit Theorem. Elements of statistical inference including estimation, confidence intervals and hypothesis testing. One-sample and two-sample t-tests. Simple linear regression and analysis of variance.\nIn each component, applications will be drawn from a variety of engineering disciplines. MATLAB or Python will be used as a practical tool for both numerical and statistical computations and to illustrate theoretical concepts that are introduced during lectures and tutorials.",
+    "enrolmentConditions": "Prerequisite: MATH1231 or MATH1241 or MATH1251 or DPST1014",
+    "terms": [
+      "T1",
+      "T3"
+    ]
+  },
+  {
+    "code": "MATH2099",
+    "title": "Mathematics 2B",
+    "subject": "MATH",
+    "level": 2,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH2099.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH2099",
+    "description": "Linear algebra is a key tool in mathematics and its applications. Topics include vector spaces, linear transformations, change of basis, inner products, orthogonalization, least squares approximation, QR factorization, determinants, eigenvalues and eigenvectors, diagonalization, Jordan forms, matrix exponentials and applications to systems of differential equations, other applications of linear algebra.\nProbability and statistics provide tools to apply and interpret statistical methods in an Engineering context and to build foundations for future courses in their programs. Topics include descriptive statistics, random variables and special probability distributions such as Binomial, Poisson, Exponential and Normal, sampling distribution and the Central Limit Theorem, statistical inference for proportions and means including confidence intervals and hypothesis testing, statistical analysis in the simple linear regression model and analysis of variance. MATLAB will be used in the statistics part of the course as a tool for statistical computations and graphical and numerical illustration of theoretical concepts.\nThe course is delivered through a series of lectures and tutorials, where students can extend and refine their knowledge of the lecture material.",
+    "enrolmentConditions": "Prerequisite: MATH1231 or MATH1241 or MATH1251 or DPST1014",
+    "terms": [
+      "T2"
+    ]
+  },
+  {
+    "code": "MATH2111",
+    "title": "Higher Several Variable Calculus",
+    "subject": "MATH",
+    "level": 2,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH2111.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH2111",
+    "description": "This is a core second-year higher mathematics course for students from all disciplines. The course extends the theory of one-variable calculus to functions or mappings with several variables. It forms the foundation for various courses in pure and applied mathematics, as well as in physics, economics and others. Topics covered include functions of several variables, limits and continuity, differentiability, gradients, surfaces, maxima and minima, Taylor series, Lagrange multipliers, chain rules, inverse function theorem, Jacobian derivatives, double and triple integrals, iterated integrals, Riemann sums, cylindrical and spherical coordinates, change of variables, centre of mass, curves in space, line integrals, parametrised surfaces, surface integrals, divergence and curl, Stokes' theorem, Green's theorem in the plane, and applications of integral theorems. The material will be covered in lectures, problem sheets will be discussed in tutorials.",
+    "enrolmentConditions": "Prerequisite: MATH1231 or MATH1241 or MATH1251 or DPST1014 each with a mark of at least 70",
+    "terms": [
+      "T1"
+    ]
+  },
+  {
+    "code": "MATH2121",
+    "title": "Theory and Applications of Differential Equations",
+    "subject": "MATH",
+    "level": 2,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH2121.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH2121",
+    "description": "This course builds on elementary knowledge of differential equations (taught in MATH1231 at UNSW) to provide further theory and methods for solving ordinary differential equations and partial differential equations with illustrative applications in physics, engineering, and biology.\nThe specific topics for ordinary differential equations include: first order, linear second order, variation of parameters, dynamical systems, power series representations and Frobenius method, orthogonal functions and Fourier series, initial and boundary value problems, eigenfunction expansions, Bessel's equation. For partial differential equations, topics include: classification, method of separation of variables, application of Fourier series, heat equation, wave equation, Laplace's equation, applications of Bessel functions.\nTutorials are designed to reinforce the techniques taught in lectures for solving differential equations.",
+    "enrolmentConditions": "Prerequisite: MATH1231 or MATH1241 or MATH1251 or DPST1014",
+    "terms": [
+      "T2"
+    ]
+  },
+  {
+    "code": "MATH2221",
+    "title": "Higher Theory and Applications of Differential Equations",
+    "subject": "MATH",
+    "level": 2,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH2221.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH2221",
+    "description": "This course builds upon students\u00e2\u0080\u0099 studies on first-order ordinary and second order ordinary differential equations with constant coefficients from their first-year mathematics courses. In this course, students explore second-order ordinary differential equations with variable coefficients and, in addition, are introduced to partial differential equations. An investigation of boundary value problems is conducted, and these problems are contrasted with the initial value problems. Not all differential equations can be solved in terms of known functions such as polynomials and exponentials and the like. At the completion of the course, students will understand how to get information about the solution in these cases using power series methods and the Frobenius method. They will also understand how to find solutions to boundary value problems in 1D using Sturm-Liouville methods and Fourier series methods, and find solutions to boundary value problems in 2D using Elliptic differential operators, Green identities, Elliptic eigenproblems and Wave & diffusion equations. This course is a prerequisite for the third year courses MATH3121 Mathematical Methods and Partial Differential Equations, MATH3120 Dynamical Systems and Chaos, and MATH3261 Fluids, Oceans and Climates.\nAll content of MATH2121 is common to MATH2221, but presented in greater depth, and with some additional topics. Instruction consists of four hours of lecture per week together with one hour of tutorial per week. Both lecture and tutorial instruction are delivered face-to-face.",
+    "enrolmentConditions": "Prerequisite: MATH1231 or MATH1241 or MATH1251 or DPST1014, each with a mark of 70 or higher.",
+    "terms": [
+      "T2"
+    ]
+  },
+  {
+    "code": "MATH2241",
+    "title": "Introduction to Atmosphere and Ocean Dynamics",
+    "subject": "MATH",
+    "level": 2,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH2241.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH2241",
+    "description": "This course introduces students to mathematical models for the circulation of the atmosphere and oceans. The equations of motion are exploited to provide simplified models for phenomena including the effects of the Earth's rotation, large-scale balanced flows, waves and potential vorticity, and the energy balance in the climate system. Some fundamentals of geophysical fluid dynamics are developed first and then allied to the oceans, to the atmosphere, and to the role of both in the climate system.",
+    "enrolmentConditions": "Prerequisite: MATH1231 or DPST1014 or MATH1241 or MATH1251",
+    "terms": [
+      "T1"
+    ]
+  },
+  {
+    "code": "MATH2301",
+    "title": "Mathematical Computing",
+    "subject": "MATH",
+    "level": 2,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH2301.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH2301",
+    "description": "This is an introductory level course in computational mathematics for students from all disciplines. The course has both a laboratory and theoretical component. Topics covered include Introduction to Matlab and Python, floating point arithmetic, difference equations, nonlinear equations, numerical differentiation and integration, initial value problems. The course provides a foundation for mathematical modelling and simulation.",
+    "enrolmentConditions": "Prerequisite: MATH1031(CR) or MATH1231 or MATH1241 or MATH1251 or DPST1014",
+    "terms": [
+      "T1"
+    ]
+  },
+  {
+    "code": "MATH2399",
+    "title": "Advanced Mathematics Internship 2 (Co-op)",
+    "subject": "MATH",
+    "level": 2,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH2399.html",
+    "handbookUrl": null,
+    "description": null,
+    "enrolmentConditions": null,
+    "terms": [
+      "U1",
+      "T1",
+      "T2",
+      "T3"
+    ]
+  },
+  {
+    "code": "MATH2400",
+    "title": "Finite Mathematics",
+    "subject": "MATH",
+    "level": 2,
+    "uoc": 3,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH2400.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH2400",
+    "description": "This is an introduction to those areas of Mathematics which (amongst other things) underpin important areas of computing. The main topics are integer and modular arithmetic (including tests for primality of integers), polynomial algebra (including factorisation of polynomials and construction of new fields), and an introduction to cryptography and error-correcting codes. The course is delivered through a series of lectures and tutorials, along with weekly self-paced online lessons. All topics are taught from first principles, but due to the relatively fast pace of delivery, MATH1081 \u00e2\u0080\u0093 Discrete Mathematics is recommended prior knowledge. The course provides a strong foundation for students intending to study higher-level mathematics or computer science, and is a core course for the Bachelor of Engineering (Honours) (Software) degree.\nSince the introduction of digital computers, the renewed importance of discrete and thus finite theory in mathematics has become apparent. For this reason, MATH2400 \u00e2\u0080\u0093 Finite Mathematics should prove useful to future Computer Scientists and Software Engineers while at the same time providing Mathematics students with an introduction to ideas in Number Theory, Finite Fields, Cryptography, and Algebraic Coding Theory. The related course MATH3411 \u00e2\u0080\u0093 Information, Codes and Ciphers develops some of these ideas in greater depth.",
+    "enrolmentConditions": "Prerequisite: MATH1081 or MATH1231 or DPST1014 or MATH1241 or MATH1251",
+    "terms": [
+      "T2"
+    ]
+  },
+  {
+    "code": "MATH2501",
+    "title": "Linear Algebra",
+    "subject": "MATH",
+    "level": 2,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH2501.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH2501",
+    "description": "Linear algebra is a critical tool in all mathematics and its applications. For example, the output of many electrical circuits depends linearly on the input (over moderate ranges of input), and successfully correcting the trajectory of a space probe involves repeatedly solving systems of linear equations in hundreds of variables. Linear methods are vital in ecological population models and in mathematics itself. Students have been introduced to systems of linear equations and matrices, vector spaces and linear transformations in first-year Mathematics courses without understanding all the subtleties involved.\nMATH2501 will review material from first year (MATH1231, MATH1241 or MATH1251) so that vector spaces and linear transformations become familiar friends rather than uneasy acquaintances. Students will learn about important geometric transformations: projections, rotations, and reflections. Students will see their applications, such as the least squares approximations, and will learn how to view many linear transformations as being made up of \u00e2\u0080\u009cstretches\u00e2\u0080\u009d; in various directions, the so-called diagonalisation process, and the more general Jordan form. The course will also introduce Jordan forms, which are used to calculate functions of matrices, such as the exponential of a matrix and hence to solve systems of linear differential equations.\nThe course is delivered through lectures and tutorials, which provide guidance and activities to help students refine and apply the knowledge gained in lectures.\nNote: MATH2601 is the higher level version of this course, which is primarily but not exclusively intended for students aiming to complete honours in applied mathematics, pure mathematics, statistics or data science, and so aims to give students a deeper level of understanding of the course content.",
+    "enrolmentConditions": "Prerequisite: MATH1231 or MATH1241 or MATH1251 or DPST1014",
+    "terms": [
+      "T2"
+    ]
+  },
+  {
+    "code": "MATH2521",
+    "title": "Complex Analysis",
+    "subject": "MATH",
+    "level": 2,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH2521.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH2521",
+    "description": "This course provides an introduction to the theory and applications of complex functions. Topics covered include holomorphic functions, Taylor and Laurent series, integrals, Cauchy's theorem, residues, evaluation of certain real integrals. The key topics are introduced during lectures and tutorials.\nMATH2521 is a core second year mathematics course. Either this course or MATH2621 Higher Complex Analysis is compulsory for Mathematics majors. The higher version is strongly recommended for students intending to proceed to Honours in mathematics.",
+    "enrolmentConditions": "Prerequisite: MATH1231 or MATH1241 or MATH1251 or DPST1014",
+    "terms": [
+      "T3"
+    ]
+  },
+  {
+    "code": "MATH2601",
+    "title": "Higher Linear Algebra",
+    "subject": "MATH",
+    "level": 2,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH2601.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH2601",
+    "description": "The course begins with a revision and extension of material on vector spaces, linear transformations, basis and dimension from first year. It also covers inner products over both the real and complex fields, orthogonalization, reflections, QR factorizations and unitary, self-adjoint and normal transformations. It then turns to the study of eigenvalues and eigenvectors, diagonalization and Jordan forms and functions of matrices. The course also includes applications to linear systems of differential equations, quadratics and rotations as time permits. The course is primarily but not exclusively intended for students aiming to complete honours in applied mathematics, pure mathematics, statistics or data science, and so where content is in common with MATH2501, MATH2601, aims to give students a deeper level of understanding. The course consists of lectures and tutorials, where the latter may be run as active classrooms.",
+    "enrolmentConditions": "Prerequisite: MATH1231 or MATH1241 or MATH1251 or DPST1014, each with a mark of 70 or higher",
+    "terms": [
+      "T2"
+    ]
+  },
+  {
+    "code": "MATH2621",
+    "title": "Higher Complex Analysis",
+    "subject": "MATH",
+    "level": 2,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH2621.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH2621",
+    "description": "This is a first course in the theory and applications of complex functions, taught at the Higher level. Topics covered include analytic functions, Taylor and Laurent series, integrals, Cauchy\u00e2\u0080\u0099s theorem, residues, evaluation of certain real integrals, Laplace transforms, conformal mappings and applications to differential equations.\nThe course is part of the Advanced Mathematics degree and the Advanced Science degree with a mathematics major of choice.\nThe course includes 4 lectures and 1 tutorial every week. All activities will be held in person on campus.",
+    "enrolmentConditions": "Prerequisite: MATH1231 or MATH1241 or MATH1251 or DPST1014 each with a mark of at least 70",
+    "terms": [
+      "T3"
+    ]
+  },
+  {
+    "code": "MATH2701",
+    "title": "Abstract Algebra and Fundamental Analysis",
+    "subject": "MATH",
+    "level": 2,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH2701.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH2701",
+    "description": "Mathematics went through quite a revolution around the turn of the 20th century. In particular, an axiomatic approach infiltrated the mathematical paradigm, both as a tool to ensure mathematical rigour and to abstract common principles working in a variety of different settings.\nFirst year mathematics emphasizes computation over abstraction and rigour. Later year courses (and Pure Mathematics in general) reverse this, so students need to learn some new skills and some new ways of thinking about mathematical objects.\nThe course consists of two halves, algebra and analysis, using lectures and tutorials for content delivery and investigation. The analysis part of the course begins with inequalities and how to bound quantities that cannot be calculated precisely. Many nice examples from geometry will be used to motivate discussions. Then the focus switches to aspects of the real numbers, such as how well one can approximate \u00cf\u0080 by a rational p/q (in terms of how large q is).\nThe algebra half of the course looks at transformations on the plane and projective plane, studying maps such as translations, reflections, rotations in terms of groups. Topics include transformations of geometric figures that preserve some property (such as distance or angles between lines), and projective geometry. Projective transformations can change a conic section of one type to another, e.g. an ellipse to a hyperbola.",
+    "enrolmentConditions": "Prerequisite: MATH1231 or DPST1014 or MATH1241 or MATH1251 with at least a CR, enrolment in an advanced maths or advanced science program",
+    "terms": [
+      "T3"
+    ]
+  },
+  {
+    "code": "MATH2801",
+    "title": "Theory of Statistics",
+    "subject": "MATH",
+    "level": 2,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH2801.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH2801",
+    "description": "The course introduces theoretical concepts used in classical and modern statistics. MATH2801 is the entry-point for a statistics major and a prerequisite for most higher-level statistics courses. Topics covered include probability, random variables, standard distributions, bivariate distributions, transformations, central limit theorem, sampling distributions, point estimation, interval estimation, maximum likelihood estimation and hypothesis testing. Students will use the (free) statistics package R/RStudio. Lecture content will be delivered either in-person or online and will be recorded and made available online. Tutorials will be either in-person or online.\nNote: The Assumed Knowledge is first year probability theory and integration. Probability theory revision notes will be made available online and some exercises will be revised briefly in the first tutorial. MATH2801 is compulsory for mathematics majors to ensure an introduction to statistics as a discipline for studying stochastic (random) systems, as opposed to the deterministic. MATH2901 (Higher Theory of Statistics) is a more theoretical/advanced version of MATH2801 which spends more time on proof and theoretical considerations.",
+    "enrolmentConditions": "Prerequisite: MATH1231 or MATH1241 or MATH1251 or DPST1014",
+    "terms": [
+      "T2"
+    ]
+  },
+  {
+    "code": "MATH2831",
+    "title": "Linear Models",
+    "subject": "MATH",
+    "level": 2,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH2831.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH2831",
+    "description": "This course gives an understanding of the fundamentals of regression modelling, which is essential for anyone contemplating a career as a professional statistician or higher study in statistics for students majoring in mathematics and statistics. Topics covered in the course include parameter estimation in linear models, model comparison using hypothesis testing, methods for selecting a good model when prediction of the response is the goal, detecting violations of model assumptions and identifying observations which have undue influence on decisions of interest. The various components of the course (lectures, tutorials, computer labs, assignments) will improve the research and enquiry skills, as well as analytical thinking abilities of the students. Essential computing skills in relation to statistical analysis of data will also be developed.",
+    "enrolmentConditions": "Prerequisite: MATH2801 or MATH2901.",
+    "terms": [
+      "T3"
+    ]
+  },
+  {
+    "code": "MATH2859",
+    "title": "Probability, Statistics and Information",
+    "subject": "MATH",
+    "level": 2,
+    "uoc": 3,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH2859.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH2859",
+    "description": "This course provide tools to apply and interpret statistical methods in an Engineering context and to build foundations for future courses. Topics include descriptive statistics, random variables and special probability distributions such as Binomial, Poisson, Exponential and Normal, sampling distribution and the Central Limit Theorem, statistical inference for proportions and means including confidence intervals and hypothesis testing, statistical analysis in the simple linear regression model and analysis of variance. MATLAB will be used as a tool for statistical computations and graphical and numerical illustration of theoretical concepts introduced during the lecture series, and applied during computing labs.",
+    "enrolmentConditions": "Prerequisite: MATH1231 or MATH1241 or MATH1251 or DPST1014",
+    "terms": [
+      "T2"
+    ]
+  },
+  {
+    "code": "MATH2871",
+    "title": "Data Management for Statistical Analysis",
+    "subject": "MATH",
+    "level": 2,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH2871.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH2871",
+    "description": "This is an introductory programming course using the R language for second-year students in the disciplines of Data Science, Statistics, and Commerce. The course includes both lectures and computer laboratories. It introduces students to the use of R and RStudio for data management, manipulation, visualization, and statistical analysis. Students will learn to: \u00e2\u0080\u00a2Organize, explore, and query data using spreadsheet tools and R packages such as tidyverse. \u00e2\u0080\u00a2Perform data cleaning, wrangling, and transformation using R programming. \u00e2\u0080\u00a2Apply data screening, exploratory data analysis, and graphical visualization methods. \u00e2\u0080\u00a2Conduct statistical analyses using a range of R functions and packages. The course emphasizes practical skills in data management and analysis through hands-on exercises and projects. The knowledge and programming techniques developed are generic and transferable to other modern statistical and data science tools.",
+    "enrolmentConditions": "Prerequisite: MATH1041 or ECON1203 or PSY2001 or MATH1231 or MATH1241 or MATH1251 or DPST1014 or equivalent",
+    "terms": [
+      "T1"
+    ]
+  },
+  {
+    "code": "MATH2901",
+    "title": "Higher Theory of Statistics",
+    "subject": "MATH",
+    "level": 2,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH2901.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH2901",
+    "description": "This course is the entry point for a statistics major and a prerequisite for most higher-level statistics courses. Statistics has important connections with many branches of mathematics and offers an interesting career path for the mathematically minded. This course will introduce the basics of statistics from a mathematical perspective. Topics include random variables, univariate, and bivariate distributions, transformations of random variables, convergence of random variables, the sampling distribution and the Central Limit Theorem. Estimation and inference which include moment and likelihood estimation, interval estimation, and hypothesis testing are also covered. Students in MATH2901 will focus on proof and theoretical considerations, extension material and challenge questions. MATH2801 will focus more on the core material and developing key skills in mathematical statistics.",
+    "enrolmentConditions": "Prerequisite: MATH1231 or MATH1241 or MATH1251 or DPST1014",
+    "terms": [
+      "T2"
+    ]
+  },
+  {
+    "code": "MATH2931",
+    "title": "Higher Linear Models",
+    "subject": "MATH",
+    "level": 2,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH2931.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH2931",
+    "description": "This course is intended for students completing data science and statistics majors Through a series of lectures and tutorials, the course will cover key topics including linear regression computation and inference, and modern model/feature selection methods used in data mining and computational statistics. Where content is in common with MATH2831, this course aims to give students a deeper level of understanding.",
+    "enrolmentConditions": "Prerequisite: MATH2901 or MATH2801(DN)",
+    "terms": [
+      "T3"
+    ]
+  },
+  {
+    "code": "MATH2991",
+    "title": "Data and Algorithms in Trading",
+    "subject": "MATH",
+    "level": 2,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH2991.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH2991",
+    "description": "Global financial markets are a battlefield of mathematics, data, algorithms and AI. How would you even think about entering this theatre of information to make your mark with a successful trading strategy? This course will be taught in partnership with Optiver, the largest global options market maker in the world. Through a hands-on trading-floor style approach, we will show you how to build competitive trading strategies from scratch. We will start by showing you how to select, process and synthesise key information into signals that will transform your understanding of how financial markets operate. From this, you will infuse your insights with mathematics to propose and create your own trading strategies. Finally, you will learn how to convert your strategies into algorithms for deployment against your fellow students on a live virtual marketplace.",
+    "enrolmentConditions": "Prerequisite: MATH1231 or MATH1241 or MATH1251",
+    "terms": [
+      "T2"
+    ]
+  },
+  {
+    "code": "MATH3000",
+    "title": "Mathematics/Statistics Project",
+    "subject": "MATH",
+    "level": 3,
+    "uoc": 3,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH3000.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH3000",
+    "description": "This course enables the student to undertake an investigation into a specific area of mathematics and statistics under the supervision of a member of staff from the School of Mathematics & Statistics. The project will include reading and/or research on a topic in Mathematics or Statistics or on applications of Mathematics or Statistics to other disciplines such as physical, biological or social sciences, Economics, Finance, Computing, etc. The project may, but does not require, the production of original results. The student will develop basic research skills such as literature reviews and citation tracing, placing the work in the current context of mathematics and statistics, mathematical insight and analysis as well as technical writing and presentation. The student is expected to write an essay/report summarising the results of their project.\nNote: Available only to students taking Mathematics majors and with permission from the School - see the School of Mathematics and Statistics website for details.",
+    "enrolmentConditions": "Prerequisite: 12 units of credit in Level 2 Maths courses.",
+    "terms": [
+      "U1",
+      "T1",
+      "T2",
+      "T3"
+    ]
+  },
+  {
+    "code": "MATH3001",
+    "title": "Mathematics/Statistics Project",
+    "subject": "MATH",
+    "level": 3,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH3001.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH3001",
+    "description": "This course enables the student to undertake an investigation into a specific area of mathematics and statistics under the supervision of a member of staff from the School of Mathematics & Statistics. The project will include reading and/or research on a topic in Mathematics or Statistics or on applications of Mathematics or Statistics to other disciplines such as physical, biological or social sciences, Economics, Finance, Computing, etc. The project may, but does not require, the production of original results. The student will develop basic research skills such as literature reviews and citation tracing, placing the work in the current context of mathematics and statistics, mathematical insight and analysis as well as technical writing and presentation. The student is expected to write an essay/report summarising the results of their project.\nNote: Available only to students taking Mathematics majors and with permission from the School - see the School of Mathematics and Statistics website for details.",
+    "enrolmentConditions": "Prerequisite: 12 units of credit in Level 2 Maths courses.",
+    "terms": [
+      "U1",
+      "T1",
+      "T2",
+      "T3"
+    ]
+  },
+  {
+    "code": "MATH3002",
+    "title": "Mathematics/Statistics Project",
+    "subject": "MATH",
+    "level": 3,
+    "uoc": 12,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH3002.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH3002",
+    "description": "This course enables the student to undertake an investigation into a specific area of mathematics and statistics under the supervision of a member of staff from the School of Mathematics & Statistics. The project will include reading and/or research on a topic in Mathematics or Statistics or on applications of Mathematics or Statistics to other disciplines such as physical, biological or social sciences, Economics, Finance, Computing, etc. The project may, but does not require, the production of original results. The student will develop basic research skills such as literature reviews and citation tracing, placing the work in the current context of mathematics and statistics, mathematical insight and analysis as well as technical writing and presentation. The student is expected to write an essay/report summarising the results of their project.\nNote: Available only to students taking Mathematics majors and with permission from the School - see the School of Mathematics and Statistics website for details.",
+    "enrolmentConditions": "Prerequisite: 12 units of credit in Level 2 Maths courses.",
+    "terms": [
+      "U1",
+      "T1",
+      "T2",
+      "T3"
+    ]
+  },
+  {
+    "code": "MATH3041",
+    "title": "Mathematical Modelling for Real World Systems",
+    "subject": "MATH",
+    "level": 3,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH3041.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH3041",
+    "description": "Should I run or walk in the rain? Why did Nelson win the Battle of Trafalgar? How will Earth\u00e2\u0080\u0099s climate evolve in the future?\nMathematical Modelling for Real World Systems is both for Mathematics and Statistics majors interested in how mathematics is applied and students from other fields looking for an overview of mathematical tools with practical applications.\nMotivated by real world problems, the course will survey mathematical techniques for: achieving the best possible outcomes, predicting future events and dealing with uncertainties. The course will provide introductions to data fitting, discrete time systems, simulation modelling, dimensional analysis and numerical simulation and involve substantial development of differential equations and systems of differential equations.\nReal world applications include: - Biology (e.g. cell growth and population dynamics) - Health (e.g. drug delivery and infectious diseases); - Finance; - Environment and Climate Change.\nAs part of the course requirements, students will be expected to work in groups on mathematical modelling projects and prepare a group report, both written and oral, describing the project. The course aims to equip students with the modelling skills and presentation skills for dealing with real world problems. The course involves weekly lectures and tutorials in the earlier parts of the term, transitioning to group work and seminar sessions towards the end of term.",
+    "enrolmentConditions": "Prerequisite: 12 units of credit in Level 2 Maths courses.",
+    "terms": [
+      "T2"
+    ]
+  },
+  {
+    "code": "MATH3051",
+    "title": "Applied Real and Functional Analysis",
+    "subject": "MATH",
+    "level": 3,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH3051.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH3051",
+    "description": "This course provides students in Applied Mathematics with basic knowledge of Real Analysis and Functional Analysis, topics that are particularly useful for the study of many other Applied Mathematics courses. In any area of applied research, methods should not be learnt without understanding their theoretical backgrounds. Understanding the theory behind the methods requires some abstract mathematics, and this forms the contents of this course.",
+    "enrolmentConditions": "Prerequisite: 12UOC of second year mathematics courses, including MATH2011 or MATH2111 or MATH2069(DN).",
+    "terms": [
+      "T3"
+    ]
+  },
+  {
+    "code": "MATH3101",
+    "title": "Computational Mathematics for Science and Engineering",
+    "subject": "MATH",
+    "level": 3,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH3101.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH3101",
+    "description": "Partial differential equations (PDEs) provide a natural mathematical description for many phenomena of interest in science and engineering. Such equations are often difficult or impossible to solve using purely analytical (pencil and paper) methods, especially for realistic industrial problems. This course introduces finite difference and finite element methods for elliptic and parabolic PDEs, and discusses key concepts such as stability, convergence and computational cost. Relevant techniques in numerical linear algebra are also discussed.\nThe course includes a substantial practical component dealing with the computer implementation of the algorithms used for solving partial differential equations. This component of the course is supported by a weekly computer lab. In addition, a weekly tutorial class provides exercises on the mathematical content covered in lectures.\nThe course is intended for students in mathematics programs, or students in science and engineering programs who have a strong mathematical background and an interest in computer modelling.\nNote: Students must have prior experience with computer programming using Python, Matlab or Julia. For example, successful completion of an introductory programming course involving one of these three languages should be sufficient.",
+    "enrolmentConditions": "Prerequisite: 12 units of credit in Level 2 Math courses including (MATH2011 or MATH2111) and (MATH2121 or MATH2221) or (both MATH2019(DN) and MATH2089) or (both MATH2069(CR) and MATH2099)",
+    "terms": [
+      "T2"
+    ]
+  },
+  {
+    "code": "MATH3121",
+    "title": "Mathematical Methods and Partial Differential Equations",
+    "subject": "MATH",
+    "level": 3,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH3121.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH3121",
+    "description": "This is an applied mathematics course that builds on MATH2120 Mathematical Methods for Differential Equations. The course will present ways of solving the (usually partial) differential equations that arise in physical, biological, and engineering applications. Many of the methods covered, such as Fourier Transforms, also have applications beyond the solution of differential equations.\nThe course begins by characterising different partial differential equations (PDEs), and exploring some methods of solution, such as similarity solutions and the method of characteristics. Integral transforms, including Fourier and Laplace transforms, are then investigated. These transforms are particularly useful for solving linear PDEs. Whilst complex contour integration is an intrinsic part of using these transforms, only brief references to complex variable methods will be made.\nThe success of integral transforms naturally leads to the discussion of Green\u00e2\u0080\u0099s function and integral forms of the solution of PDEs. The power of Green\u00e2\u0080\u0099s functions can be observed in their use as the inverses of differential operators on both infinite and bounded domains. Finally, we will explore techniques to examine the asymptotic behaviour of functions.\nThe course comprises of weekly lectures and tutorials.",
+    "enrolmentConditions": "Prerequisite: 12 units of credit in Level 2 Mathematics courses including (MATH2011 or MATH2111) and (MATH2121 or MATH2221) or (both MATH2019 (DN) and MATH2089) or both (MATH2069 (DN) and MATH2099)",
+    "terms": [
+      "T1"
+    ]
+  },
+  {
+    "code": "MATH3161",
+    "title": "Optimization",
+    "subject": "MATH",
+    "level": 3,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH3161.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH3161",
+    "description": "This is an advanced level course in optimization for undergraduate students from all disciplines. Optimization is a field that develops techniques for finding the best possible choice from numerous available alternatives for a given criterion. It provides mathematical methods and numerical algorithms for solving decision-making problems in industry, commerce and scientific disciplines. Optimization methods are likely to have significant impact in many application areas of optimization, such as inventory management, energy distribution and medical treatment planning, by improving inventory controls or reducing the distribution costs or increasing the efficacy of medical treatments. Topics covered in this course include optimization modelling; convexity of sets and functions; unconstrained and constrained optimization problems; optimality and duality principles; numerical methods such as Newton, conjugate gradient and penalty methods; optimal control problems; differential equations; the Pontryagin Maximum Principle; autonomous control problems with fixed and free targets. This is a mathematics course using linear algebra, multi-variable calculus and differential equation techniques.",
+    "enrolmentConditions": "Prerequisite: 12 units of credit in Level 2 Mathematics courses including MATH2011 or MATH2111 or MATH2510, and MATH2501 or MATH2601, or both MATH2019(DN) and MATH2089, or both MATH2069(CR) and MATH2099.",
+    "terms": [
+      "T1"
+    ]
+  },
+  {
+    "code": "MATH3191",
+    "title": "Mathematical Optimization for Data Science",
+    "subject": "MATH",
+    "level": 3,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH3191.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH3191",
+    "description": "This course provides undergraduate students with an introduction to the major mathematical ideas behind modern optimisation techniques. The course covers theoretical foundations necessary for the in-depth understanding of modern optimisation methods for data science. Through a series of lectures and tutorial classes, the optimisation methods are presented in the context of relevant applications such as the training of artificial neural networks and data classification. The methods discussed in the course include: (stochastic) gradient descent, projection and splitting techniques. The course prepares students for confident application of modern numerical methods to problems in data science and helps them build sufficient mastery of optimisation tools and techniques for designing and implementing tailored methods for solving new problems.",
+    "enrolmentConditions": "12 Units of Credit of Level 2 MATH courses, which must include MATH2011 or MATH2111or MATH2018(DN) or MATH2019(DN)",
+    "terms": [
+      "T3"
+    ]
+  },
+  {
+    "code": "MATH3201",
+    "title": "Dynamical Systems and Chaos",
+    "subject": "MATH",
+    "level": 3,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH3201.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH3201",
+    "description": "Many nonlinear systems do not have explicit solutions. The dynamical systems approach shifts the focus from finding explicit solutions to discovering geometric properties of solutions. It also recognises that even a small amount of nonlinearity in a physical system can be responsible for very complicated chaotic behaviour. During lectures and tutorials, students will learn the fundamentals of dynamical systems in discrete-time maps and continuous-time ODEs, allowing them to analyse the local and global behaviour of dynamical systems. Students will also learn how to analyse time series data using nonlinear tools and build appropriate predictive model.",
+    "enrolmentConditions": "Prerequisite: (MATH2501 or MATH2601 or MATH2089 or MATH2099) and (MATH2011 or MATH2111 or MATH2018 (DN) or MATH2019 (DN) or MATH2069 (CR) or MATH2121 or MATH2221)",
+    "terms": [
+      "T3"
+    ]
+  },
+  {
+    "code": "MATH3261",
+    "title": "Fluids, Oceans and Climate",
+    "subject": "MATH",
+    "level": 3,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH3261.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH3261",
+    "description": "This course introduces the mathematical modelling and theory of problems arising in the flow of fluids in the Earth's climate system. During lectures and tutorials, the dynamics underlying the circulation of the atmosphere and oceans are detailed using key concepts such as geostrophy, the deformation radius and the conservation of potential vorticity. The role of Rossby waves, turbulent boundary layers and stratification are also discussed. The atmosphere-ocean system as a global heat engine for climate variability is examined using models for buoyant forcing, quasi-geostrophy and baroclinic instability.",
+    "enrolmentConditions": "Prerequisite: 12 units of credit in Level 2 Math courses including (MATH2011 or MATH2111) or (MATH2121 or MATH2221) or (both MATH2019 (DN) and MATH2089) or (both MATH2069 (DN) and MATH2099)",
+    "terms": [
+      "T3"
+    ]
+  },
+  {
+    "code": "MATH3311",
+    "title": "Computational Mathematics for Finance",
+    "subject": "MATH",
+    "level": 3,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH3311.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH3311",
+    "description": "Finance is concerned with making definite numerical recommendations that frequently can only be obtained by analysing sophisticated models using high-speed computers. This course studies the design, implementation and use of computer programs to solve practical mathematical problems of relevance to finance, insurance and risk management. It includes a review of MATLAB/Python, floating point numbers, rounding error and computational complexity, and a selection of topics from: approximation and parameter estimation, Fourier series and the FFT, finite difference approximations, partial differential equations (Black-Scholes PDE), sparse linear systems, nonlinear algebraic equations, trees, Monte Carlo methods and simulation, random numbers and variance reduction, numerical integration. The teaching activities include weekly lectures in which the theoretical background is explained and weekly practical computing laboratory classes.",
+    "enrolmentConditions": "Prerequisite: (MATH2121 or MATH2221 or MATH2111) and (MATH2501 or MATH2601) and (MATH2801 or MATH2901 or MATH2871)",
+    "terms": [
+      "T2"
+    ]
+  },
+  {
+    "code": "MATH3361",
+    "title": "Stochastic Differential Equations: Theory, Applications, and Numerical Methods",
+    "subject": "MATH",
+    "level": 3,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH3361.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH3361",
+    "description": "Stochastic differential equation models play a prominent role in a range of application areas, including biology, chemistry, epidemiology, mechanics, microelectronics, economics, and finance. This course covers the theory and applications of stochastic differential equations, the design and implementation on computers of numerical methods for solving these practical mathematical equations. The course will start with a background knowledge of random variables, Brownian motion, and Ornstein-Uhlenbeck process. Other topics studied include: stochastic integrals, the Euler-Maruyama method, Milstein, higher order method, and stability and convergence. In addition to lectures, the distinct tutorial and lab classes will give students the opportunity to work on both mathematical exercises and computing problems.",
+    "enrolmentConditions": "Prerequisite: MATH2011 or MATH2111 or MATH2018 (DN) or MATH2019(DN) or MATH2069(DN) and MATH2801 or MATH2901 or MATH2089(DN) or MATH2099(DN)",
+    "terms": [
+      "T3"
+    ]
+  },
+  {
+    "code": "MATH3371",
+    "title": "Numerical Linear Algebra",
+    "subject": "MATH",
+    "level": 3,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH3371.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH3371",
+    "description": "The course is intended for students from Science and Engineering programs with interests in mathematics, statistics, data science or numerical simulation. Algorithms from numerical linear algebra are ubiquitous in scientific and statistical software. The theoretical component of the course aims to impart an understanding of how these algorithms work as well as an appreciation of their potential limitations. To illustrate the applications of numerical linear algebra, a variety of examples from statistics, data science and applied mathematics are described. The course includes a substantial computing component providing practical experience with widely used software libraries.",
+    "enrolmentConditions": "Prerequisite: MATH2501 or MATH2601 or MATH2019(DN) or MATH2099 (CR).",
+    "terms": [
+      "T1"
+    ]
+  },
+  {
+    "code": "MATH3399",
+    "title": "Advanced Mathematics Internship 3 (Co-op)",
+    "subject": "MATH",
+    "level": 3,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH3399.html",
+    "handbookUrl": null,
+    "description": null,
+    "enrolmentConditions": null,
+    "terms": [
+      "U1",
+      "T1",
+      "T2",
+      "T3"
+    ]
+  },
+  {
+    "code": "MATH3411",
+    "title": "Information, Codes and Ciphers",
+    "subject": "MATH",
+    "level": 3,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH3411.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH3411",
+    "description": "This course provides an introduction to information theory, including error-correcting codes, data compression and cryptography. Each of these subtopics are enhanced by the application of entropy functions, and more sophisticated error-correcting codes are provided by way of brief introduction to number theory and finite fields. The lectures are held face-to-face with simultaneous interactive online streaming. There is a weekly tutorial with multiple time slots to choose from, including online tutorials and face-to-face tutorials. The course emphases understanding, not just skill learning, and on helping each other to learn, understand and enjoy the content and the course.",
+    "enrolmentConditions": "Prerequisites: MATH1081 or MATH1231(CR) or DPST1014 (CR) or MATH1241(CR) or MATH1251(CR) or MATH2099.",
+    "terms": [
+      "T3"
+    ]
+  },
+  {
+    "code": "MATH3431",
+    "title": "Number Theory",
+    "subject": "MATH",
+    "level": 3,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH3431.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH3431",
+    "description": "The course will cover some basic notions and techniques of number theory. The focus will be on such topics as divisibility, prime numbers, the arithmetic of residues rings, additive properties of integers and their powers and Diophantine approximations. Some applications of number theory to cryptography will be discussed as well. Students taking this course will develop an appreciation of the basic problems of number theory and will learn the interplay between number-theoretic problems and other areas of mathematics.\nThe ability to provide logical and coherent proofs of number-theoretic results, and the ability to solve concrete number-theoretic problems will be paramount. It is planned that it will be suitable for students in both ordinary and advanced programs.\nIt is recommended to take it together with MATH3711, which will provide students with very useful complementing knowledge and skills.",
+    "enrolmentConditions": "Prerequisites: 12 units of credit in Level II Math courses",
+    "terms": [
+      "T1"
+    ]
+  },
+  {
+    "code": "MATH3531",
+    "title": "Topology and Differential Geometry",
+    "subject": "MATH",
+    "level": 3,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH3531.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH3531",
+    "description": "The major theme of this Level 3 pure mathematics course is the study of properties of curves and surfaces that are preserved under changes: differentiable changes in differential geometry and continuous changes in topology. Differential geometry is here treated as a continuation of vector calculus studied in earlier courses.\nThe course begins with the study of curves in the plane and analyse what it means to be curved rather than straight, and then cover curves in space and how they curve and twist, before progressing to surfaces and how they bend both internally and externally and look at minimal surfaces and geodesics. The course also explores why a map of the earth must be distorted in our study of Gauss\u00e2\u0080\u0099 \u00e2\u0080\u009cRemarkable Theorem\u00e2\u0080\u009d and then study the Gauss-Bonnet Theorem. In the last section, Euler characteristic and the platonic solids, Mobius bands and other surfaces and the study of the elementary combinatorial topology of surfaces is covered. The course culminates in the complete classification of topological surfaces.\nNote: Offered in even numbered years only.",
+    "enrolmentConditions": "Prerequisite: 12 units of credit in Level 2 Math courses including MATH2011 or MATH2111 or MATH2069.",
+    "terms": [
+      "T3"
+    ]
+  },
+  {
+    "code": "MATH3560",
+    "title": "History of Mathematics",
+    "subject": "MATH",
+    "level": 3,
+    "uoc": 3,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH3560.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH3560",
+    "description": "This course brings mathematics to life as a human endeavour, influenced by the people and circumstances surrounding its discovery. This course is focused on the original motivations and reflective processes behind the familiar mathematical concepts taught in high school and University. Through study of the past, students will experience mathematics as a living and evolving subject.\nBy the end of this course students will have a better understanding of how mathematics evolved into its present form, which is useful for researchers and teachers alike.",
+    "enrolmentConditions": "Prerequisite: 6 units of credit in Level 2 Math courses.",
+    "terms": [
+      "T1"
+    ]
+  },
+  {
+    "code": "MATH3570",
+    "title": "Foundations of Calculus",
+    "subject": "MATH",
+    "level": 3,
+    "uoc": 3,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH3570.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH3570",
+    "description": "What does it mean for a limit to exist? What does it mean for a function to be continuous or differentiable? There are functions which are continuous everywhere but differentiable nowhere! Are there functions whose integral does not exist? In this course, we look again at the essential concepts of limit, continuity, differentiability and integrability and try to place them on a sure footing. The syllabus includes material on sequences and series of real numbers and also of real valued functions. Although of general interest to those studying mathematics for its own sake, this course is of special relevance to those planning a career in secondary teaching.\nMATH3570 is a compulsory component of the program for mathematics teachers.",
+    "enrolmentConditions": "Prerequisite: 12 units of credit in Level 2 Math courses.",
+    "terms": [
+      "T1"
+    ]
+  },
+  {
+    "code": "MATH3599",
+    "title": "Mathematics, Statistics and Data Science Work Placement 1",
+    "subject": "MATH",
+    "level": 3,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH3599.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH3599",
+    "description": "This course enables science students studying majors in the School of Mathematics & Statistics to apply their disciplinary knowledge and transferable skills in a professional context, through a work placement experience at an organisation external to UNSW. Students will have the opportunity to develop key professional skills that align with their career goals and contextualise their field of study in a professional workplace setting.\nThe main component of the course is a minimum 105-hour work placement related to the students field of study. The placement can be paid or unpaid. This supervised workplace experience is supported by professional development and discipline-specific modules that students can select from, in line with their individual career goals.\nMATH3599 will count as a science or free elective and is graded on a satisfactory/unsatisfactory basis.\nWork placements are not guaranteed. Students are required to either apply for a faculty-advertised placement or submit an application for a self-sourced placement to be undertaken as part of the course, subject to approval. Further details on how to find and secure a work placement, the application and approval process, course content and assessments, can be found at: https://unsw.sharepoint.com/sites/Science-Student-Opportunities.\nThe course is available to domestic and international students.\nEligibility and Enrolment Enrolment is subject to approval and completion of required pre-requisites. Permission to enrol will only be granted if the student:\n- is completing a MATH major or specialisation (Mathematics, Physical Oceanography or Statistics) OR is enrolled in the 3959 Data Science and Decisions Program;\n- has completed the required pre-requisites (48 units of credit, minimum 65 WAM, passed pre-requisite Preparation for WIL modules);\n- has secured a supervised work placement compatible to their major of study, which has been reviewed and approved by the School.\nPlease note:\n- The course is only available to students who are commencing a new work placement compatible to their major of study.\n- Students seeking to enrol with paid or unpaid work they are already undertaking outside their studies will not be considered.\n- Students are required to engage in recruitment activities and secure a relevant placement prior to seeking approval for enrolment.\n- It is the student\u00e2\u0080\u0099s responsibility to check if they have space in their program for this elective.\n- This course cannot be taken during an Honours year.\n- Overseas placements: In some cases, there may be overseas-based placements advertised by the Faculty. If a domestic or international student wishes to undertake a faculty-advertised overseas work placement, extra conditions will apply before the placement and enrolment into the course is approved. Self-sourced overseas placements are not permitted.",
+    "enrolmentConditions": "Prerequisite: Enrolled in a Science program (single or dual) and majoring in a MATH major or specialisation OR Enroled in the 3959 Data Science and Decisions Program. Must pass Preparation for WIL modules prior to enrolment. Placement must be related to the student\u00e2\u0080\u0099s major or specialisation, and approved by MATH prior to enrolment. Pre-requisite: 48 units of credit and a minimum 65 WAM. It is the student\u00e2\u0080\u0099s responsibility to check if they have space in their program for this elective. This course cannot be taken during an Honours year.",
+    "terms": [
+      "U1",
+      "T1",
+      "T2",
+      "T3"
+    ]
+  },
+  {
+    "code": "MATH3611",
+    "title": "Higher Analysis",
+    "subject": "MATH",
+    "level": 3,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH3611.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH3611",
+    "description": "This is a third-year course aimed at students completing a mathematics major or program. It is assumed that students are familiar with single and several variable calculus as taught in first and second-year mathematics courses.\nThe central concepts of calculus are limits and continuity. These concepts can be extended to quite general situations. The simplest of these is when there is some way of measuring the distance between two objects. Some of the most important examples of these \u00e2\u0080\u009cmetric spaces\u00e2\u0080\u009d occur as sets of functions, so this course looks at ways in which one might say that a sequence of functions converges. Taking these ideas one step further, we look at convergence which does not come from a generalised distance function. These are the ideas of point set topology. The course includes topics such as countability, continuity, uniform convergence and compactness, as well as normed vector spaces, which are the central object of study in functional analysis.\nThis is not a computational course; throughout the emphasis will be on ideas, concepts, and proofs rather than calculations and formulas.\nThe course consists of 4 hours of lectures per week and 1 hour of tutorial.",
+    "enrolmentConditions": "Prerequisite: 12 units of credit of Level 2 Mathematics courses with an average mark of at least 70 or higher, including MATH2111 or MATH2011 (Credit), or permission from Head of Department.",
+    "terms": [
+      "T2"
+    ]
+  },
+  {
+    "code": "MATH3699",
+    "title": "Mathematics, Statistics and Data Science Work Placement 2",
+    "subject": "MATH",
+    "level": 3,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH3699.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH3699",
+    "description": "This course is the second of the MATH work placement courses and builds on the skills and experiences gained in MATH3599 - Mathematics, Statistics and Data Science Work Placement 1. MATH3599 must be completed as a co-requisite or pre-requisite to MATH3699.\nThis work placement course is for MATH students who wish to extend their work placement experience by completing a longer work placement (over two terms) or a more intensive placement (more hours in one term). Placements may be paid or unpaid. The three work placement options available to students are provided below - the same eligibility and approval processes apply for all work placement options.\n- Option A: 105-hour placement completed in 1 term; enrolment pattern = MATH3599; total of 6 UOC\n- Option B: 210-hour placement completed in 1 term; enrolment pattern = MATH3599 and MATH3699 in the same term; total of 12 UOC\n- Option C: 210-hour placement completed over 2 terms; enrolment pattern = MATH3599 in one term and MATH3699 in the following term; total of 12 UOC\nIn completing an extended or intensive option, students will have the opportunity to further develop professional workplace skills and engage in deeper self-reflection and analysis of the experience as a stepping stone into a graduate career.\nMATH3699 will count as a science or free elective and is graded on a satisfactory/unsatisfactory basis.\nWork placements are not guaranteed. Students are required to either apply for a faculty-advertised placement or submit an application for a self-sourced placement to be undertaken as part of the course, subject to approval. Further details on how to find and secure a work placement, the application and approval process, course content and assessments, can be found at: https://unsw.sharepoint.com/sites/Science-Student-Opportunities.\nThe course is available to domestic and international students.\nEligibility and Enrolment Enrolment is subject to approval and completion of required pre-requisites. Permission to enrol will only be granted if the student:\n- is completing a MATH major or specialisation (Mathematics, Physical Oceanography or Statistics) OR is enrolled in the 3959 Data Science and Decisions Program;\n- has completed the required pre-requisites (48 units of credit, minimum 65 WAM, passed pre-requisite Preparation for WIL modules);\n- has secured a supervised work placement compatible to their major of study, which has been reviewed and approved by the School.\nPlease note:\n- The course is only available to students who are commencing a new work placement compatible to their major of study. Students seeking to enrol with paid or unpaid work they are already undertaking outside their studies will not be considered.\n- Students are required to engage in recruitment activities and secure a relevant placement prior to seeking approval for enrolment.\n- It is the student\u00e2\u0080\u0099s responsibility to check if they have space in their program for this elective.\n- This course cannot be taken during an Honours year.\n- Overseas placements: In some cases, there may be overseas-based placements advertised by the Faculty. If a domestic or international student wishes to undertake a faculty-advertised overseas work placement, extra conditions will apply before the placement and enrolment into the course is approved. Self-sourced overseas placements are not permitted.",
+    "enrolmentConditions": "Must complete MATH3599 - Mathematics, Statistics and Data Science Work Placement 1 as a co-requisite or pre-requisite. It is the student\u00e2\u0080\u0099s responsibility to check if they have space in their program for this elective. This course cannot be taken during an Honours year.",
+    "terms": [
+      "U1",
+      "T1",
+      "T2",
+      "T3"
+    ]
+  },
+  {
+    "code": "MATH3701",
+    "title": "Higher Topology and Differential Geometry",
+    "subject": "MATH",
+    "level": 3,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH3701.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH3701",
+    "description": "Topology and differential geometry both deal with the study of shape: topology from a continuous and differential geometry from a differentiable viewpoint. This course begins with a study of curves in the plane and in space focusing on how they bend. Surfaces are also introduced, studying the first and second fundamental forms introduced by Gauss, the various measures of curvature and what they mean for the external and internal appearance and properties of surfaces. The course also provides an opportunity to prove the important Gauss-Bonnet theorem and use it to examine topological properties of surfaces, such as the Euler Characteristic.\nThis course is part of the core Higher Pure Mathematics sequence MATH3711/MATH3611/MATH3701 which is designed to be taken in that order. In particular, it is strongly recommended that students complete MATH3611 before taking MATH3701.",
+    "enrolmentConditions": "Prerequisite: 12 UOC of Level 2 Mathematics with an average mark of at least 70, including MATH2111 or MATH2011 (CR) or MATH2510 (CR) and MATH2601 or MATH2501 (CR), or permission from Head of Department.",
+    "terms": [
+      "T3"
+    ]
+  },
+  {
+    "code": "MATH3711",
+    "title": "Higher Algebra",
+    "subject": "MATH",
+    "level": 3,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH3711.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH3711",
+    "description": "In Higher Algebra we examine some of the basic notions of modern algebra that arose in the late 19th and early 20th century. The most fundamental notion is that of a group, which is how mathematicians study symmetry. In this course groups are studied in detail both from an abstract point of view and also to study symmetry in geometry. The other important concept studied is that of a ring. The algebra of adding and multiplying matrices has many similarities with the algebra of numbers. The notion of rings generalises both these two examples. The course examines factorisation theory for certain rings.\nThis course is one of the three core third year higher pure mathematics courses and is a pre-requisite for pure mathematics students progressing to Honours. In particular, it introduces the axiomatic language and framework that underpins modern mathematics. The delivery will primarily be through lectures with some problem solving tutorials.",
+    "enrolmentConditions": "Prerequisite: 12 UOC of Level 2 Mathematics with an average mark of at least 70, including MATH2601 or MATH2501 (CR), or permission from the Head of Department.",
+    "terms": [
+      "T1"
+    ]
+  },
+  {
+    "code": "MATH3801",
+    "title": "Probability and Stochastic Processes",
+    "subject": "MATH",
+    "level": 3,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH3801.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH3801",
+    "description": "This is an advanced level course in probability theory and stochastic processes for mathematics/statistics and data science students. Topics covered during the seminars and tutorials include rigorous definition of probability and random variables; convergence of random variables; Poisson and Wiener process, and Ito Calculus.",
+    "enrolmentConditions": "Prerequisite: (MATH2501 or MATH2601) and (MATH2011 or MATH2111) and (MATH2801 or MATH2901)",
+    "terms": [
+      "T1"
+    ]
+  },
+  {
+    "code": "MATH3811",
+    "title": "Statistical Inference",
+    "subject": "MATH",
+    "level": 3,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH3811.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH3811",
+    "description": "This course introduces students to the field of statistical inference including the main parametric and non-parametric techniques. During seminars and tutorials a range of topics will be introduced including uniformly minimum variance estimation, Cramer-Rao inequality, Lehmann-Scheffe theorem, monotone likelihood ratio distributions and uniformly most powerful unbiased tests, generalised likelihood ratio tests, exact tests and large sample tests, Bayesian point estimation, interval estimation and hypothesis testing, robustness and bootstrap resampling, order statistics, goodness of fit, contingency tables, statistical inference based on ranks, one sample, two sample and k-sample problems, blocked data, independence and association.",
+    "enrolmentConditions": "Prerequisite: MATH2831 or MATH2931.",
+    "terms": [
+      "T1"
+    ]
+  },
+  {
+    "code": "MATH3821",
+    "title": "Statistical Modelling and Computing",
+    "subject": "MATH",
+    "level": 3,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH3821.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH3821",
+    "description": "The course is an undergraduate level course in statistical modelling and computing, and is a compulsory third-year course for student completing statistics majors. The course introduces modern approaches to statistical modelling and computing. Topics covered in seminars include linear models, generalised linear models, Bayesian linear model, nonparametric regression, nonparametric density estimation and bandwidth selection, Monte Carlo simulation, bootstrap method and Markov chain Monte Carlo. Implementation of the above procedures is conducted using the statistical package R which is introduced during tutorial classes.",
+    "enrolmentConditions": "Prerequisite: MATH2831 or MATH2931",
+    "terms": [
+      "T2"
+    ]
+  },
+  {
+    "code": "MATH3831",
+    "title": "Statistical Methods in Social and Market Research",
+    "subject": "MATH",
+    "level": 3,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH3831.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH3831",
+    "description": "In this course, students will develop skills important for the design and analysis of research in the social sciences and in market research. The specific focus will be on issues related to survey sampling, and questionnaire design and analysis. By the end of this course, students will be able to identify an appropriate survey design for a particular situation, estimate the required sample sizes to achieve a given level of precision, estimate key quantities of interest (typically expressed as averages, totals or ratios), and make inferences about key quantities using their sample estimates. In addition, the course provides an opportunity to design a questionnaire suitable for answering a key research question and analyse responses to a questionnaire using a range of modern techniques. A weekly tutorial complements the recorded lecture series. This course is suited primarily for students in their third year of study in Mathematics, Statistics, or related disciplines.",
+    "enrolmentConditions": "Prerequisite: MATH2801 or MATH2901.",
+    "terms": [
+      "T2"
+    ]
+  },
+  {
+    "code": "MATH3841",
+    "title": "Statistical Analysis of Dependent Data",
+    "subject": "MATH",
+    "level": 3,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH3841.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH3841",
+    "description": "This is a third-year statistics course for undergraduate students in mathematics/statistics and data science. Many data applications are concerned with observations that are correlated and sophisticated methods are required to analyze such data. This course extends statistical modeling from independently distributed data to modelling dependence in observed data and develops an understanding of basic distributions and models useful in practical situations. It continues with the development of statistical methods for analysis of dependent data arising in multivariate observations, longitudinal data, time series and spatial processes. Specific topics include the multivariate normal distribution, linear mixed models, time series models, ARMA and forecasting ARMA, spatial processes, sample semivariograms and Kriging. The teaching activities include weekly lectures in which the methods and theory are explained and weekly tutorials in which the methods can be applied.",
+    "enrolmentConditions": "Prerequisite: MATH3811 or MATH3911.",
+    "terms": [
+      "T2"
+    ]
+  },
+  {
+    "code": "MATH3856",
+    "title": "Introduction to Data and Machine Learning",
+    "subject": "MATH",
+    "level": 3,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH3856.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH3856",
+    "description": "A wide range of statistical methods and computational tools have been developed in the past few decades to gather information from data. This undergraduate course covers the key techniques in data mining and machine learning with theoretical background and applications, delivered through a series of lectures and tutorials. The topics include methods such as linear and logistic regression, neural networks, Bayesian neural networks, clustering and dimensionality reduction, ensemble learning, and an introduction to deep learning. Emerging machine learning tools and libraries are used to illustrate the methods in programming environments that include Python and R.",
+    "enrolmentConditions": "Prerequisite: MATH2801 or MATH2901",
+    "terms": [
+      "T3"
+    ]
+  },
+  {
+    "code": "MATH3871",
+    "title": "Bayesian Inference and Computation",
+    "subject": "MATH",
+    "level": 3,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH3871.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH3871",
+    "description": "After describing the fundamentals of Bayesian inference, this course will examine the specification of prior and posterior distributions, Bayesian decision theoretic concepts, the ideas behind Bayesian hypothesis tests, model choice and model averaging, and evaluate the capabilities of several common model types, such as hierarchical and mixture models. An important part of Bayesian inference is the requirement to numerically evaluate complex integrals on a routine basis. Accordingly this course will also introduce the ideas behind Monte Carlo integration, importance sampling, rejection sampling, Markov chain Monte Carlo samplers such as the Gibbs sampler and the Metropolis-Hastings algorithm, and use of the Stan posterior simulation software.\nThe intended audience of this course is wide-ranging, from statistics and data science students to economics, actuarial, computer science and natural science (e.g. biology, geology, physics) students. Prior knowledge of basic probability is necessary, and knowledge of stochastic processes will be advantageous but is not required. The purpose of this course is to introduce students to Bayesian statistical concepts not seen in core courses which are primarily focused on frequentist statistics.\nThis course is jointly taught at two levels. MATH3871 is for 3rd year undergraduates, whereas MATH5960 is for Honours & Masters students. Lectures will be conducted simultaneously for both streams, but tutorial classes and computer labs will be conducted separately for the two groups. The lectures run from weeks 1 to 10, and the combined tutorial/lab sessions run after the weekly lectures (weeks 2 to 10). Students should bring their laptops to the tutorials so that they can complete the coding exercises.",
+    "enrolmentConditions": "Prerequisite: MATH2801 or MATH2901",
+    "terms": [
+      "T3"
+    ]
+  },
+  {
+    "code": "MATH3881",
+    "title": "Statistical Machine Learning Theory",
+    "subject": "MATH",
+    "level": 3,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH3881.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH3881",
+    "description": "This course gives students a statistical and mathematical perspective on modern machine learning methods, with the aim of obtaining a deeper understanding of how such methods work and have been derived. This theoretical knowledge will then be used to demonstrate how to fine tune machine learning methods for complex applications. This course will focus on principles of neural networks (convolutional, recurrent, sequential methods), optimisation methods relevant for machine learning and generative AI (autoencoders, diffusion models, generative adversarial networks). There will be 4 hours of lectures and 1 hour tutorial/computer lab class per week. Tutorial/lab classes provide an opportunity to develop analytical skills by practice on provided problems.\nThis course is intended as an elective for Statistics majors & minors, Quantitative Data Science Major and Mathematics majors, both at the undergraduate and postgraduate level. Prior knowledge of basic probability is necessary, and knowledge of stochastic processes will be advantageous but is not required. This course complements MATH3191 Optimisation for data science by focusing on various neural network architectures and training methods that make use of some optimisation methods explored in MATH3191, along with probabilistic aspects governing generative modelling. Additionally, this course focuses on mathematical and statistical foundations of many machine learning methods discussed from a computational perspective in MATH3856. This course is jointly taught at two levels. MATH3881 is for 3rd year undergraduates, with MATH5881 for Honours & Masters students.",
+    "enrolmentConditions": "Pre-requisites: MATH2801 or MATH2901",
+    "terms": [
+      "T2"
+    ]
+  },
+  {
+    "code": "MATH3901",
+    "title": "Higher Probability and Stochastic Processes",
+    "subject": "MATH",
+    "level": 3,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH3901.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH3901",
+    "description": "This is an advanced level course in probability theory and stochastic processes for mathematics/statistics and data science students. Topics covered include rigorous definition of probability and random variables; convergence of random variables; Poisson and Wiener process, and Ito Calculus. This version of the course will require knowledge of more proofs and technical arguments than MATH3801 Probability and Stochastic Processes.",
+    "enrolmentConditions": "Prerequisite: (MATH2901 or MATH2801(DN)) and (MATH2501 or MATH2601) and (MATH2011 or MATH2111)",
+    "terms": [
+      "T1"
+    ]
+  },
+  {
+    "code": "MATH3911",
+    "title": "Higher Statistical Inference",
+    "subject": "MATH",
+    "level": 3,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH3911.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH3911",
+    "description": "This course introduces students to the field of statistical inference including the main parametric and non-parametric techniques. During seminars and tutorials a range of topics will be introduced including Uniformly minimum variance estimation, Cramer-Rao inequality, Lehmann-Scheffe theorem, Monotone likelihood ratio distributions and uniformly most powerful unbiased tests, Generalised likelihood ratio tests, exact tests and large sample tests, Bayesian point estimation, interval estimation and hypothesis testing, Robustness and bootstrap resampling, oOrder statistics, goodness of fit, contingency tables, Statistical inference based on ranks, Oone sample, two sample and k-sample problems, blocked data, independence and association.\nThis course is the higher version of MATH3811, with topics explored at greater depth.",
+    "enrolmentConditions": "Prerequisite: MATH2931 or MATH2831(DN).",
+    "terms": [
+      "T1"
+    ]
+  },
+  {
+    "code": "MATH3945",
+    "title": "Categorical Data Analysis",
+    "subject": "MATH",
+    "level": 3,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH3945.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH3945",
+    "description": "This undergraduate course provides the theoretical foundation and methodological background for the analysis of categorical response data. Through a series of lectures and labs, a range of topics will be introduced including the Bernoulli trial, the analysis of contingency tables, and generalised linear models including logistic and Poisson regression. Statistical computing is an integral part of this course.\nThis course is jointly taught at two levels: MATH3945 is for 3rd year undergraduate students and MATH5945 for Honours & Masters students. Lectures will be conducted simultaneously for both streams, but tutorial classes and computer labs will be conducted separately for the two groups.",
+    "enrolmentConditions": "No conditions for enrolment found on Handbook page.",
+    "terms": [
+      "T3"
+    ]
+  },
+  {
+    "code": "MATH4001",
+    "title": "Mathematics and Statistics Honours Thesis",
+    "subject": "MATH",
+    "level": 4,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH4001.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/MATH4001",
+    "description": "This course is only available to students enrolled in an Honours Program in the School of Mathematics and Statistics and enrolment must be approved by the School\u00e2\u0080\u0099s Honours Coordinator.\nThis course is taken three times over three consecutive terms (3 x 6 UoC for a total of 18 UoC). It forms the research thesis project component of the honours streams for programs within the School of Mathematics and Statistics. The three instances of the course form part of the one thesis project. The student will undertake independent study in the appropriate area of applied mathematics, pure mathematics, physical oceanography, or statistics according to their honours stream. The student will be supervised by at least one member of the academic staff of the School of Mathematics and Statistics, possibly jointly with an academic external to the School, or, with the permission of the Head of School, a suitable other person in a non-university research position. The student will write a thesis, give an oral seminar presentation on the thesis to the appropriate department, and attend an oral assessment ( viva voce) with examiners to elaborate on their thesis topic.\nThe final thesis will be assessed on four major areas: exposition, literature coverage, critical analysis and insight originality. The weighting of these components will depend on the type of thesis which is determined by discussion between the student and supervisor(s) when the topic is chosen. All theses are expected to address all four areas.\nRegular honours meetings will be timetabled as part of the thesis courses and participation will be assessed. The main purpose of these meetings is to provide a forum for honours students to give an oral presentation of their work to, and receive feedback from their peers and the honours coordinators. The meetings will also be used for other honours training purposes on more general mathematical and statistical skills, such as literature, research methodology, writing, presentation, or AI skills.",
+    "enrolmentConditions": "Prerequisite: Enrolled in MATH Honours stream",
+    "terms": [
+      "T1",
+      "T2",
+      "T3"
+    ]
+  },
+  {
+    "code": "MATH6781",
+    "title": "Biomathematics",
+    "subject": "MATH",
+    "level": 6,
+    "uoc": 6,
+    "faculty": "Science",
+    "school": "Sch Mathematics & Statistics",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/MATH6781.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/MATH6781",
+    "description": "This course introduces mathematical modelling and data analysis for biological and biomedical systems. The course is suitable for students with an interest in the real-world application of differential equation modelling. Examples of the biological systems studied in the course include: population dynamics, the spread of infectious diseases, drug delivery and metabolism, biochemical reactions, the formation of animal coat patterns, and the growth of tumours. The emphasis in this course is on the development of the governing model equations, and on the analysis and interpretation of the model solutions. Methods for computer simulation of the model equations will be demonstrated but students\u00e2\u0080\u0099 knowledge of these methods will not be assessed in the course. In addition to lectures, the course will feature tutorials and workshops. Weekly tutorials require the class to solve a series of mathematical problems that build upon the lecture material. Workshops (several during the course) further consolidate the lecture material as the class makes use of modelling, analysis and computer simulations to perform in-depth studies of particular biological applications. Assumed Knowledge: Completion of two years of an undergraduate degree in mathematics or statistics.",
+    "enrolmentConditions": "Prerequisite: Enrolment in program 5659 or 8161 or 8719 or 8750 or 7659",
+    "terms": [
+      "T2"
+    ]
+  }
+]
