@@ -3,6 +3,7 @@ import json
 from pathlib import Path
 import sys
 import textwrap
+from tqdm import tqdm
 
 from .normalise import validate_course_code, validate_subject_code
 from .scraper import (
@@ -116,17 +117,19 @@ def export_courses(args):
 
     for level in args.levels:
         courses = extract_subject_courses(subject_code, level, args.year)
-
-        for course in courses:
+        course_data = []
+        for course in tqdm(
+            courses,
+            desc=f"{level} courses",
+            unit=" course",
+            file=sys.stderr,
+        ):
             timetable_details = extract_timetable_details(course.code, args.year)
             course.terms = timetable_details["terms"]
             if course.faculty is None:
                 course.faculty = timetable_details["faculty"]
             if course.school is None:
                 course.school = timetable_details["school"]
-
-        course_data = []
-        for course in courses:
             course_data.append(
                 course_details_to_dict(
                     course.code,
