@@ -94,6 +94,7 @@ def scrape_subject(args):
                     course.faculty,
                     course.school,
                     course.terms,
+                    course.title,
                 )
             )
         course_data = detailed_courses
@@ -135,6 +136,7 @@ def export_courses(args):
                     course.faculty,
                     course.school,
                     course.terms,
+                    course.title,
                 )
             )
 

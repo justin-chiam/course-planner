@@ -5,6 +5,7 @@ from datetime import date
 import requests
 from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright
+from requests import HTTPError
 
 from .normalise import (
     COURSE_CODE_PATTERN,
@@ -19,6 +20,7 @@ from .normalise import (
 
 YEAR = date.today().year
 HANDBOOK = "https://www.handbook.unsw.edu.au"
+VALID_TERMS = {"U1", "U2", "T0", "T1", "T2", "T3"}
 
 
 class SubjectArea:
@@ -256,7 +258,7 @@ def extract_terms_from_timetable_lines(lines):
         if in_offering_table and line.startswith("SUMMARY"):
             break
 
-        if in_offering_table and re.fullmatch(r"[A-Z]\d", line):
+        if in_offering_table and line in VALID_TERMS:
             if line not in terms:
                 terms.append(line)
 
@@ -302,7 +304,12 @@ def html_to_text(html):
 def extract_handbook_details_from_html(course_code, level=None, year=YEAR):
     course_code = validate_course_code(course_code)
     handbook_url = get_handbook_url(course_code, level, year)
-    soup = fetch_soup(handbook_url)
+    try:
+        soup = fetch_soup(handbook_url)
+    except HTTPError as error:
+        if error.response is not None and error.response.status_code == 404:
+            return None, course_code, None, None
+        raise
     next_data = soup.find("script", id="__NEXT_DATA__")
 
     if not next_data or not next_data.string:
@@ -408,6 +415,16 @@ def extract_handbook_details(course_code, level=None, year=YEAR):
     return handbook_url, title, overview, conditions
 
 
+def missing_handbook_details(course_code, title=None, level=None, year=YEAR):
+    course_code = validate_course_code(course_code)
+    return (
+        None,
+        title or course_code,
+        None,
+        None,
+    )
+
+
 def course_to_dict(course):
     return {
         "code": course.code,
@@ -431,11 +448,12 @@ def course_details_to_dict(
     faculty=None,
     school=None,
     terms=None,
+    title=None,
 ):
     course_code = validate_course_code(course_code)
     level = get_handbook_level(course_code)
     course = None
-    if uoc is None or faculty is None or school is None:
+    if uoc is None or faculty is None or school is None or title is None:
         course = find_course(course_code, year)
     timetable_details = None
     if faculty is None or school is None or terms is None:
@@ -448,6 +466,8 @@ def course_details_to_dict(
             faculty = course.faculty
         if school is None:
             school = course.school
+        if title is None:
+            title = course.title
 
     if faculty is None and timetable_details:
         faculty = timetable_details["faculty"]
@@ -456,9 +476,25 @@ def course_details_to_dict(
     if terms is None and timetable_details:
         terms = timetable_details["terms"]
 
-    handbook_url, title, overview, conditions = extract_handbook_details(
-        course_code, level, year
-    )
+    timetable_title = title
+
+    try:
+        handbook_url, title, overview, conditions = extract_handbook_details(
+            course_code, level, year
+        )
+    except HTTPError as error:
+        if error.response is None or error.response.status_code != 404:
+            raise
+
+        handbook_url, title, overview, conditions = missing_handbook_details(
+            course_code, timetable_title, level, year
+        )
+
+    if title == course_code:
+        if timetable_title:
+            title = timetable_title
+        elif course:
+            title = course.title
 
     return {
         "code": course_code,
