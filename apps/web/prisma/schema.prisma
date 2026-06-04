@@ -9,7 +9,6 @@ generator client {
 
 datasource db {
   provider = "postgresql"
-  url      = env("DATABASE_URL")
 }
 
 model Course {
@@ -23,8 +22,8 @@ model Course {
   school              String?
   description         String?
   enrolmentConditions String?
-  handbookURL         String?
-  timetableURL        String?
+  handbookUrl         String?
+  timetableUrl        String?
   year                Int
 
   offerings           CourseOffering[]
