@@ -1,0 +1,1465 @@
+[
+  {
+    "code": "COMP1010",
+    "title": "The Art of Computing",
+    "subject": "COMP",
+    "level": 1,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP1010.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/COMP1010",
+    "description": "This course aims to provide a grounding in computational thinking for anyone who wants one. It assumes no previous programming background, but does assume that all incoming students have used digital devices, such as tablets and smart phones, for a range of tasks (e.g. social networking, reading, essay writing, etc.). The course will use Python as the programming medium and use real world examples from a variety of domains to motivate understanding.",
+    "enrolmentConditions": "Exclusion: COMP1511/DPST1091",
+    "terms": [
+      "T1"
+    ]
+  },
+  {
+    "code": "COMP1337",
+    "title": "Foundations of Cyber Security",
+    "subject": "COMP",
+    "level": 1,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP1337.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/COMP1337",
+    "description": "This course provides students with an introduction to the rapidly growing field of cyber security. It is suitable for anyone who wishes to understand more about this fascinating and rapidly emerging global challenge. The course provides an overview of the main aspects of contemporary cyber security, including cyber crime, cyber criminals, cyber war, scams, exploitation, human errors and mistakes, vulnerabilities, responding to emergencies, sensible risk assessment and risk management.\nWe consider the question: We can build a bridge that doesn't fall down; why can't we yet build a system that can't be hacked? We consider what we can learn from established disciplines, including engineering, safety science, investment, and military intelligence, that can help us establish the new discipline of cyber security.\nThis course introduces an engineering-style approach to how we can design, manage, and improve secure systems. However students do not have to be engineers to take this course, indeed the interactive parts of the course work best when we have a multi-disciplinary, diverse range of students. As well as learning core cyber security terminology and concepts (such as introductory cryptography, the main classes of computer vulnerabilities that hackers exploit, and how to analyse risk), students also work in diverse teams to analyse and respond to a range of case studies drawn from historical security and security related scenarios (such as incident response to emergencies, system design, root cause failure analysis).",
+    "enrolmentConditions": "Prerequisite: Enrolment in 3777 Bachelor of Cyber Security",
+    "terms": [
+      "T1"
+    ]
+  },
+  {
+    "code": "COMP1511",
+    "title": "Programming Fundamentals",
+    "subject": "COMP",
+    "level": 1,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP1511.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/COMP1511",
+    "description": "From recent innovations in AI like self-driving cars to humanoid robotics navigating complex environments, leapfrogs in battery technology to sequencing the human genome - the world is benefiting and evolving thanks to computer systems. At the core of all these systems are computers executing instructions to solve exciting problems.\nIn this course, you will learn the fundamentals of how we instruct computers to solve problems. You will explore the architecture and mechanics of how computers operate and how you can translate real-world problems to computer programs that solve these problems.\nThe concepts you learn will provide a foundation for your future endeavours in computing and, we hope, will begin to change the way you think about real-world problems.\nThis course is an introductory course to the basics of computer programming and Computer Science. It is intended as an introduction to studying further in Computer Science or related fields. Topics include:\n- Fundamental programming concepts\n- Introduction to Computer Science\n- The C programming language and use of a C compiler\n- Programming style\n- Program design and organisation concepts\n- Program testing and debugging",
+    "enrolmentConditions": "No conditions for enrolment found on Handbook page.",
+    "terms": [
+      "T1",
+      "T2",
+      "T3"
+    ]
+  },
+  {
+    "code": "COMP1521",
+    "title": "Computer Systems Fundamentals",
+    "subject": "COMP",
+    "level": 1,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP1521.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/COMP1521",
+    "description": "This course introduces students to how computer systems are structured in terms of basic electronic components, how they are used to implement procedural programs, and how they are structured as a collection of software layers. It introduces students to low-level software layers such as operating systems, and introduces concurrency concepts. The goal is to give students a solid understanding of what happens when high-level programs are executed, as a basis for further study in important areas of computing such as computer architecture, operating systems.",
+    "enrolmentConditions": "Prerequisite: COMP1511 or DPST1091 or COMP1911 or COMP1917",
+    "terms": [
+      "T1",
+      "T2",
+      "T3"
+    ]
+  },
+  {
+    "code": "COMP1531",
+    "title": "Software Engineering Fundamentals",
+    "subject": "COMP",
+    "level": 1,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP1531.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/COMP1531",
+    "description": "This course teaches students about software engineering principles via exposure to the important practice of building correct products in effectively functioning teams.\nYou will be exposed to agile software practices, team collaboration and effective communication through implementing a group project based on agile software methodologies that require you to analyse, design, build and deploy a web-based application. This course is typically taken soon after completing COMP1511 but could be delayed and taken later. It provides essential background for the teamwork and project management required in many later courses.",
+    "enrolmentConditions": "Prerequisite: COMP1511 or DPST1091 or COMP1917 or COMP1921",
+    "terms": [
+      "T1",
+      "T2",
+      "T3"
+    ]
+  },
+  {
+    "code": "COMP1911",
+    "title": "Computing 1A",
+    "subject": "COMP",
+    "level": 1,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP1911.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/COMP1911",
+    "description": "From recent innovations in AI like self-driving cars to humanoid robotics navigating complex environments, leapfrogs in battery technology to sequencing the human genome - the world is benefiting and evolving thanks to computer systems. At the core of all these systems are computers executing instructions to solve exciting problems.\nIn this course, you will learn the fundamentals of how we instruct computers to solve problems. You will explore the architecture and mechanics of how computers operate and how you can translate real-world problems to computer programs that solve these problems.\nThe concepts you learn will provide a foundation for your future endeavours in computing and, we hope, will begin to change the way you think about real-world problems.\nThis course is an introductory course to the basics of Computer Programming and Computer Science. It is intended as an introduction to studying further in Computer Science or related fields. Topics include:\n- Fundamental programming concepts\n- Introduction to Computer Science\n- The C programming language and use of a C compiler\n- Programming style\n- Program design and organisation concepts\n- Program testing and debugging\nAdditional Information:\nThis course is taught within COMP1511.",
+    "enrolmentConditions": "Prerequisite: Enrolment in a non-CSE major (no BINF, COMP, or SENG)",
+    "terms": [
+      "T2",
+      "T3"
+    ]
+  },
+  {
+    "code": "COMP1939",
+    "title": "Cyber Security Workshop 1 - Penetration Testing",
+    "subject": "COMP",
+    "level": 1,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP1939.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/COMP1939",
+    "description": "This workshop course provides students with a series of practical challenges and applied exercises to apply and integrate the cyber security and computing knowledge and skills they have mastered in their first year of cyber security study.\nIn this hands-on course, students will learn about and apply practice penetration testing, including negotiating terms of engagement, recon, reporting, controls, OSInt, exploitation, privilege escalation, lateral movement, and data leakage. Students will work in teams - led by experienced mentors and carry out a series of penetration testing wargames throughout the term.",
+    "enrolmentConditions": "Prerequisite: COMP1337 and enrolment in 3777 Bachelor of Cyber Security\nPrerequisite or Co-requisite: COMP1521",
+    "terms": [
+      "T3"
+    ]
+  },
+  {
+    "code": "COMP2041",
+    "title": "Software Construction: Techniques and Tools",
+    "subject": "COMP",
+    "level": 2,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP2041.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/COMP2041",
+    "description": "This course is designed for students who have mastered the basics of programming. It aims to broaden your knowledge of techniques and tools for software construction. It covers: Unix filters, shell scripting and Python (for programming), git (for version control), docker (for portable deployment), package managers (for configuration and deployment). At the end of this course, you should be able to build moderate-sized software systems and configure them so that others can download and deploy your work.",
+    "enrolmentConditions": "Prerequisite: COMP1511 OR DPST1091 OR COMP1917 OR COMP1921",
+    "terms": [
+      "T1",
+      "T2"
+    ]
+  },
+  {
+    "code": "COMP2111",
+    "title": "Foundations of Formal Methods",
+    "subject": "COMP",
+    "level": 2,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP2111.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/COMP2111",
+    "description": "This course introduces students to theoretical computer science and formal methods in computing. It reinforces and builds upon prerequisite knowledge from MATH1081, especially predicate logic.\nStudents will learn the foundations of logical reasoning, as well as the syntactic and semantic details of the formal languages that encode such reasoning. We will explore the relationship between these languages and computer programs in depth. Students will use logical reasoning to explore Formal Methods in Computer Science. Students will apply the principles to prove the correctness of computer programs.",
+    "enrolmentConditions": "Prerequisite: MATH1081 and (COMP1511 or DPST1091)",
+    "terms": [
+      "T2"
+    ]
+  },
+  {
+    "code": "COMP2218",
+    "title": "Human Centric Security",
+    "subject": "COMP",
+    "level": 2,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP2218.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/COMP2218",
+    "description": "This course explores the intersection of cyber security and human behaviour, emphasising the importance of designing practical systems that are not only secure and robust technically but also in operation in an environment involving humans. It delves deeper than traditional cyber security, exploring the crucial role human behaviour plays in strengthening and weakening the security of systems.\nThe course is rooted in core security principles and helps students assess the security of systems at an individual, societal, and national level. Students will study how different categories of people (e.g. users, designers, and developers) interact with computing systems and understand the challenges in creating and evaluating human centric security systems.\nThe course takes an interdisciplinary approach and integrates academic research from computer science and information security with other disciplines, such as psychology, to provide a well-rounded perspective into designing practical solutions to complex cybersecurity problems.",
+    "enrolmentConditions": "Prerequisite: COMP1337",
+    "terms": [
+      "T2"
+    ]
+  },
+  {
+    "code": "COMP2511",
+    "title": "Software Design and Architecture",
+    "subject": "COMP",
+    "level": 2,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP2511.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/COMP2511",
+    "description": "COMP2511 builds on the foundation of first-year CSE courses, and begins to answer the questions: \"What does good software look like?\" and \"How do you build software that is flexible, reusable and maintainable\". The course introduces students to the Object-Oriented Programming paradigm and explores how OOP attempts to solve the problem of good software design. Students explore fundamental Software Patterns in designing, writing and testing software, and how to apply these strategies to both theoretical and real-world problems. The course also teaches an appreciation for elegantly written code, problem solving and finding well-designed solutions to problems that have longevity of software in mind.",
+    "enrolmentConditions": "Prerequisite: COMP1531 and (COMP2521 or COMP1927)",
+    "terms": [
+      "T1",
+      "T2",
+      "T3"
+    ]
+  },
+  {
+    "code": "COMP2521",
+    "title": "Data Structures and Algorithms",
+    "subject": "COMP",
+    "level": 2,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP2521.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/COMP2521",
+    "description": "The aim of this course is to get you to think like a computer scientist. This certainly sounds like a noble goal... but what does it really mean? How does a scientist, let alone a computer scientist, actually think?\nWhat many types of scientists try to do is understand natural systems and processes: a geologist, for example, tries to understand the structure of the earth; a biologist tries to understand living organisms; a chemist tries to understand materials and reactions, and so on.\nComputer scientists don't, as the name might suggest, simply try to understand the structure and behaviour of computers, but are more concerned with understanding software systems (and the interaction between the software and the hardware on which it runs). Also, unlike other scientists, computer scientists frequently build the objects that they study.\nThe goal of this course is to deepen your understanding of data structures and algorithms and how these can be employed effectively in the design of software systems. It is an important course in covering a range of core data structures and algorithms that will be used in context in later courses. You explore these ideas in lectures, tutorials, lab exercises, quizzes and assignments. Assessment involves lab exercises, quizzes, assignments and a final exam involving both practice and theory. At the end of the course, we want you to be a solid programmer, with knowledge of a range of useful data structures and programming techniques, and ready to continue with further specialised studies in computing.\nTopics\nThis course provides an introduction to the structure, analysis and usage of a range of fundamental data types and the core algorithms that operate on them. Key topics are:\n- Recursion\n- Analysis of algorithms\n- Abstract data types\n- Binary search trees\n- Balanced search trees\n- Graphs\n- Sorting algorithms\n- Heaps\n- Hashing\n- Tries",
+    "enrolmentConditions": "Prerequisite: COMP1511 or DPST1091 or COMP1917 or COMP1921",
+    "terms": [
+      "U1",
+      "T1",
+      "T2",
+      "T3"
+    ]
+  },
+  {
+    "code": "COMP2949",
+    "title": "Cyber Security Workshop 2 - Defence",
+    "subject": "COMP",
+    "level": 2,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP2949.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/COMP2949",
+    "description": "This workshop course provides students with a series of practical challenges and applied exercises to apply and integrate knowledge and skills they have mastered in the second year of their cyber security degree.\nIn this hands-on course you will learn about and apply the defensive skills of a professional cyber team including establishing policies, conducting audits, and designing and operating a Security Operations Center, and then detecting and responding to cyber incidents. Students will work in teams - led by experienced defensive mentors, and carry out a series of security operations centre wargames throughout the term.",
+    "enrolmentConditions": "Prerequisite: COMP1939 and enrolment in 3777 Bachelor of Cyber Security\nPrerequisite or Co-requisite: COMP1521",
+    "terms": [
+      "T3"
+    ]
+  },
+  {
+    "code": "COMP3110",
+    "title": "Machine Learning Engineering",
+    "subject": "COMP",
+    "level": 3,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP3110.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/COMP3110",
+    "description": "What good is Artificial Intelligence if it can't be used by real people in real products?\nAs Artificial Intelligence transforms the world, the role of Machine Learning Engineers becomes increasingly critical in bringing AI models to life.\nThis course, Machine Learning Engineering, will prepare you to operate at the intersection of software engineering and machine learning, equipping you with the skills to design, develop, deploy, and maintain robust machine learning systems.\nThrough hands-on learning and industry-aligned practices, you will explore key areas such as data collection and sanitisation, cloud-based deployment, model monitoring, and system scalability.\nThis course will prepare you to pursue careers as a Machine Learning Engineer, leveraging in-demand skills to integrate AI technologies into production environments.",
+    "enrolmentConditions": "Prerequisite: COMP1531",
+    "terms": [
+      "T3"
+    ]
+  },
+  {
+    "code": "COMP3121",
+    "title": "Algorithm Design and Analysis",
+    "subject": "COMP",
+    "level": 3,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP3121.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/COMP3121",
+    "description": "How would you convince a colleague that your program is correct, and that theirs is flawed?\nHow do you estimate how long a program will run for, and design test cases to find bugs? Can all problems be solved efficiently, or are some problems \"too hard\"?\nIn this course, you will learn the building blocks to develop problem-solving software in fields as diverse as finance, logistics, policy and entertainment. You will apply techniques including divide-and-conquer, greedy selection and dynamic programming in order to develop accurate and fast algorithms in contexts such as graphs and strings. You will also develop the ability to think critically and communicate about algorithms in terms of correctness and efficiency.\nJoin us to find out how you can become a better programmer without writing any code.",
+    "enrolmentConditions": "Prerequisite: (MATH1081 or enrolment in 3785) and (COMP1927 or COMP2521)",
+    "terms": [
+      "T1",
+      "T2",
+      "T3"
+    ]
+  },
+  {
+    "code": "COMP3131",
+    "title": "Programming Languages and Compilers",
+    "subject": "COMP",
+    "level": 3,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP3131.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/COMP3131",
+    "description": "This subject focusses on basic compiler techniques needed to implement programming languages in a virtual machine (with emphasis on the compiler front end). By writing a compiler in Java to translate a variant of C into Java bytecode, you are also expected to gain a good understanding of important fundamental principles in object-oriented programming languages and develop further your programming and software engineering skills.",
+    "enrolmentConditions": "Prerequisite: COMP2511 or COMP2911",
+    "terms": [
+      "T1"
+    ]
+  },
+  {
+    "code": "COMP3142",
+    "title": "Software Testing and Quality Assurance",
+    "subject": "COMP",
+    "level": 3,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP3142.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/COMP3142",
+    "description": "Software plays an important role in our daily life. It is important to construct robust, operational software, especially under limited development budget and time constraints. To address this problem, a thorough verification and validation process is needed.\nIn this course, you will study classic and modern techniques for the automated testing and analysis of software systems for reliability, security, and performance. Throughout the course, you will gain insight into a spectrum of software quality assurance techniques, including but not limited to fuzz testing and symbolic execution. These techniques will be not only studied but also applied in real-world scenarios, providing practical skills that are highly relevant in the ever-evolving landscape of software development.",
+    "enrolmentConditions": "Prerequisite: COMP1531, COMP2511 and COMP2521",
+    "terms": [
+      "T2"
+    ]
+  },
+  {
+    "code": "COMP3153",
+    "title": "Algorithmic Verification",
+    "subject": "COMP",
+    "level": 3,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP3153.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/COMP3153",
+    "description": "It is virtually impossible to guarantee the correctness of a system, and in turn the absence of bugs by standard software engineering practice such as code review, systematic testing and good software design alone. The formal methods community has developed various rigorous, mathematically sound techniques and tools that allow the automatic analysis of systems and software. The application of these fully automatic techniques is typically called algorithmic verification. The course will describe several automatic verification techniques, the algorithms they are based on, and the tools that support them. We will discuss examples to which the techniques have been applied, and provide experience with the use of several tools.",
+    "enrolmentConditions": "Pre-requisite: MATH1081",
+    "terms": [
+      "T3"
+    ]
+  },
+  {
+    "code": "COMP3161",
+    "title": "Concepts of Programming Languages",
+    "subject": "COMP",
+    "level": 3,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP3161.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/COMP3161",
+    "description": "This course discusses and relates a range of programming language concepts and paradigms, including imperative, object-oriented, functional, concurrent & parallel programming. It covers the theoretical foundations (syntax, operational, axiomatic and denotational semantics) as well as practical development and implementation aspects (dynamic and strong typing, polymorphism, overloading, automatic memory management, and concurrency). Due to the course topics, a variety of programming languages will be studied and used. Assignments will be in the programming language Haskell, but no previous knowledge of Haskell is assumed.",
+    "enrolmentConditions": "Prerequisite: COMP2521 or COMP1927",
+    "terms": [
+      "T3"
+    ]
+  },
+  {
+    "code": "COMP3211",
+    "title": "Computer Architecture",
+    "subject": "COMP",
+    "level": 3,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP3211.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/COMP3211",
+    "description": "Computer architecture plays a crucial role in defining and bridging the interface between hardware and software in a computer system. It serves as the foundation upon which both hardware and software components are designed and interact with each other. A study of computer architecture complements the study of programming language and algorithm, compiler, and operating system on the software side of the interface, and the study of embedded system, FPGA and VLSI design on the hardware side of the interface.",
+    "enrolmentConditions": "Prerequisite: COMP3222 or ELEC2141.",
+    "terms": [
+      "T2"
+    ]
+  },
+  {
+    "code": "COMP3222",
+    "title": "Digital Circuits and Systems",
+    "subject": "COMP",
+    "level": 3,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP3222.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/COMP3222",
+    "description": "This course teaches students the fundamentals of digital design.\nThe course introduces the components of digital systems, explains how these are described in the VHDL hardware description language and familiarizes the student with the implementation of digital circuits using FPGA prototyping boards.",
+    "enrolmentConditions": "Prerequisite: COMP2121 OR COMP1521 OR DPST1092",
+    "terms": [
+      "T1"
+    ]
+  },
+  {
+    "code": "COMP3231",
+    "title": "Operating Systems",
+    "subject": "COMP",
+    "level": 3,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP3231.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/COMP3231",
+    "description": "Operating systems are an essential part of computer systems, so a course on operating systems is an essential part of any computer science or computer engineering program. This course provides an in-depth understanding of the underlying operating systems that students have implicitly relied upon when developing applications in the foundational courses within Computer Science and Engineering. The knowledge gained will continue to be relevant to your future career when developing systems and applications.\nIn general terms, the course aims to educate students in the basic concepts, components and behaviours of modern monolithic operating systems, including the relevant characteristics of hardware. Topics include processes, threads, concurrency, file systems, memory management and scheduling.\nStudents will apply some of the concepts learnt by implementing parts of a realistic teaching operating system.",
+    "enrolmentConditions": "Prerequisite: (COMP1521 or DPST1092 or COMP2121 or ELEC2142) and (COMP2521 or COMP1927)",
+    "terms": [
+      "T2"
+    ]
+  },
+  {
+    "code": "COMP3311",
+    "title": "Database Systems",
+    "subject": "COMP",
+    "level": 3,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP3311.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/COMP3311",
+    "description": "This course aims to explore in depth the practice of developing database applications and the theory behind relational database systems. It will also give a very brief overview of the technologies used in implementing database management systems and the past, present and future of database systems.\nLarge data resources are critical to the functioning of just about every significant modern computer application. Hence, knowledge of how to manage them is clearly important to the IT industry. In the context of further study, COMP3311 also provides a foundation for further study in advanced database topics, such as COMP9312 Graph Data Analytics, and COMP9315 Database Systems Implementation. Database concepts are also relevant in courses such as COMP9319 Web Data Compression and Search and COMP6714 Information Retrieval and Web Search.\nBy the end of this course, we want you to be capable of building high-quality (correct and efficient) applications based on relational databases, to have a sound understanding of issues in managing relational database management systems, and an overview of how they work internally.",
+    "enrolmentConditions": "Prerequisite: COMP2521 or COMP1927",
+    "terms": [
+      "T1",
+      "T2"
+    ]
+  },
+  {
+    "code": "COMP3331",
+    "title": "Computer Networks and Applications",
+    "subject": "COMP",
+    "level": 3,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP3331.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/COMP3331",
+    "description": "This course is an introductory course on computer networks aimed at students with a computer science / electrical engineering background. You will focus on common paradigms and protocols used in present data communication. Through lectures, in-class activities, labs and assignments, you will learn the theory and application of:\n(1) Medium access control, congestion control, flow control, and reliable transmission,\n(2) Addressing and naming,\n(3) Routing and switching,\n(4) Widely used protocols such as Ethernet, IP, TCP, UDP, HTTP, etc.\n(5) Special-purpose networks including content delivery, peer-to-peer, and wireless networks, and\n(6) Security threats and standard defensive techniques\nThis is a combined undergraduate and postgraduate course. The corresponding postgraduate course code is COMP9331.",
+    "enrolmentConditions": "Prerequisite: COMP1927 or COMP2521 or MTRN2500",
+    "terms": [
+      "T1",
+      "T2",
+      "T3"
+    ]
+  },
+  {
+    "code": "COMP3411",
+    "title": "Artificial Intelligence",
+    "subject": "COMP",
+    "level": 3,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP3411.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/COMP3411",
+    "description": "COMP3411 is an introductory course on Artificial Intelligence covering fundamental topics such as autonomous agents, knowledge representation, problem solving, neural networks, reinforcement learning, optimisation, reasoning under uncertainty, vision and language processing. The course is taught with an orientation towards machine learning and with a view to practical applications of Artificial Intelligence using Python. Some AI applications that make use of foundational concepts will be demonstrated in lectures and tutorials.",
+    "enrolmentConditions": "Prerequisite: COMP2521 or COMP1927",
+    "terms": [
+      "T1",
+      "T3"
+    ]
+  },
+  {
+    "code": "COMP3421",
+    "title": "Computer Graphics",
+    "subject": "COMP",
+    "level": 3,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP3421.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/COMP3421",
+    "description": "In this course, you will delve into the fundamentals and practical aspects of Computer Graphics by working with game engines. You will gain knowledge and skills in developing 2D, 3D, and Virtual Reality-based graphical objects and environments using game engines including Unreal Engine and Unity. Additionally, you will understand computer graphics concepts, including lighting, reflection, static meshes, 2D Transforms, 3D Transforms, surface, texture maps, materials, cameras, object physical behaviors, collision detection, hierarchical modeling of objects, shaders, and rendering.\nThe objectives of this course are to equip you with the necessary skills to work as a computer graphics expert in the industry, specifically in the development of optimal graphical interactive environments and game development. Through practical experience in computer graphics, you will also acquire the essential theoretical foundation that prepares you for a successful career in the industry.",
+    "enrolmentConditions": "Prerequisite: COMP2511 or COMP2911",
+    "terms": [
+      "T3"
+    ]
+  },
+  {
+    "code": "COMP3431",
+    "title": "Robotic Software Architecture",
+    "subject": "COMP",
+    "level": 3,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP3431.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/COMP3431",
+    "description": "An introduction to Intelligent agent design. Picking actions using planning, learning or engineered control. Both practical and theoretical components. Practical component: Re-implement parts of a real agent architecture on a robot. Assignment based. Emphasis on engineering a working system. Theoretical component: Introduction to a variety of research agent architectures including classical planning and reinforcement learning. Lecture and lab based.",
+    "enrolmentConditions": "Prerequisite: COMP2521 or COMP1927, and a WAM of at least 70",
+    "terms": [
+      "T3"
+    ]
+  },
+  {
+    "code": "COMP3445",
+    "title": "Digital Forensics",
+    "subject": "COMP",
+    "level": 3,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP3445.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/COMP3445",
+    "description": "The subject of Digital Forensics is a blend of technical expertise, legal procedures for an expert witness, persuasive report writing and your performance in the theatre of court. This course covers both forensic theory / professional practice, and looks at the underlying engineering of hiding, finding, interpreting and responding to traces. Students will use standard forensic tools to extract, carve and analyse data as well as learning the low-level technical skills and knowledge underlying them. Students will also be introduced to advanced topics such as Cloud Forensics and latest anti-forensics techniques.\nBy the end of the course students should be able to write and analyse simple forensic tools as well as being able to use them. The course covers Memory Forensics, Disc Forensics Network, Device Forensics, Stealth Techniques, Anti-forensics, Professional Forensic Practice, (chain of custody, records etc), Logging, and Mobile Forensics.\nStudents of this course will apply forensic methods in controlled environments and gain an understanding of the technical process of uncovering hidden data and other metadata which may reveal user behaviour. Students will also develop skills in reporting their findings and evaluate the ethical consequences of their findings. Digital Forensics students are invited to participate in a mock courtroom experience involving testimony and cross-examination of digital forensics expert witnesses. We plan to run a mock civil trial of company vs rogue employee with a presiding Judge, and lecturers acting as advocates and students as expert witnesses. COMP3445/COMP6445 and COMP6845 run in an overlapping mode. All share a set of common activities and assessments; however COMP6845 students have additional extension activities and assessments related to digital forensics.",
+    "enrolmentConditions": "Prerequisite: COMP1337",
+    "terms": [
+      "T3"
+    ]
+  },
+  {
+    "code": "COMP3446",
+    "title": "Cloud Security",
+    "subject": "COMP",
+    "level": 3,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP3446.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/COMP3446",
+    "description": "This course covers how to securely design and operate cloud infrastructure and how to monitor for compromise and response patterns for security incidents. This is a rapidly changing field and is one of the main areas of attack on enterprise systems.\nIn this course, students learn the fundamentals of the key domains of cloud security: identity and access management, data protection, securing infrastructure, monitoring and response, as well as skills and best practices in designing and securing cloud infrastructure. The course focuses on professional skills and working effectively in teams to manage the security of complex systems.",
+    "enrolmentConditions": "Prerequisite: COMP1337",
+    "terms": [
+      "T1"
+    ]
+  },
+  {
+    "code": "COMP3453",
+    "title": "Applied Cryptography",
+    "subject": "COMP",
+    "level": 3,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP3453.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/COMP3453",
+    "description": "Cryptography is an indispensable tool for protecting information in computer systems. This course is designed to provide an understanding of Cryptographic algorithms and Cryptanalysis with an aim of using them to protect computer systems, networks, and data protection. The course will emphasise on the foundational aspects of encryption and authentication techniques with an aim to use them correctly and effectively in applications.\nThe technical ideas to be understood include classical algorithms, symmetric key encryption algorithms, public key encryption algorithms, cryptanalysis of ciphers, hash functions, digital signatures, zero-knowledge proofs. Applications like credential management, computing on encrypted data in cloud (homomorphic encryption, secure multiparty computation), secure network protocols, blockchains will be explored. Post quantum Cryptography will also be studied.",
+    "enrolmentConditions": "Prerequisite: COMP2521 and MATH1081",
+    "terms": [
+      "T1"
+    ]
+  },
+  {
+    "code": "COMP3511",
+    "title": "Human Computer Interaction",
+    "subject": "COMP",
+    "level": 3,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP3511.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/COMP3511",
+    "description": "The course covers topics related to User Interface Design and Visual Design Principles. These topics aim to equip you with the skills necessary to design websites, mobile apps, and various software packages. You will learn how to apply a User-Centered Design process, which involves data collection from users, Requirement Analysis, Design, Prototyping, and Usability Evaluation. This process ensures that the final product is tailored to meet users' needs.\nAdditionally, the course covers other relevant topics that help you understand your users and their needs. These topics include an overview of basic Cognitive Capacities, Designing for Accessibility, Internationalization, Levels of Expertise, and Collaboration.\nLastly, the course introduces you to new emerging technologies, such as the metaverse, immersive technologies, and smart devices. These technologies require special design considerations and will be explored in the course.\nBy the end of the course, you will have gained a comprehensive understanding of User Interface Design and Visual Design Principles, along with the ability to apply User-Centered Design methodologies and adapt products to meet users' needs.",
+    "enrolmentConditions": "Prerequisite: Completion of 48 UOC",
+    "terms": [
+      "T2"
+    ]
+  },
+  {
+    "code": "COMP3601",
+    "title": "Design Project A",
+    "subject": "COMP",
+    "level": 3,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP3601.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/COMP3601",
+    "description": "In this project-based course, students will be put into groups and tasked with carrying out a real-world hardware/software co-design project. Throughout the course of the term, students will work over a series of established milestones which guide them towards completing a complex engineering challenge. Several required parameters for the engineering process, including a budget, will be provided to students. As a systems course, COMP3601 brings in and combines and contextualizes knowledge from your prior academic career, including skills from the software, digital, and electronic domains.",
+    "enrolmentConditions": "Prerequisite: (DESN2000 OR COMP2121) AND COMP3222",
+    "terms": [
+      "T3"
+    ]
+  },
+  {
+    "code": "COMP3821",
+    "title": "Extended Algorithm Design and Analysis",
+    "subject": "COMP",
+    "level": 3,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP3821.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/COMP3821",
+    "description": "How can a practitioner of algorithms help small-scale producers interested in sustainable farming? How can you solve strategy games by efficiently using computation time and memory? What do the relationships between difficult problems imply about the existence of feasible solutions to them, from both theoretical and practical standpoints?\nIn this course, you will learn the building blocks to develop problem-solving software in fields as diverse as finance, logistics, policy and entertainment. You will apply techniques including divide-and-conquer, greedy selection and dynamic programming in order to develop fast and accurate algorithms in contexts such as graphs and strings, and study reductions involving linear programming and NP-hard problems. You will also develop the ability to think critically and communicate about algorithms in terms of correctness and efficiency.\nJoin us to become a more effective, persistent and creative problem solver.",
+    "enrolmentConditions": "Prerequisite: (Min mark of 70 in COMP1927 or COMP2521) and (min mark of 70 in MATH1081 or enrolment in 3785)",
+    "terms": [
+      "T3"
+    ]
+  },
+  {
+    "code": "COMP3891",
+    "title": "Extended Operating Systems",
+    "subject": "COMP",
+    "level": 3,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP3891.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/COMP3891",
+    "description": "Operating systems are an essential part of computer systems, a course on operating systems is an essential part of any computer science or computer engineering program. This course provides an in-depth understanding of the underlying operating systems that students have implicitly relied upon when developing applications in the foundational courses within Computer Science and Engineering. The knowledge gained will continue to be relevant to your future career when developing systems and applications.\nIn general terms, the course aims to educate students in the basic concepts, components and behaviours of modern monolithic operating systems, including the relevant characteristics of hardware. Topics include processes, threads, concurrency, file systems, memory management and scheduling.\nStudents will apply some of the concepts learnt by implementing parts of a realistic teaching operating system.\nCompared to COMP3231, students in the extended course will attend additional advanced lectures, and be required to implement additional components of the teaching operating system.",
+    "enrolmentConditions": "Prerequisite: (COMP1521 or DPST1092 or COMP2121) and (COMP2521 or COMP1927) and a WAM of at least 75",
+    "terms": [
+      "T2"
+    ]
+  },
+  {
+    "code": "COMP3900",
+    "title": "Computer Science Project",
+    "subject": "COMP",
+    "level": 3,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP3900.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/COMP3900",
+    "description": "Welcome to the Information Technology/Computer Science Project Course, where theory meets practice in a hands-on exploration of real-world projects. This course is designed to elevate your programming skills by immersing you in the intricacies of coding, debugging, and optimizing software solutions. As you apply your theoretical knowledge of information technology/computer science concepts, algorithms, and data structures, you will actively bridge the gap between theoretical understanding and practical implementation. This course places a strong emphasis on teamwork and effective collaboration. You will navigate the challenges of group projects, learning to work seamlessly with peers, share responsibilities, and communicate ideas effectively. Beyond coding and collaboration, the course offers a comprehensive exploration of project management skills. From planning and scheduling to task prioritization, you will gain insights into the entire project lifecycle, experiencing firsthand the evolution of a concept into a completed solution. Furthermore, you will learn the art of crafting clear and concise project reports, and the skills to deliver impactful presentations.\nYou will work in teams of ideally five (5) members to define, implement and evaluate a real-world project. Project teams meet weekly starting from Week 1 with project mentors to report on the progress of the project. Assessment is based on a project proposal, progressive demonstrations and retrospectives, a final project demonstration and report, and on the quality of the software system itself. You will also get the chance to reflect on your own contributions and provide peer assessments of your team members.",
+    "enrolmentConditions": "Prerequisite: COMP1531, and COMP2521 or COMP1927, and enrolled in a BSc Computer Science major or Advanced Computer Science Honours major with completion of 102 UOC.",
+    "terms": [
+      "T1",
+      "T2",
+      "T3"
+    ]
+  },
+  {
+    "code": "COMP3901",
+    "title": "Special Project A",
+    "subject": "COMP",
+    "level": 3,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP3901.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/COMP3901",
+    "description": "Ever wondered what it's like to do research? Have a burning desire to solve an interesting problem of your own?\nThis course aims to give excellent students an opportunity to work closely with a member of academic staff in a small research project or a substantial development project.",
+    "enrolmentConditions": "Prerequisite: 80+ WAM in COMP, SENG or BINF courses, completion of all first and second year core requirements a CSE program, and agreement from a suitable CSE academic supervisor.",
+    "terms": [
+      "T1",
+      "T2",
+      "T3"
+    ]
+  },
+  {
+    "code": "COMP3902",
+    "title": "Special Project B",
+    "subject": "COMP",
+    "level": 3,
+    "uoc": 12,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP3902.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/COMP3902",
+    "description": "Ever wondered what it's like to do research? Have a burning desire to solve an interesting problem of your own?\nThis course aims to give excellent students an opportunity to work closely with a member of academic staff in a small research project or a substantial development project.",
+    "enrolmentConditions": "Prerequisite: 80+ WAM in COMP, SENG or BINF courses, completion of all first and second year core requirements a CSE program, and agreement from a suitable CSE academic supervisor.",
+    "terms": [
+      "T1",
+      "T2",
+      "T3"
+    ]
+  },
+  {
+    "code": "COMP4128",
+    "title": "Programming Challenges",
+    "subject": "COMP",
+    "level": 4,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP4128.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/COMP4128",
+    "description": "How do competitive programmers solve complex problems in a matter of minutes?\nIn this course, you will design and implement advanced algorithms to solve problems accurately and quickly. You will discover sophisticated applications of dynamic programming, data structures, graph algorithms, mathematics and more. Most importantly, you will learn to deconstruct a problem in order to evaluate which algorithm design techniques are appropriate, combining ideas from different contexts, and address the challenges that lie in both solving the problem conceptually and producing a C/C++ program which enacts your solution. Can you rise to the challenge?",
+    "enrolmentConditions": "Prerequisite: COMP3821, or (COMP3121 and a 75 WAM)",
+    "terms": [
+      "T2"
+    ]
+  },
+  {
+    "code": "COMP4141",
+    "title": "Theory of Computation",
+    "subject": "COMP",
+    "level": 4,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP4141.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/COMP4141",
+    "description": "Computability: formal languages and problems, Turing Machines (TMs), computability, (semi-)decidability, universal TMs, Church-Turing thesis, halting problem, reduction and undecidability proofs, examples; Complexity: run time, space, complexity classes, non-determinism and NP, polynomial reductions and NP completeness, optimisation problems and approximation, randomisation; Languages and Automata: regular expressions and languages, finite automata, determinisation, context-free grammars and languages (CFLs), Chomsky normal form, word problems, pumping lemma, push-down automata, decidability problems for CFLs; Semantics and Correctness: while programs, assertions and program correctness, Hoare logic, loops and loop invariants, relative completeness of Hoare logic (and its role in a proof of G\u00c3\u00b6del's incompleteness result)",
+    "enrolmentConditions": "Prerequisite: MATH1081, and COMP1927 or COMP2521",
+    "terms": [
+      "T1"
+    ]
+  },
+  {
+    "code": "COMP4161",
+    "title": "Advanced Topics in Software Verification",
+    "subject": "COMP",
+    "level": 4,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP4161.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/COMP4161",
+    "description": "This course is about mechanical proof assistants, how they work, and what they can be used for. It presents specification and proof techniques used in industrial grade theorem provers, teaches the theoretical background to the techniques involved, and shows how to use a theorem prover to conduct formal proofs in practice. The courses is intended to bring third/fourth year and postgraduate students into contact with the current research topics in the field of theorem proving and automated deduction and to teach them the necessary skills to successfully use industrial grade verification environments in modelling and verification.\nTopics covered included: higher order logic, natural deduction, lambda calculus, term rewriting, data types and recursive functions, induction principles, calculational reasoning, mathematical proofs, decision procedures for a variety of logical domains, and proofs about programs.\nNote: experience with (first-order) logic and functional programming is required.",
+    "enrolmentConditions": "Prerequisite: Completion of 48 UOC",
+    "terms": [
+      "T3"
+    ]
+  },
+  {
+    "code": "COMP4337",
+    "title": "Securing Fixed and Wireless Networks",
+    "subject": "COMP",
+    "level": 4,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP4337.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/COMP4337",
+    "description": "With the exponential growth of the Internet, the security of a network has become increasingly challenging. This subject will explore the security vulnerabilities in both fixed and wireless networks and cover the fundamental concepts and advanced issues with an emphasis on Internet architecture and protocols. The following key concepts will be covered: Network Security, Wireless Communications and Security overview, Review of Cryptographic techniques, 802.11 Technologies and legacy 802.11 Security: lessons learnt, Encryption Ciphers and Methods in Wireless Networks, Wireless Security Risks, Wireless Security Auditing and Pen Test Introduction, IPSec and IP layer security, PKI/X.509, Transport Layer Security/DTLS, Intrusion Detection and Protection Systems, Network Firewalls, Secure Neighbor Discovery, Routing and Forwarding Security, Authentication and Key Management in Wireless Networks/Sensor Networks, Broadcast Security and Secure Code Dissemination, Network Privacy and Anonymity, Security and Privacy in Location Services, Smart Grid, and Anomaly Detection for Network Security.",
+    "enrolmentConditions": "Prerequisite: COMP3331.",
+    "terms": [
+      "T1"
+    ]
+  },
+  {
+    "code": "COMP4418",
+    "title": "Knowledge Representation and Reasoning",
+    "subject": "COMP",
+    "level": 4,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP4418.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/COMP4418",
+    "description": "How can you timetable classes to fit everyone\u00e2\u0080\u0099s schedule? Could tactical voting occur in Australia? Can a single computer program play and solve both sudoku and minesweeper?\nKnowledge Representation and Reasoning is at the core of Artificial Intelligence and the corresponding course, COMP4418, will equip you to answer the questions above and many other ones, so-called combinatorial problems. To do so, I will teach you \u00e2\u0080\u009cmodeling\u00e2\u0080\u009d, that is the representation of a problem and its solutions in a way the computer can understand. You will learn a declarative programming language, a paradigm in which one only specifies what constitutes a solution to a problem and then leaves it to the computer to actually find the solution. With this new tool under your belt, you can effectively tackle most combinatorial problems coming your way, from planning and scheduling to digital circuit synthesis or some limited program verification.",
+    "enrolmentConditions": "Prerequisite: COMP3411",
+    "terms": [
+      "T3"
+    ]
+  },
+  {
+    "code": "COMP4511",
+    "title": "User Interface Design and Construction",
+    "subject": "COMP",
+    "level": 4,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP4511.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/COMP4511",
+    "description": "COMP4511 is a hands-on project-based course designed to build and solidify the basic skills you acquired in COMP3511/9511. Students will be required to build their interface at least three times (remember the process is iterative!), once as a low fidelity prototype, moving to a higher fidelity electronic prototype and finishing with a beta version of the app. This semester, we will be using React to help us write the app. The course will provide you with a basic understanding and the building blocks required to create your app, and let you guide the design and development process.\nThe process doesn't start with coding, it starts with an understanding your users. You develop personas of your target audience and work through the design issues: What information are they going to be dealing with? What are the workflows? How are they going to interact with the application? What is the application going to look like?\nAs you learned in Human Computer Interaction, you have to conceptualise your design on paper and evaluate prototypes with users. Then you start on the design of your system, not focussing on just the code but also the object-oriented design. You will build the code implementation iterating through both your object-oriented design and your user interface design.\nThe real insights come when we usability test your application. Do your users really understand how to use your application? Does it work the way that they expect - not what you as a programmer expect. That's the challenge. What is the difference between a bug and a design flaw? Proper evaluation techniques will help you uncover both.\nWe teach a process that is relevant to industry. Preparing students for the real-world challenges of user interface design. And face it, user interfaces are everywhere.\nThe process is not just about putting buttons and text on screen. COMP3511 only touched the surface of what user interface design is all about. Are you up for the challenge of designing graphical user interfaces?\nCOMP3511 Human Computer Interaction is a pre-requisite and you need a mark of 70 or better (you are expected to start design, prototyping and designing usability tests in the first week). You should have completed COMP2511 which introduces you to object oriented techniques, UML and design patterns, with a mark of 65 or higher.",
+    "enrolmentConditions": "Prerequisite: a mark of at least 70 in COMP3511 and a mark of at least 65 in COMP2511",
+    "terms": [
+      "T3"
+    ]
+  },
+  {
+    "code": "COMP4601",
+    "title": "Design Project B",
+    "subject": "COMP",
+    "level": 4,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP4601.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/COMP4601",
+    "description": "COMP4601 is a team-based project development course involving the analysis, design and implementation of embedded, high performance or low power FPGA-based accelerators using high-level synthesis.\nStudents study concepts through lectures and guided lab exercises during the first half of the course, when project teams are also formed and the project goals are developed. During the second half of the course, students are involved in presenting group seminars and working on their projects. The course finishes with final project presentations.",
+    "enrolmentConditions": "Prerequisite: COMP3211 and COMP3601.",
+    "terms": [
+      "T2"
+    ]
+  },
+  {
+    "code": "COMP4920",
+    "title": "Professional Issues and Ethics in Information Technology",
+    "subject": "COMP",
+    "level": 4,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP4920.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/COMP4920",
+    "description": "In this course we will explore ethical issues for computer science, widely conceived. We will examine in detail the nature of ethical claims/moral judgements themselves, and how it is that our beliefs about their nature can affect our understanding of the ethical issues relating to computer science that we have examined so far. We will learn about ethical arguments, and how to construct and evaluate them.\nWe will cover normative ethics, and run test cases past real-world computer science cases. We will learn to engage critically with research ethics, as well as the relationship between ethical responsibility and AI frameworks and innovation. There will be considerable discussion of \"ethics washing\" - the pretence of ethical reasoning by those in positions of power for the purpose of avoiding regulation, as well as explore the related issues of trust, accountability, and privacy in our current online, informationalised world.\nWe will explore equity, bias and fairness in algorithmic and dataset design, as well as the ethics of AI more broadly. We will also explore the ethical ramifications of transparency and explainability - along with their attendant relationships with power, as they relate to computer science in general.",
+    "enrolmentConditions": "Prerequisite: Completion of 18 UOC of COMP**** courses",
+    "terms": [
+      "T1",
+      "T3"
+    ]
+  },
+  {
+    "code": "COMP4951",
+    "title": "Research Thesis A",
+    "subject": "COMP",
+    "level": 4,
+    "uoc": 4,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP4951.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/COMP4951",
+    "description": "The thesis provides an opportunity for you to bring together engineering principles learned over the previous years of study, and apply these principles to innovatively solve problems, which may include the development of specific designs and/or the investigation of various research hypotheses. Thesis projects are complex, open-ended problems that allow room for your creativity, and the acquisition, analysis, and interpretation of results. Typically, the project you work with will have multiple possible solutions or conclusions and sufficient complexity to require a degree of project planning. The thesis requires you to formulate problems in engineering terms, manage an engineering project and find solutions by applying engineering methods. You will also develop an ability to work in a research and development environment.\nThrough the thesis, you will put into practice the knowledge and skills that you've learned in your study up to this point. You do this by investigating a research topic, developing a significant software/hardware system, or some combination of these.\nUndergraduate theses consist of a single piece of work spread over three courses: Part A, Part B and Part C.\nIn Thesis A, you will carry out a literature review of your chosen thesis topic with the aim to identify a research and/or development gap. Based on the identified gap you will plan out the research and/or development work to be carried out in Thesis B and Thesis C.",
+    "enrolmentConditions": "Prerequisite: Enrolled in a CSE BE (Hons) programs, completion of 126 UOC and completion of 3rd year core.",
+    "terms": [
+      "T1",
+      "T2",
+      "T3"
+    ]
+  },
+  {
+    "code": "COMP4952",
+    "title": "Research Thesis B",
+    "subject": "COMP",
+    "level": 4,
+    "uoc": 4,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP4952.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/COMP4952",
+    "description": "The thesis provides an opportunity for you to bring together engineering principles learned over the previous years of study, and apply these principles to innovatively solve problems, which may include the development of specific designs and/or the investigation of various research hypotheses. Thesis projects are complex, open-ended problems that allow room for your creativity, and the acquisition, analysis, and interpretation of results. Typically, the project you work with will have multiple possible solutions or conclusions and sufficient complexity to require a degree of project planning. The thesis requires you to formulate problems in engineering terms, manage an engineering project and find solutions by applying engineering methods. You will also develop an ability to work in a research and development environment.\nThrough the thesis, you will put into practice the knowledge and skills that you've learned in your study up to this point. You do this by investigating a research topic, developing a significant software/hardware system, or some combination of these.\nUndergraduate theses consist of a single piece of work spread over three courses: Part A, Part B and Part C.\nThesis B is a continuation of Thesis A. By the end of Thesis A, you are expected to have identified a research and/or development gap and have planned out the technical work to be carried out for Thesis B and Thesis C. In Thesis B, you will carry out the technical work that you have planned out in Thesis A. At the end of Thesis B, you will evaluate the progress of your work, and revise the work plan to be carried out in Thesis C based on your findings and progress in Thesis B.",
+    "enrolmentConditions": "Prerequisite: COMP4951",
+    "terms": [
+      "T1",
+      "T2",
+      "T3"
+    ]
+  },
+  {
+    "code": "COMP4953",
+    "title": "Research Thesis C",
+    "subject": "COMP",
+    "level": 4,
+    "uoc": 4,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP4953.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/COMP4953",
+    "description": "The thesis provides an opportunity for you to bring together engineering principles learned over the previous years of study, and apply these principles to innovatively solve problems, which may the development of specific designs and/or the investigation of various research hypotheses. Thesis projects are complex, open-ended problems that allow room for your creativity, and the acquisition, analysis, and interpretation of results. Typically, the project you work with will have multiple possible solutions or conclusions and sufficient complexity to require a degree of project planning. The thesis requires you to formulate problems in engineering terms, manage an engineering project and find solutions by applying engineering methods. You will also develop an ability to work in a research and development environment.\nThrough the thesis, you will put into practice the knowledge and skills that you've learned in your study up to this point. You do this by investigating a research topic, developing a significant software/hardware system, or some combination of these.\nUndergraduate theses consist of a single piece of work spread over three courses: Part A, Part B and Part C.\nThesis C is a continuation of Thesis B. In Thesis C, you will carry out the technical work that you have planned out at the end of Thesis B. You will also evaluate the merits of your technical work and report your findings.",
+    "enrolmentConditions": "Prerequisite: COMP4952",
+    "terms": [
+      "T1",
+      "T2",
+      "T3"
+    ]
+  },
+  {
+    "code": "COMP4961",
+    "title": "Computer Science Thesis A",
+    "subject": "COMP",
+    "level": 4,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP4961.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/COMP4961",
+    "description": "The thesis provides an opportunity for you to bring together computer science principles learned over the previous years of study, and apply these principles to innovatively solve problems such as the development of specific designs and/or the investigation of various research hypotheses. Thesis projects are complex, open-ended problems that allow room for your creativity, and the acquisition, analysis, and interpretation of results. Typically, the project you work with will have multiple possible solutions or conclusions and sufficient complexity to require a degree of project planning. The thesis requires you to formulate research problems, manage a computer science project and find solutions by applying computer science methods. You will also develop an ability to work in a research and development environment.\nThrough the thesis, you will put into practice the knowledge and skills that you've learned in your study up to this point. You do this by investigating a research topic, developing a significant software/hardware system, or some combination of these.\nUndergraduate theses consist of a single piece of work spread over three courses: Part A, Part B and Part C.\nIn Thesis A, you will carry out a literature review of your chosen thesis topic with the aim to identify a research and/or development gap. Based on the identified gap you will plan out the research and/or development work to be carried out in Thesis B and Thesis C.",
+    "enrolmentConditions": "Prerequisite: Enrolment in 4515 Computer Science (Hons) or 3779 Advanced Computer Science (Hons)",
+    "terms": [
+      "T1",
+      "T2",
+      "T3"
+    ]
+  },
+  {
+    "code": "COMP4962",
+    "title": "Computer Science Thesis B",
+    "subject": "COMP",
+    "level": 4,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP4962.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/COMP4962",
+    "description": "The thesis provides an opportunity for you to bring together computer science principles learned over the previous years of study, and apply these principles to innovatively solve problems, which may include the development of specific designs and/or the investigation of various research hypotheses. Thesis projects are complex, open-ended problems that allow room for your creativity, and the acquisition, analysis, and interpretation of results. Typically, the project you work with will have multiple possible solutions or conclusions and sufficient complexity to require a degree of project planning. The thesis requires you to formulate research problems, manage a computer science project and find solutions by applying computer science methods. You will also develop an ability to work in a research and development environment.\nThrough the thesis, you will put into practice the knowledge and skills that you've learned in your study up to this point. You do this by investigating a research topic, developing a significant software/hardware system, or some combination of these.\nUndergraduate theses consist of a single piece of work spread over three courses: Part A, Part B and Part C.\nThesis B is a continuation of Thesis A. By the end of Thesis A, you are expected to have identified a research and/or development gap and have planned out the technical work to be carried out for Thesis B and Thesis C. In Thesis B, you will carry out the technical work that you have planned out in Thesis A. At the end of Thesis B, you will evaluate the progress of your work, and revise the work plan to be carried out in Thesis C based on your findings and progress in Thesis B.",
+    "enrolmentConditions": "Prerequisite: COMP4961",
+    "terms": [
+      "T1",
+      "T2",
+      "T3"
+    ]
+  },
+  {
+    "code": "COMP4963",
+    "title": "Computer Science Thesis C",
+    "subject": "COMP",
+    "level": 4,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP4963.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Undergraduate/courses/2026/COMP4963",
+    "description": "The thesis provides an opportunity for you to bring together computer science principles learned over the previous years of study, and apply these principles to innovatively solve problems, which may include the development of specific designs and/or the investigation of various research hypotheses. Thesis projects are complex, open-ended problems that allow room for your creativity, and the acquisition, analysis, and interpretation of results. Typically, the project you work with will have multiple possible solutions or conclusions and sufficient complexity to require a degree of project planning. The thesis requires you to formulate research problems, manage a computer science project and find solutions by applying computer science methods. You will also develop an ability to work in a research and development environment.\nThrough the thesis, you will put into practice the knowledge and skills that you've learned in your study up to this point. You do this by investigating a research topic, developing a significant software/hardware system, or some combination of these.\nUndergraduate theses consist of a single piece of work spread over three courses: Part A, Part B and Part C.\nThesis C is a continuation of Thesis B. In Thesis C, you will carry out the technical work that you have planned out at the end of Thesis B. You will also evaluate the merits of your technical work and report your findings.",
+    "enrolmentConditions": "Prerequisite: COMP4962",
+    "terms": [
+      "T1",
+      "T2",
+      "T3"
+    ]
+  },
+  {
+    "code": "COMP6080",
+    "title": "Web Front-End Programming",
+    "subject": "COMP",
+    "level": 6,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP6080.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/COMP6080",
+    "description": "COMP6080 aims to develop your confidence in building modern web-based applications to industry standards. This occurs through the introduction of a range of basic concepts surrounding HTML, CSS, Vanilla Javascript, Javascript Declarative Frameworks, UI/UX Principles, Accessibility, Network & Asynchronous Programming, Front-end Testing, and other basic infrastructure.\nThis course has a heavy emphasis on industry voices, and as such a number of lectures will be given by current front-end developers from industry. These lectures primarily come from employees at Canva, a Sydney-based technology company that does a lot of work with front-end technologies.\nCOMP6080 is a challenging course. Front-end development is unlike most things you've experienced at university before. You will find the individual problems you solve much simpler than other level 6 courses, but the time you will feel that you spend on the aggregate of these issues will feel larger. A number of students will find this course quite time consuming if they're hoping to achieve a high mark. We'd encourage you to reflect on this fact before you enrol in the course.",
+    "enrolmentConditions": "Prerequisites: COMP9021 and COMP9024",
+    "terms": [
+      "T1",
+      "T3"
+    ]
+  },
+  {
+    "code": "COMP6131",
+    "title": "Software Security Analysis",
+    "subject": "COMP",
+    "level": 6,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP6131.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/COMP6131",
+    "description": "This course is designed to provide a systematic exploration of automated source code analysis and verification techniques, with the aim of gaining hands-on experience in implementing code analysis tools to identify common yet important software vulnerabilities in software systems. By taking this course, students can put static analysis and verification theories and advanced techniques into practice. They will be able to build source code analysis tools (e.g., written in C++ and Python) based on modern compilers and popular open-source frameworks to scan, comprehend and detect programming mistakes and vulnerabilities with the purpose of enhancing code quality and security.",
+    "enrolmentConditions": "Prerequisite: COMP9020 and (COMP6771 or a mark of at least 70 in COMP9024)",
+    "terms": [
+      "T2"
+    ]
+  },
+  {
+    "code": "COMP6420",
+    "title": "Hardware Security",
+    "subject": "COMP",
+    "level": 6,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP6420.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/COMP6420",
+    "description": "The functionality and capability of computer systems are defined by their real-world hardware. Likewise, the cyber security of computer systems depends upon the security of their underlying hardware. This course is designed to explore both hardware security and trust in hardware, providing a comprehensive understanding of the underpinning principles and practices which apply to both the security and trust of computer systems, from printed circuit boards to individual integrated circuits. Students will explore theoretical aspects of what makes hardware secure, performing threat modelling and understanding the state of the art in hardware security, as well as get hands-on experience with practical attacks and defences for both virtual and real-world hardware. The course will equip students with the skills necessary to analyse, design, and implement hardware security measures.",
+    "enrolmentConditions": "Prerequisite: COMP9021 and COMP9222",
+    "terms": [
+      "T1"
+    ]
+  },
+  {
+    "code": "COMP6441",
+    "title": "Security Engineering and Cyber Security",
+    "subject": "COMP",
+    "level": 6,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP6441.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/COMP6441",
+    "description": "In this introductory cybersecurity course we look at Security Engineering \u00e2\u0080\u0093 the engineering principles behind designing, monitoring, and maintaining security in the face of an adversary. We explore selected case studies and examine the practical principles behind effective security. We introduce the fundamental ideas of security and then we look at how these are applied in current cyber security practice. We will pay particular attention to systems which fail and the importance of thinking like an attacker. This course involves analysis, critical thinking and design. A cunning and devious mind will be an asset. Although our main concern is cybersecurity, the engineering principles we cover apply to security more generally.\nThis course introduces modern cybersecurity design and practice, and is suitable for anyone with a playful analytical mind and a general interest in security. We do not assume a programming background. We concentrate on analytical skills and the engineering approach to security design. We'll also bring you up to date with the current main trends in cybersecurity.\nIn this course you will undertake an applied self directed security project.\nThere is an associated \"Extended\" version of this course (COMP6841) for students who can code, ideally in C, and who know low level concepts such as memory implementation and function calling. CSE students will probably choose to take the extended version but are not required to. You can transfer between the courses before the census date if you can't make up your mind in advance which is better for you.\nThe precise topics covered in this introductory course change somewhat from year to year to keep the coverage up-to-date and relevant. As you will see cybersecurity has recently been and remains a rapidly changing field. The field is now way too big for us to cover everything in detail in just one course but by the end of course you will have an overview of the major topics in contemporary security, a good understanding of the current state of play, and have begun to think like a security engineer.\nAfter completing either of these courses (COMP6441 or COMP6841) you can proceed to the other UNSW Computing Security Courses covering topics in:\n- Digital forensics\n- Penetration testing\n- Memory corruption and exploitation\n- Software assurance\n- Incident response\n- Malware analysis and reversing\n- Cryptanalysis\n- Cloud Security\n- Professional issues and leadership in security\n- Web application security\n- Fun special projects\n- Masterclass\nOur intention is to make this a highly enjoyable course. The field is quite stimulating as the security mindset you will develop involves understanding know how to break things in creative ways (as well as how to create things as is traditional in computing) with puzzles, cunning, cloak-and-dagger antics and a never-ending supply of amusing stories. However it will not be an easy course \u00e2\u0080\u0093 you are expected to master the underlying theory *and* to be able to apply it to real world situations. There is a lot to learn and we expect you to work hard and study in your own time.",
+    "enrolmentConditions": "No conditions for enrolment found on Handbook page.",
+    "terms": [
+      "T2"
+    ]
+  },
+  {
+    "code": "COMP6443",
+    "title": "Web Application Security and Testing",
+    "subject": "COMP",
+    "level": 6,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP6443.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/COMP6443",
+    "description": "Web applications are currently the predominant source of software vulnerabilities exploited in in online attacks. There is a growing need and growing demand for web programmers to be security aware.\nThis course covers the main types of web application vulnerabilities and current best practice professional coding and testing practices to be able to successfully develop secure web applications.\nThe course covers OWASP vulnerabilities cross site scripting browser security model and weaknesses Injection attacks DNS Man in the middle Data leakage Spoofing UI and Social vulnerabilities Assurance and Testing Standards. Course coverage will be constantly updated over time to reflect emerging vulnerabilities and practices.\nA programming background is not required but it will be helpful in some of the more applied topics. Students need a keen devious and analytical mind. To get the most from this course students will need to engage in independent study and research and be able to act as independent self directed learners.",
+    "enrolmentConditions": "Prerequisite: COMP6441 or COMP6841 or COMP9441",
+    "terms": [
+      "T1"
+    ]
+  },
+  {
+    "code": "COMP6445",
+    "title": "Digital Forensics",
+    "subject": "COMP",
+    "level": 6,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP6445.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/COMP6445",
+    "description": "The subject of Digital Forensics is a blend of technical expertise, legal procedures for an expert witness, persuasive report writing and your performance in the theatre of court. This course covers both forensic theory / professional practice, and looks at the underlying engineering of hiding, finding, interpreting and responding to traces. Students will use standard forensic tools to extract, carve and analyse data as well as learning the low-level technical skills and knowledge underlying them. Students will also be introduced to advanced topics such as Cloud Forensics and latest anti-forensics techniques.\nBy the end of the course students should be able to write and analyse simple forensic tools as well as being able to use them. The course covers Memory Forensics, Disc Forensics Network, Device Forensics, Stealth Techniques, Anti-forensics, Professional Forensic Practice, (chain of custody, records etc), Logging, and Mobile Forensics.\nStudents of this course will apply forensic methods in controlled environments and gain an understanding of the technical process of uncovering hidden data and other metadata which may reveal user behaviour. Students will also develop skills in reporting their findings and evaluate the ethical consequences of their findings. Digital Forensics students are invited to participate in a mock courtroom experience involving testimony and cross-examination of digital forensics expert witnesses. We plan to run a mock civil trial of company vs rogue employee with a presiding Judge, and lecturers acting as advocates and students as expert witnesses.\nCOMP3445/COMP6445 and COMP6845 run in an overlapping mode. All share a set of common activities and assessments; however COMP6845 students have additional extension activities and assessments related to digital forensics.",
+    "enrolmentConditions": "Prerequisite: COMP6441 or COMP6841 or COMP9441",
+    "terms": [
+      "T3"
+    ]
+  },
+  {
+    "code": "COMP6447",
+    "title": "System and Software Security Assessment",
+    "subject": "COMP",
+    "level": 6,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP6447.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/COMP6447",
+    "description": "This course looks at cyber attack and defence. Students learn how to assess and identify vulnerabilities and how vulnerabilities are exploited. Students learn the principles and theory of exploitation, the common security models, and how approaches to exploitation and defence have evolved over time.\nStudents from this course will engage in wargames, analyse real world case studies of vulnerabilities in complex software used on widespread systems, and gain an understanding of the technical process of finding and fixing low-level software vulnerabilities and also of the economics and causal factors involved with their real world use.\nThe course covers techniques and skills including vulnerability classes, source code auditing,fuzzing, security bugs, software security assurance, taint analysis, memory corruption, overflows and return oriented programming. The course coverage will be constantly updated over time to reflect emerging attack and defence methods.\nThere are numerous formative assessments and activities throughout the course to provide feedback and learning opportunities.\nStudents need a keen, devious and analytical mind.\nTo get the most from this course you will need to engage in independent study and act as a self-directed learner. Attending lectures alone will not be sufficient to pass the course. You will need to devote considerable practice to all the techniques we cover and read further on topics which interest you or which you do not fully understand. For a credit level result we expect you will spend 15 hours per week in total on this course.\nSeek feedback from your friendly lecturers, tutors and class peers constantly over the term and closely monitor yourself to make sure you are not falling behind. Experience has shown that students who do not work hard at the course do not do well, and often express disappointment later on at the missed opportunity.",
+    "enrolmentConditions": "Prerequisite: A mark of at least 65 in COMP6841, or a mark of at least 75 in COMP6441, or COMP9441",
+    "terms": [
+      "T3"
+    ]
+  },
+  {
+    "code": "COMP6452",
+    "title": "Software Architecture for Blockchain Applications",
+    "subject": "COMP",
+    "level": 6,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP6452.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/COMP6452",
+    "description": "This course addresses the knowledge that is needed in order to build applications based on blockchain technology, by offering an architectural view of software systems that make beneficial use of it. It provides guidance on assessing the suitability of blockchain, on the roles blockchain can play in an architecture, on designing blockchain applications, and on assessing different architecture designs and tradeoffs. It also serves as a reference on blockchain design patterns and design analysis, and refers to practical examples of blockchain-based applications.\nThe course covers the following:\n- a general introduction to the topic and to existing blockchain platforms including Bitcoin, Ethereum, and Hyperledger Fabric, and offers examples of blockchain-based applications;\n- the functional aspects of software architecture are covered, describing the main roles blockchain can play in an architecture, as well as its potential suitability and design process;\n- non-functional aspects of blockchain applications, which are often cross-cutting concerns including cost estimation, performance, security;\nReal-world use cases will be covered, offering additional insights from a practical perspective.",
+    "enrolmentConditions": "Prerequisite: COMP9024",
+    "terms": [
+      "T2"
+    ]
+  },
+  {
+    "code": "COMP6453",
+    "title": "Applied Cryptography",
+    "subject": "COMP",
+    "level": 6,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP6453.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/COMP6453",
+    "description": "Cryptography is an indispensable tool for protecting information in computer systems. This course is designed to provide an understanding of Cryptographic algorithms and Cryptanalysis with an aim of using them to protect computer systems, networks, and data protection. The course will emphasise on the foundational aspects of encryption and authentication techniques with an aim to use them correctly and effectively in applications.\nThe technical ideas to be understood include classical algorithms, symmetric key encryption algorithms, public key encryption algorithms, cryptanalysis of ciphers, hash functions, digital signatures, zero-knowledge proofs. Applications like credential management, computing on encrypted data in cloud (homomorphic encryption, secure multiparty computation), secure network protocols, blockchains will be explored. Post quantum Cryptography will also be studied.",
+    "enrolmentConditions": "Prerequisite: COMP9024 and COMP9020",
+    "terms": [
+      "T1"
+    ]
+  },
+  {
+    "code": "COMP6713",
+    "title": "Natural Language Processing",
+    "subject": "COMP",
+    "level": 6,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP6713.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/COMP6713",
+    "description": "Natural language processing (NLP) is a branch of artificial intelligence that deals with computational approaches used to process text.\nHuman language (i.e., natural language) is inherently ambiguous. Ambiguity resolution using computational techniques is at the heart of NLP. As a result, the advancements in NLP can be visualized as three generations: rule-based, statistical and neural. The course introduces the three generations of NLP through the philosophy of ambiguity resolution being the core task of NLP. The content covers different NLP sub-problems (such as POS tagging, sentiment classification, named entity recognition, machine translation and summarisation), and typical approaches in the three generations to tackle these sub-problems.\nWith recent advancements in large language models, there has been a renewed interest in NLP from industry and research alike. However, NLP precedes large language models. The exposition of NLP centered around ambiguity resolution helps to develop an understanding of the past and the present of NLP.",
+    "enrolmentConditions": "Prerequisite: COMP9020 and (COMP9814 or COMP9444)",
+    "terms": [
+      "T1"
+    ]
+  },
+  {
+    "code": "COMP6714",
+    "title": "Information Retrieval and Web Search",
+    "subject": "COMP",
+    "level": 6,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP6714.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/COMP6714",
+    "description": "Information retrieval (IR) is the process of retrieving relevant information by specifying a query to an IR system. Web search is one form of an IR system that allows users to search information on the Internet based on a search engine. It involves computing a numeric score on how well each result matches the query and ranking the results according to this score.\nThis course aims to introduce the concepts, theories, and algorithmic issues important to Information Retrieval. If time allows, the course will also cover some recent topics and common practices. The course is composed of the following parts:\nInformation Retrieval:\n- Document modeling\n- Inverted index construction and compression\n- Vector space model and ranking methods\n- Probabilistic and language models\n- Evaluation methods\n- Relevance feedback and query expansion.\nWeb Search:\n- Web search engine architecture\n- Web crawling and indexing\n- Web structure and usage analytics.\nThe lecture materials will be complemented by a non-programming assignment and a programming project.",
+    "enrolmentConditions": "Prerequisite: COMP9020 and COMP9024",
+    "terms": [
+      "T3"
+    ]
+  },
+  {
+    "code": "COMP6733",
+    "title": "Internet of Things Experimental Design Studio",
+    "subject": "COMP",
+    "level": 6,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP6733.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/COMP6733",
+    "description": "Internet of Things (IoT) will play a key role in the next frontier of computing. The new course will provide an experimental approach to cover fundamental design principles behind building IoT applications, with hands-on experience with a popular end-to-end IoT platform.Topics covered will include a selection from: IoT technology and services, IoT system architecture, Low Power communications (Bluetooth Low Energy and 6LoWPAN) and security issues, sensors and sensor data smoothing and filtering, light-weight in-situ machine learning and data fusion, inertial sensing, activity recognition and fitness morning, voice-based stress level sensing, biometric authentication, anonymity, cloud services for IoT. This course assumes familiarity with a high level programming language such as Java and Python AND a low level programming language such as C.",
+    "enrolmentConditions": "Prerequisite: 65 WAM and COMP9331",
+    "terms": [
+      "T2"
+    ]
+  },
+  {
+    "code": "COMP6771",
+    "title": "Advanced C++ Programming",
+    "subject": "COMP",
+    "level": 6,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP6771.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/COMP6771",
+    "description": "COMP6771 is an advanced programming course, teaching practical aspects of intermediate/advanced C++ programming. The course focuses on teaching the fundamentals of C++, followed by exploring powerful abstractions that C++ enables. This course focuses on using abstractions as well as building abstractions.\nCOMP6771 is focused on modern, practical programming methods and tools. This course is designed for latter year CSE students with a reasonable degree of programming competencies.\nOur aim for students who complete this course satisfactorily is that they are highly competent in understanding C++ and its core features, being able to build complex programs, data structures, and algorithms with C++, and being ready to immediately move into the workforce in areas that rely heavily on C++.\nStudents will need to work consistently each week to maintain progress through the course.",
+    "enrolmentConditions": "Prerequisite: COMP9024",
+    "terms": [
+      "T2"
+    ]
+  },
+  {
+    "code": "COMP6841",
+    "title": "Extended Security Engineering and Cyber Security",
+    "subject": "COMP",
+    "level": 6,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP6841.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/COMP6841",
+    "description": "In this introductory cybersecurity course we look at Security Engineering \u00e2\u0080\u0093 the engineering principles behind designing, monitoring, and maintaining security in the face of an adversary. We explore selected case studies and examine the practical principles behind effective security. We introduce the fundamental ideas of security and then we look at how these are applied in current cyber security practice. We will pay particular attention to systems which fail and the importance of thinking like an attacker. This course involves analysis, critical thinking and design. A cunning and devious mind will be an asset. Although our main concern is cybersecurity, the engineering principles we cover apply to security more generally.\nThis course introduces modern cybersecurity design and practice, and is suitable for anyone with a playful analytical mind and a general interest in security. We assume knowledge of coding, ideally in C, and knowledge of low level computing concepts such as memory implementation and function calling. The course provides an introduction to applied cyber security, as well as analytical skills and taking an engineering approach to security design. We'll also bring you up to date with the current main trends in cybersecurity.\nIn this course you will undertake an applied self directed security project.\nThere is an associated \"Core\" version of this course (COMP6441). CSE students will probably choose to take this Extended course rather than the core course, but are not required to. You can transfer between these two associated courses before the census date if you can't make up your mind in advance which is better for you.\nThis extended course is the core course plus additional applied technical material.\nAfter completing COMP6841 you can proceed to the other UNSW Computing Security Courses covering topics in:\n- Digital forensics\n- Penetration testing\n- Memory corruption and exploitation\n- Software assurance\n- Incident response\n- Malware analysis and reversing\n- Cryptanalysis\n- Professional issues and leadership in security\n- Web application security\n- Special projects\n- Masterclass\nThe precise topics covered in this course will change from year to year to keep the coverage up-to-date and relevant. The field is now too big for us to cover everything in detail in a single course but by the end of this course you will have an overview of the major topics in contemporary security, a good understanding of the current state of the field, and have begun to think like a security engineer.\nOur intention is to make this a highly enjoyable course. The field is quite stimulating as the security mindset you will develop involves understanding know how to break things in creative ways (as well as how to create things as is traditional in computing) with puzzles, cunning, cloak-and-dagger antics and a never-ending supply of amusing stories. However it will not be an easy course \u00e2\u0080\u0093 you are expected to master the underlying theory *and* to be able to apply it to real world situations. There is a lot to learn and we expect you to work hard and study it in your own time.",
+    "enrolmentConditions": "Prerequisite: COMP9024",
+    "terms": [
+      "T2"
+    ]
+  },
+  {
+    "code": "COMP6843",
+    "title": "Extended Web Application Security and Testing",
+    "subject": "COMP",
+    "level": 6,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP6843.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/COMP6843",
+    "description": "Web applications are currently the predominant source of software vulnerabilities exploited in in online attacks. There is a growing need and growing demand for web programmers to be security aware.\nThis course covers the main types of web application vulnerabilities and current best practice professional coding and testing practices to be able to successfully develop secure web applications.\nThe course covers OWASP vulnerabilities cross site scripting browser security model and weaknesses Injection attacks DNS Man in the middle Data leakage Spoofing UI and Social vulnerabilities Assurance and Testing Standards. Course coverage will be constantly updated over time to reflect emerging vulnerabilities and practices.\nThere are numerous formative assessments and activities throughout the course to provide feedback and learning opportunities. These do not directly contribute to your final grade but are expected to be used to provide evidence of your capabilities in your portfolio.\nA programming background is required. Students also need a keen devious and analytical mind. To get the most from this course students will need to engage in independent study and research and be able to act as independent self directed learners.\nThis is the extended version of COMP6443. This course includes the material of COMP6443, a deeper coverage of vulnerability classifications, and more sophisticated exploitation techniques. Students will work in teams to conduct application tests and report on them to real and simulated clients.",
+    "enrolmentConditions": "Prerequisite: COMP6441 or COMP6841 or COMP9441",
+    "terms": [
+      "T1"
+    ]
+  },
+  {
+    "code": "COMP6845",
+    "title": "Extended Digital Forensics and Incident Response",
+    "subject": "COMP",
+    "level": 6,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP6845.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/COMP6845",
+    "description": "The subject of Digital Forensics is a blend of technical expertise, legal procedures for an expert witness, persuasive report writing and your performance in the theatre of court. This course covers both forensic theory / professional practice, and looking at the underlying engineering of hiding, finding, interpreting and responding to traces. Students will use of standard forensic tools to extract, carve and analyse data as well as learning the low-level technical skills and knowledge underlying them. Students will also be introduced to advanced topics such as Cloud Forensics and latest anti-forensics techniques.\nCOMP3445/COMP6445 and COMP6845 run in an overlapping mode. All share a set of common activities and assessments; however COMP6845 students have additional extension activities and assessments related to digital forensics. These activities offer more advanced and in-depth study of the topic. The main differences between COMP3445/COMP6445 and COMP6845 derive from the motivations behind them, unlike other SECedu courses, the extended course (COMP6845) is not only exclusively a more technical deep dive into core (COMP3445/COMP6445) concepts but also exposes students to advanced topics in Digital Forensics such as Splunk Logging, iOS and Android Forensics. Hence, COMP6845 includes a deeper dive into more technical aspects of digital forensics. This is achieved through additional weekly workshop/lecture during the term.\nBy the end of the course students should be able to write and analyse simple forensic tools as well as being able to use them. The course covers Memory Forensics, Disc Forensics Network, Device Forensics, Stealth Techniques, Anti-forensics, Professional Forensic Practice, (chain of custody, records etc), Logging, and Mobile Forensics. Students of this course will apply forensic methods in controlled environments and gain an understanding of the technical process of uncovering hidden data and other metadata which may reveal user behaviour. Students will also develop skills in reporting their findings and evaluate the ethical consequences of their findings. Digital Forensics students are invited to participate in a mock courtroom experience involving testimony and cross-examination of digital forensics expert witnesses. We plan to run a mock civil trial of company vs rogue employee with a presiding Judge, and lecturers acting as advocates and students as expert witnesses.",
+    "enrolmentConditions": "Prerequisite: COMP6441 or COMP6841 or COMP9441, and COMP9201 or COMP9283",
+    "terms": [
+      "T3"
+    ]
+  },
+  {
+    "code": "COMP6991",
+    "title": "Solving Modern Programming Problems with Rust",
+    "subject": "COMP",
+    "level": 6,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP6991.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/COMP6991",
+    "description": "This course aims to provide commentary and critique on the practice of programming, and the tooling used to program (primarily programming languages themselves). A variety of programming concepts across many programming languages are examined, including: syntax, typing, polymorphism, documentation, testing, meta-programming, concurrency, parallelism, safety, and more. The Rust programming language is used as a reference language to teach considerations behind these concepts. As a language commonly cited to be well-considered, it serves as a good foundation to help students understand where countless other languages may let them down. Lectures will compare and contrast Rust with other languages, but will also discuss where Rust can similarly let students down.\nWhile proficiency in writing Rust programs is an important learning outcome of this course, of greater importance is the ability to write more robust programs in whichever language a student happens to be using at the time.\nPer the advice of previous students, COMP6991 is a difficult course with a considerable workload. Please reach out to us either on the course forum or the course email if you're not sure whether COMP6991 is right for you.",
+    "enrolmentConditions": "COMP9024",
+    "terms": [
+      "T2"
+    ]
+  },
+  {
+    "code": "COMP9242",
+    "title": "Advanced Operating Systems",
+    "subject": "COMP",
+    "level": 9,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP9242.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/COMP9242",
+    "description": "The course provides students with a deep understanding of modern operating system technology, implementation techniques and research issues.\nThis course builds upon the basic operating systems course (COMP3231/9201/3891/9283), which provides an understanding of the underlying operating systems which students have implicitly relied upon in developing applications in foundational courses within Computer Science and Engineering, and will rely on in their future careers when developing systems and applications. Advanced operating systems enables students to specialise in operating systems, giving them the skills and insight to become highly competent developers or researchers in the general \u00e2\u0080\u009csystems\u00e2\u0080\u009d space, including operating systems, network systems, embedded and cyberphysical systems. The course produces graduates who are highly sought-after by technology companies and systems researchers.",
+    "enrolmentConditions": "Prerequisite: a mark of at least 75 in either COMP9201 or COMP9283.",
+    "terms": [
+      "T3"
+    ]
+  },
+  {
+    "code": "COMP9301",
+    "title": "Cyber Security Project",
+    "subject": "COMP",
+    "level": 9,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP9301.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/COMP9301",
+    "description": "Ever wondered what it's like to do cyber security research? Have a burning desire to solve an interesting security problem of your own?\nThis course aims to give self motivated students an opportunity to complete a small research project or a substantial development project under the supervision of an academic member of the school and co-supervision of an industry expert as appropriate.\nInterested students are advised to contact and submit an expression of interest to potential supervisors and seek their approval to enrol well in advance of the start of term.",
+    "enrolmentConditions": "(COMP6441 OR COMP6841) AND (6 UOC from (COMP6443, COMP6843, COMP6445, COMP6845, COMP6447)) AND enrolled in final term of program",
+    "terms": [
+      "U1",
+      "T1",
+      "T2",
+      "T3"
+    ]
+  },
+  {
+    "code": "COMP9302",
+    "title": "Cyber Security Project B",
+    "subject": "COMP",
+    "level": 9,
+    "uoc": 12,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP9302.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/COMP9302",
+    "description": "Ever wondered what it's like to do cyber security research? Have a burning desire to solve an interesting security problem of your own?\nThis course aims to give self motivated students an opportunity to complete a substantial research project or a large development project under the supervision of an academic member of the school and co-supervision of an industry expert as appropriate.\nInterested students are advised to contact and submit an expression of interest to potential supervisors and seek their approval to enrol well in advance of the start of term.",
+    "enrolmentConditions": "(COMP6441 OR COMP6841) AND (12 UOC from (COMP6443, COMP6843, COMP6445, COMP6845, COMP6447)) AND enrolled in final term of program",
+    "terms": [
+      "T1",
+      "T2",
+      "T3"
+    ]
+  },
+  {
+    "code": "COMP9312",
+    "title": "Data Analytics for Graphs",
+    "subject": "COMP",
+    "level": 9,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP9312.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/COMP9312",
+    "description": "Graphs are ubiquitous and are widely used to capture relationships between different entities in real-world applications. However, compared with traditional sequential data (e.g. text and audio), the unstructured property and the sparsity make processing big graphs very challenging. The course will introduce a series of data structures and algorithms for graph processing in terms of database (i.e., big data) and deep learning. Fundamental methods and the state-of-the-art research works will be integrated. The course will serve as a launching pad for those interested in graph analytics, big data processing and graph neural networks.\nData structures and algorithms are the building blocks of many complex systems and software. Certain fundamental graph algorithms such as Dijkstra's algorithm and depth-first search have been covered by many text books and compulsory courses. They may be discussed in terms of pseudocode and time complexity. This course will start from studying how to efficiently implement the fundamental algorithms in big graphs. Then, the course explores more challenging and more complex algorithms step-by-step. When dealing with big graphs, we may consider various scenarios such as external memory solutions, distributed solutions, multi-core solutions, etc.\nThe course also puts some attention to graph neural networks, which is a hotspot in the area of AI and deep learning. The course will not study theoretical details about machine learning and deep learning but just introduce several representative graph neural networks. The students will play with basic graph learning tasks and understand learning-based techniques for graph problems such as link prediction and node classification.",
+    "enrolmentConditions": "Prerequisite: COMP9024 and COMP9311.",
+    "terms": [
+      "T2",
+      "T3"
+    ]
+  },
+  {
+    "code": "COMP9313",
+    "title": "Big Data Management",
+    "subject": "COMP",
+    "level": 9,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP9313.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/COMP9313",
+    "description": "This course introduces the core concepts and technologies involved in managing Big Data. It will first introduce the characteristics of big data and big data analysis. Then, we will learn the open-source big data management framework Hadoop. We will mainly focus on Hadoop MapReduce programming. YARN, HDFS, HBase, and Hive will be briefly introduced as well. We will also learn an open-source memory-based distributed computing framework Spark. Another major focus of this course is algorithm design on large-scale data sets based on big data management frameworks, in various domains such as data stream mining, graph data processing, and finding similar items.",
+    "enrolmentConditions": "Prerequisite: COMP9024 and COMP9311",
+    "terms": [
+      "T2",
+      "T3"
+    ]
+  },
+  {
+    "code": "COMP9315",
+    "title": "Database Systems Implementation",
+    "subject": "COMP",
+    "level": 9,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP9315.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/COMP9315",
+    "description": "This course aims to introduce students to the detailed internal structure of database management systems (DBMSs) such as Oracle or SQL Server. DBMSs contain a variety of interesting data structures and algorithms that are also potentially useful outside the DBMS context; knowing about them is a useful way of extending your general programming background. While the focus is on relational DBMSs, given that they have the best-developed technological foundation, we will also consider more recent developments in the management of large data repositories.\nRelational DBMSs need to deal with a variety of issues: storage structures and management, implementation of relational operations, query optimisation, transactions, concurrency, recovery, security. The course will address most of these, along with a brief look at emerging database systems trends. The level of detail on individual topics will vary; some will be covered in significant detail, others will be covered relatively briefly.\nAn important aspect of this course is to give you a chance to explore the internals of a real DBMS: PostgreSQL. Lectures will discuss the general principles of how DBMSs are implemented, and will also illustrate them with examples from PostgreSQL where possible. Since DBMSs are very large pieces of software, it won't be possible to explore the entire PostgreSQL system in depth.",
+    "enrolmentConditions": "Prerequisite: COMP9024 and COMP9311.",
+    "terms": [
+      "T1"
+    ]
+  },
+  {
+    "code": "COMP9319",
+    "title": "Web Data Compression and Search",
+    "subject": "COMP",
+    "level": 9,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP9319.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/COMP9319",
+    "description": "As the amount of Web data increases, it is becoming vital to not only be able to search and retrieve this information quickly, but also to store it in a compact manner. This is especially important for mobile devices which are becoming increasingly popular. Without loss of generality, within this course, we assume Web data (excluding media content) will be in XML and its like (e.g., HTML, JSON).\nIf time allows, we may cover optional topics such as: streaming algorithms, text analytics, Web data optimization for mobile devices. The lecture materials will be complemented by two programming assignments and numerous tutorial-type, written exercises.",
+    "enrolmentConditions": "Prerequisite: COMP9024.",
+    "terms": [
+      "T2"
+    ]
+  },
+  {
+    "code": "COMP9321",
+    "title": "Data Services Engineering",
+    "subject": "COMP",
+    "level": 9,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP9321.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/COMP9321",
+    "description": "This course aims to introduce the student to core concepts and practical skills for engineering the data in Web-service-oriented data-driven applications. Specifically, the course aims to expose students to basic infrastructure for building data services on the Web, including techniques to access and ingest data in internal/external sources, develop software services to curate (e.g. extract, transform, correct, aggregate the data), develop services to apply various analytics and develop services to visualize the data to communicate effectively using data. The course uses the Python programming language as the practical basis for its modules. However, the concepts taught are universal and can be applied to any other web development language/framework.",
+    "enrolmentConditions": "Prerequisite: COMP9021 and COMP9311",
+    "terms": [
+      "T1",
+      "T3"
+    ]
+  },
+  {
+    "code": "COMP9334",
+    "title": "Capacity Planning of Computer Systems and Networks",
+    "subject": "COMP",
+    "level": 9,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP9334.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/COMP9334",
+    "description": "We live in a world that events do not happen instantly. It takes a certain amount of time to download a video from a server to your own mobile device. It takes a certain amount of time for a computer to finish the execution of an algorithm. The time to completion (or response time in performance analysis terminology) is a performance metric that computer scientists and computer engineers should be concerned about because no one wants to wait unnecessarily. If you can understand the factors that determine the response time, then you can influence those factors so that the response time becomes acceptable. This course will take a mathematical modelling and analytical approach to understand response time in computer systems and networks. The primary goal is to explore how mathematical modelling and mathematical methods can be used to model, analyse and design computer systems and networks so that they have good performance. There are three major topics that will be covered by this course:\n- Queuing analysis (Note: Queues are important because they give rise to waiting time.)\n- Discrete event simulation\n- Integer programming for network design",
+    "enrolmentConditions": "Prerequisite: COMP9021",
+    "terms": [
+      "T1"
+    ]
+  },
+  {
+    "code": "COMP9417",
+    "title": "Machine Learning",
+    "subject": "COMP",
+    "level": 9,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP9417.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/COMP9417",
+    "description": "Machine learning is the algorithmic approach to learning from data. The course also covers aspects of data mining, the application of machine learning to obtain insight from data. In this course machine learning algorithms are placed in the context of their theoretical foundations in order to understand their derivation and correct application. Machine learning also is an empirical science, where performance of algorithms must be rigorously evaluated on datasets. Completion of this course will contribute to further learning in advanced topics such as deep learning, bioinformatics, computer vision, and robotics. Topics covered in the course include: linear models for regression and classification, local methods (nearest neighbour), tree learning, kernel machines, neural networks, unsupervised learning, ensemble learning, and learning theory. To expand and extend the development of theory and algorithms presented in lectures, practical examples will be given in tutorials and programming tasks during the project.",
+    "enrolmentConditions": "Prerequisite: COMP9020 and COMP9024",
+    "terms": [
+      "T1",
+      "T2",
+      "T3"
+    ]
+  },
+  {
+    "code": "COMP9418",
+    "title": "Advanced Machine Learning",
+    "subject": "COMP",
+    "level": 9,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP9418.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/COMP9418",
+    "description": "This course presents an in-depth study of statistical machine learning approaches. It aims to provide the student with a solid understanding of methods for learning and inference in structured probabilistic models, with a healthy balance of theory and practice. It will cover topics on the semantics of direct and undirected representations in probabilistic graphical models, exact and approximate inference, and learning of model parameters and structure.\nIn this course, we will study a class of statistical inference models known as Probabilistic Graphical Models (PGMs). PGMs are a great example of how Computer Science and Statistics can work together. PGMs use graph data structures to represent domains with large amounts of variables and specialised algorithms for efficient inference over these graphical models. Therefore, PGMs have pushed the limits of probability theory to the scale and rate necessary to provide automated reasoning in modern AI systems.\nDuring this course, we will cover several graphical models, including Bayesian networks, Markov networks, Conditional Random Fields, Markov chains, Hidden Markov Models, Kalman Filters and Markov decision processes. We will have a clear understanding of how these models work as well as their main algorithms for inference and learning. We will also cover several algorithms used to learn parameters and make inferences such as Monte Carlo Markov Chains (MCMC), Gibbs Sampling, Viterbi and the Baum-Welch algorithms, among others.",
+    "enrolmentConditions": "Prerequisite: MATH5836 or COMP9417",
+    "terms": [
+      "T2"
+    ]
+  },
+  {
+    "code": "COMP9444",
+    "title": "Neural Networks and Deep Learning",
+    "subject": "COMP",
+    "level": 9,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP9444.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/COMP9444",
+    "description": "Neural networks and deep learning play a critical role in pushing the boundaries of what AI can achieve, making them indispensable for various industries and applications. Their ability to learn and adapt from data has revolutionised many fields and opened up new opportunities for solving complex problems. This course provides an introduction to and deep exploration of neural networks and deep learning principles and practice.\nTopics chosen from: perceptrons, feedforward neural networks, backpropagation, deep convolutional networks, image processing; geometric analysis of trained networks; recurrent networks, language processing, semantic analysis, long short term memory; deep reinforcement learning; autoencoders, generative models, adversarial training; designing successful applications of neural networks; recent developments in neural networks and deep learning.",
+    "enrolmentConditions": "Prerequisite: COMP9024.",
+    "terms": [
+      "T2",
+      "T3"
+    ]
+  },
+  {
+    "code": "COMP9447",
+    "title": "Security Engineering Workshop",
+    "subject": "COMP",
+    "level": 9,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP9447.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/COMP9447",
+    "description": "Applied workshop in an emerging area in cyber security. The course is supervised and taught by relevant academics and/or industry experts in the field. Areas vary depending on the availability of subject domain experts from time to time. Examples of relevant areas include: Cloud Security, Cryptanalysis on commercial products, mainframe security audit and penetration testing.",
+    "enrolmentConditions": "Prerequisite: COMP6441 or COMP6841 or COMP9441",
+    "terms": [
+      "T3"
+    ]
+  },
+  {
+    "code": "COMP9517",
+    "title": "Computer Vision",
+    "subject": "COMP",
+    "level": 9,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP9517.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/COMP9517",
+    "description": "Computer vision is the interdisciplinary scientific field that develops theories and methods allowing computers to extract high-level information from digital images or videos. From an engineering perspective it seeks to automate perceptual tasks normally performed by the human visual system. Generally, vision is difficult because it is an inverse problem, where only insufficient information is available about the objects of interest in the image data. Physics-based mathematical and statistical models as well as machine-learning methods are used to assist in the task. Current real-world applications are wide-ranging, and include optical character recognition, machine inspection, retail object recognition, 3D model building, remote sensing, medical imaging, autonomous driving, motion capture, surveillance, face recognition, biometrics, and many others. This course provides an introduction to fundamental concepts and an opportunity to develop a real-world application of computer vision.",
+    "enrolmentConditions": "Prerequisite: COMP9024",
+    "terms": [
+      "T1",
+      "T2",
+      "T3"
+    ]
+  },
+  {
+    "code": "COMP9727",
+    "title": "Recommender Systems",
+    "subject": "COMP",
+    "level": 9,
+    "uoc": 6,
+    "faculty": "Engineering",
+    "school": "School of Computer Sci & Eng",
+    "year": 2026,
+    "timetableUrl": "https://timetable.unsw.edu.au/2026/COMP9727.html",
+    "handbookUrl": "https://www.handbook.unsw.edu.au/Postgraduate/courses/2026/COMP9727",
+    "description": "Recommender systems are information filtering and search tools for providing personalized user interaction and navigation through a complex space of products or services. The aim is to address information overload by providing users with items that better meet their needs and support their decision making. Recommender systems are important commercial tools that are widely used by e-commerce and social media companies to drive sales and user engagement. This course will cover the basic types of recommender system, the main recommendation algorithms, and machine learning and natural language processing techniques used to support recommender systems.",
+    "enrolmentConditions": "Prerequisite: COMP9024 and COMP9020",
+    "terms": [
+      "T2"
+    ]
+  }
+]
