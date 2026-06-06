@@ -1,8 +1,21 @@
+import "dotenv/config";
+
 import { PrismaClient } from "@prisma/client";
+import { PrismaPg } from "@prisma/adapter-pg";
 import fs from "node:fs/promises";
 import path from "node:path";
 
-const prisma = new PrismaClient();
+if (!process.env.DATABASE_URL) {
+  throw new Error("DATABASE_URL is required to seed the database.");
+}
+
+const adapter = new PrismaPg({
+  connectionString: process.env.DATABASE_URL,
+});
+
+const prisma = new PrismaClient({
+  adapter,
+});
 
 type ScrapedCourse = {
   code: string;
@@ -19,6 +32,36 @@ type ScrapedCourse = {
   year: number;
   terms?: string[];
 };
+
+const OFFERING_BATCH_SIZE = 100;
+const COURSE_UPSERT_BATCH_SIZE = 10;
+
+function chunks<T>(items: T[], size: number) {
+  const result: T[][] = [];
+
+  for (let index = 0; index < items.length; index += size) {
+    result.push(items.slice(index, index + size));
+  }
+
+  return result;
+}
+
+function toCourseData(course: ScrapedCourse) {
+  return {
+    code: course.code,
+    title: course.title,
+    subject: course.subject,
+    level: course.level ?? null,
+    uoc: course.uoc ?? null,
+    faculty: course.faculty ?? null,
+    school: course.school ?? null,
+    description: course.description ?? null,
+    enrolmentConditions: course.enrolmentConditions ?? null,
+    handbookUrl: course.handbookUrl ?? null,
+    timetableUrl: course.timetableUrl ?? null,
+    year: course.year,
+  };
+}
 
 async function readCourses() {
   const dataDir = path.join(process.cwd(), "../../data/processed/2026");
@@ -47,72 +90,79 @@ async function readCourses() {
 async function main() {
   const courses = await readCourses();
 
-  for (const course of courses) {
-    const savedCourse = await prisma.course.upsert({
-      where: {
-        code: course.code,
-      },
-      update: {
-        title: course.title,
-        subject: course.subject,
-        level: course.level ?? null,
-        uoc: course.uoc ?? null,
-        faculty: course.faculty ?? null,
-        school: course.school ?? null,
-        description: course.description ?? null,
-        enrolmentConditions: course.enrolmentConditions ?? null,
-        handbookUrl: course.handbookUrl ?? null,
-        timetableUrl: course.timetableUrl ?? null,
-        year: course.year,
-      },
-      create: {
-        code: course.code,
-        title: course.title,
-        subject: course.subject,
-        level: course.level ?? null,
-        uoc: course.uoc ?? null,
-        faculty: course.faculty ?? null,
-        school: course.school ?? null,
-        description: course.description ?? null,
-        enrolmentConditions: course.enrolmentConditions ?? null,
-        handbookUrl: course.handbookUrl ?? null,
-        timetableUrl: course.timetableUrl ?? null,
-        year: course.year,
-      },
-    });
+  console.log(`Read ${courses.length} courses`);
 
-    const terms = course.terms ?? [];
+  for (const batch of chunks(courses, COURSE_UPSERT_BATCH_SIZE)) {
+    await Promise.all(
+      batch.map((course) => {
+        const data = toCourseData(course);
 
-    await prisma.courseOffering.deleteMany({
-      where: {
-        courseId: savedCourse.id,
-        year: course.year,
-        term: {
-          notIn: terms,
-        },
-      },
-    });
-
-    for (const term of terms) {
-      await prisma.courseOffering.upsert({
-        where: {
-          courseId_year_term: {
-            courseId: savedCourse.id,
-            year: course.year,
-            term,
+        return prisma.course.upsert({
+          where: {
+            code: course.code,
           },
-        },
-        update: {},
-        create: {
-          courseId: savedCourse.id,
-          year: course.year,
-          term,
-        },
-      });
-    }
+          create: data,
+          update: data,
+        });
+      }),
+    );
   }
 
-  console.log(`Seeded ${courses.length} courses`);
+  console.log("Upserted courses");
+
+  const savedCourses = await prisma.course.findMany({
+    where: {
+      code: {
+        in: courses.map((course) => course.code),
+      },
+    },
+    select: {
+      id: true,
+      code: true,
+    },
+  });
+  const courseIdsByCode = new Map(
+    savedCourses.map((course) => [course.code, course.id]),
+  );
+  const courseIds = savedCourses.map((course) => course.id);
+  const years = Array.from(new Set(courses.map((course) => course.year)));
+
+  const offerings = courses.flatMap((course) => {
+    const courseId = courseIdsByCode.get(course.code);
+
+    if (!courseId) {
+      throw new Error(`Course ${course.code} was not saved.`);
+    }
+
+    return (course.terms ?? []).map((term) => ({
+      courseId,
+      year: course.year,
+      term,
+    }));
+  });
+
+  await prisma.$transaction(async (tx) => {
+    await tx.courseOffering.deleteMany({
+      where: {
+        courseId: {
+          in: courseIds,
+        },
+        year: {
+          in: years,
+        },
+      },
+    });
+
+    for (const batch of chunks(offerings, OFFERING_BATCH_SIZE)) {
+      await tx.courseOffering.createMany({
+        data: batch,
+      });
+    }
+  });
+
+  console.log("Refreshed offerings");
+
+  console.log(`Seeded ${courses.length} courses and ${offerings.length} offerings`);
 }
 
 main()
